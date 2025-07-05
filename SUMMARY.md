@@ -6,6 +6,7 @@
 ## Trading
 
 * [🤝 About Trading](trading/about-trading.md)
+* [Trade Scores](trading/trade-scores.md)
 
 ***
 
