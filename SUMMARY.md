@@ -23,6 +23,7 @@
 ## Gameplay
 
 * [Daily Quests](gameplay/daily-quests.md)
+* [How to get lots of Bug Points](gameplay/how-to-get-lots-of-bug-points.md)
 
 ***
 
