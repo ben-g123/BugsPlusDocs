@@ -29,7 +29,6 @@
 ***
 
 * [Bug Point Shop](bug-point-shop.md)
-* [Page](page.md)
 
 ## BugSearch
 
