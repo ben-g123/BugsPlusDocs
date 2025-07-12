@@ -24,17 +24,12 @@
 
 * [Daily Quests](gameplay/daily-quests.md)
 * [How to get lots of Bug Points](gameplay/how-to-get-lots-of-bug-points.md)
+* [Material Exchange](gameplay/material-exchange.md)
 
 ***
 
 * [Bug Point Shop](bug-point-shop.md)
-
-## Bugs+ PIN <a href="#pin" id="pin"></a>
-
-* [Set a PIN](pin/set.md)
-* [Remove your PIN](pin/remove.md)
-* [Reset a forgotten PIN](pin/reset-a-forgotten-pin.md)
-* [Set a alternative PIN](pin/set-a-alternative-pin.md)
+* [Page](page.md)
 
 ## BugSearch
 
