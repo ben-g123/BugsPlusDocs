@@ -31,6 +31,13 @@
 
 * [Bug Point Shop](bug-point-shop.md)
 
+## Bugs+ PIN <a href="#pin" id="pin"></a>
+
+* [Set a PIN](pin/set.md)
+* [Remove your PIN](pin/remove.md)
+* [Reset a forgotten PIN](pin/reset-a-forgotten-pin.md)
+* [Set a alternative PIN](pin/set-a-alternative-pin.md)
+
 ## BugSearch
 
 * [Get started with BugSearch](bugsearch/get-started-with-bugsearch.md)
