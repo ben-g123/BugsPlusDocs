@@ -17,3 +17,11 @@ You can get more materials after or during quests, quizzes and other Bugs+ activ
 {% hint style="info" %}
 This article is still work in progress. It has not been trained to the AI Agent, so when we do, please make sure this notice is removed!
 {% endhint %}
+
+Below is a list of some useful exchanges you can make:
+
+| Item Name     | Description                                                                                   | Materials Needed |
+| ------------- | --------------------------------------------------------------------------------------------- | ---------------- |
+| Hint Receiver | Get up to 2 hints per item use in a single quiz. Works on most quizzes when the item is used. |                  |
+|               |                                                                                               |                  |
+|               |                                                                                               |                  |
