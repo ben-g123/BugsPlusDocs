@@ -20,3 +20,9 @@ The purpose of this is to make sure people don’t scam people but still get inf
 Some of the additional features include getting a verified trader badge that shows on your profile and in trades, the other person’s anti-scam is less likely to go off on your trades (but you will still see anti-scam alerts for other people you trade with), you can also trade high-end items like Ultra Legendary, and Limited items (and get access to trading Legendary items if not already unlocked), trade more items in trades, and more.
 
 Here is a list of most features you can get.
+
+| Feature Name | No License | Basic License |
+| ------------ | ---------- | ------------- |
+|              |            |               |
+|              |            |               |
+|              |            |               |
