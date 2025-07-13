@@ -21,6 +21,10 @@
 * [Gravatar Integration](bugid/gravatar.md)
 * [Guest Mode](bugid/guest-mode.md)
 
+***
+
+* [Submit a ban appeal](ban-appeal.md)
+
 ## Gameplay
 
 * [Daily Quests](gameplay/daily-quests.md)
