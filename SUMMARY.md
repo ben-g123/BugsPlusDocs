@@ -7,6 +7,7 @@
 
 * [🤝 About Trading](trading/about-trading.md)
 * [Trade Scores](trading/trade-scores.md)
+* [Unlock Advanced Trading Features with a Trading License](trading/advanced-features.md)
 
 ***
 
@@ -16,9 +17,9 @@
 ## BugID
 
 * [What is BugID?](bugid/what-is-bugid.md)
-* [Guest Mode](bugid/guest-mode.md)
 * [Bugs+ Rules](bugid/bugs+-rules.md)
 * [Gravatar Integration](bugid/gravatar.md)
+* [Guest Mode](bugid/guest-mode.md)
 
 ## Gameplay
 
