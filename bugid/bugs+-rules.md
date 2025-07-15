@@ -31,3 +31,7 @@ There are some rules and laws that we didn’t cover, but breaking those is stil
 [BugSearch](https://bugsplus.me/bugsearch) has different rules like the website indexing rules (and also follows Google’s terms of service since we have a partnership \[kinda but not really])
 
 We may update these rules and will notify you via Bugs+ of any changes. Failure to read the new rules and approve them will result in your account getting banned from Bugs+. (and all your data getting out of reach until we do a full review of your account)
+
+## Rule 6: Don’t cheat
+
+This is an educational game, please don’t cheat! This takes the learning away, and makes it unfair for everyone, so don‘t do it. If you accidentally find a glitch, it’s fine (unless you did it on purpose), but please try to undo the cheat or contact support and report the glitch. This includes trying to get infinite or unlimited Bug Points or Stars.
