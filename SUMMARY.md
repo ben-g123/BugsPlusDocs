@@ -41,6 +41,7 @@
 * [Remove your PIN](pin/remove.md)
 * [Reset a forgotten PIN](pin/reset-a-forgotten-pin.md)
 * [Set a alternative PIN](pin/set-a-alternative-pin.md)
+* [Configure PIN requirements](pin/configure-pin-requirements.md)
 
 ## BugSearch
 
