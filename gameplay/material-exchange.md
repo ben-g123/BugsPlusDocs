@@ -1,5 +1,6 @@
 ---
 description: Exchange materials for extra items!
+icon: right-left
 ---
 
 # Material Exchange
