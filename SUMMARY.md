@@ -57,6 +57,7 @@
 
 * [Bugs+ Demo](other/bugs+-demo.md)
 * [Using the Bugs+ Forum to report issues](other/using-the-bugs+-forum-to-report-issues.md)
+* [Change Settings](other/change-settings.md)
 
 ***
 
