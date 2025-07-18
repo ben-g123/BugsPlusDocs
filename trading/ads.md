@@ -13,7 +13,10 @@ And they are very small so they can help you find traders that actually want a t
 
 ## Change Trade Ads frequency
 
-It is possible to change the frequency of Trade Ads and remove Trade Ads altogether.
+It is possible to change the frequency of Trade Ads and remove Trade Ads altogether. The Trade Ads frequency configuration only applies to one device so logging out will clear the configuration. Here is how to do this:
+
+1. Go to the Settings tab (the gear icon)
+2. Press
 
 ## Other Info
 

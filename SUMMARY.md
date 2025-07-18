@@ -19,12 +19,11 @@
 
 * [What is BugID?](bugid/what-is-bugid.md)
 * [Bugs+ Rules](bugid/bugs+-rules.md)
-* [Gravatar Integration](bugid/gravatar.md)
-* [Guest Mode](bugid/guest-mode.md)
 
 ***
 
 * [Submit a ban appeal](ban-appeal.md)
+* [Guest Mode](guest-mode.md)
 
 ## Gameplay
 
@@ -35,6 +34,7 @@
 ***
 
 * [Bug Point Shop](bug-point-shop.md)
+* [Gravatar Integration](gravatar.md)
 
 ## Bugs+ PIN <a href="#pin" id="pin"></a>
 
