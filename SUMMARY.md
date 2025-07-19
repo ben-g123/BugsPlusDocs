@@ -22,6 +22,7 @@
 * [Bugs+ Rules](bugid/bugs+-rules.md)
 * [Friends List](bugid/friends-list.md)
 * [How do I merge my Guest Mode data to a BugID?](bugid/how-do-i-merge-my-guest-mode-data-to-a-bugid.md)
+* [Can I sync settings with Bugs+ Sync?](bugid/can-i-sync-settings-with-bugs+-sync.md)
 
 ***
 
@@ -33,6 +34,7 @@
 * [Daily Quests](gameplay/daily-quests.md)
 * [How to get lots of Bug Points](gameplay/how-to-get-lots-of-bug-points.md)
 * [Material Exchange](gameplay/material-exchange.md)
+* [What are all the names of the sidebar tabs in Bugs+](gameplay/what-are-all-the-names-of-the-sidebar-tabs-in-bugs+.md)
 
 ***
 
@@ -62,6 +64,7 @@
 * [Bugs+ Demo](other/bugs+-demo.md)
 * [Using the Bugs+ Forum to report issues](other/using-the-bugs+-forum-to-report-issues.md)
 * [Change Settings](other/change-settings.md)
+* [Contact Support](other/contact-support.md)
 
 ***
 

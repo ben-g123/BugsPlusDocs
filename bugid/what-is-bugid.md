@@ -5,7 +5,7 @@ icon: user
 
 # What is BugID?
 
-BugID is the account system Bugs+ uses to manage their user's accounts, allow Syncs to process, allow there to be A Bugs+ Admin Panel, allow trading, Community features and more! Creating and signing into a BugID is very simple and easy.
+BugID is the account system Bugs+ uses to manage their user's accounts, allow Syncs to process (this is called Bugs+ Sync, which makes real time backups so you can access Bugs+ on all your devices even when you loose your device) allow there to be A Bugs+ Admin Panel, lets the support members better help you, allow trading, Community features and more! Creating and signing into a BugID is very simple and easy.
 
 ## How to create a new BugID
 
