@@ -15,6 +15,8 @@ And they are very small so they can help you find traders that actually want a t
 
 Note that trader’s Trade Ads accounts must be approved with Level 1 Approval (anyone that is the Approver level or higher) if no other approval levels are automatically applied. If the Trade Ad contains text, it will need Level 2 approval (only Admins can approve) regardless of if the account has been approved or not. Also, trader‘s Trade Ads that usually set off the Enhanced anti-scam system, or users with a low trading score, it will also require Level 3 Approval which means only Super Admins can approve It.
 
+These are different to Anti-Scam levels, but Anti-Scam levels can also help decide the Trade Ads Approval Level other than only using it for Anti-Scam detection in trades.
+
 ## Change Trade Ads frequency
 
 It is possible to change the frequency of Trade Ads or remove Trade Ads altogether. The Trade Ads frequency configuration only applies to one device so logging out will clear the configuration. Here is how to do this:
