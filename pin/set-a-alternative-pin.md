@@ -5,7 +5,7 @@ icon: lock-keyhole
 
 # Set a alternative PIN
 
-Along with the PIN you already set, you can also have a second one that can also authenticate via the PIN screen. This is useful for sharing devices, and for other reasons as well.
+Along with the PIN you already set, you can also have a second one that can also authenticate via the PIN screen. This is useful for sharing devices (mostly the child having a PIN and the parent having a PIN), and for other reasons as well.
 
 Here is how to do this:
 
