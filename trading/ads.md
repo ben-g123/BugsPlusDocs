@@ -32,6 +32,13 @@ It is possible to change the frequency of Trade Ads or remove Trade Ads altogeth
 * Less Trade Ads Experience - Don’t want as many trade ads, but still find them a bit useful? With this Opt-in Experience, less trade ads will show. Your trade ads frequency will be changed to every 6 Load More clicks and showing on the first page as well, with less Middle page Ads.
 * Disable Trade Ads - This option will remove Trade Ads from the Trade Directory. However, users with a current Trade Ads campaign running will still show if they are chosen in the random order, but their displayed Trade Ad won’t show in the Trade Directory on your screen.
 
+## Create a Trade Ad
+
+If you want to create a new Trade Ad, you can follow the following steps to do so:
+
+* Open the Trading Tab (the handshake icon).
+* Press the Trade Ads button on the page.
+
 ## Other Info
 
-More information is coming soon, including how to setup a Trade Ad.
+More information is coming soon, including more info on managing Trade Ads.
