@@ -20,6 +20,7 @@
 
 * [What is BugID?](bugid/what-is-bugid.md)
 * [Bugs+ Rules](bugid/bugs+-rules.md)
+* [Friends List](bugid/friends-list.md)
 
 ***
 
