@@ -57,6 +57,17 @@ If you want to create a new Trade Ad, you can follow the following steps to do s
 * Choose the Ad Duration, how common the ad should be, and if it is chosen, if it should show at the top, middle or if it should choose a random position on the page each time. Note that you need to use Bug Points to publish the Trade Ad. The Bug Points price for publishing a Trade Ad will is based off the ad configuration (just like how the Shop items are chosen based off how good the item is and how rare it is). You can choose from trade ad durations as short as 3 Days and as long as 1 Month.
 * When you are ready, press Publish. It will also tell you if approval is needed. If it gets rejected, you will also get a Bug Points refund if it is not a major offense.
 
+## Cancel an ad that I manage
+
+If you no longer want a Trade Ad that you own to be displayed anymore, you can cancel it.
+
+* Open the Trading Tab (the handshake icon).
+* Press the Trade Ads button on the page. You can also open this by going to New Trade then Manage Trade Ads.
+* Press Manage & Create Trade Ads.
+* Select Manage a Trade Ad
+* Enter the Ad ID. It shows next to the Trade Ads on the Trade Ads list, and in the notification that your trade ad has been approved, rejected, published, or is pending review.
+* Press Cancel Ad
+
 ## Other Info
 
 More information is coming soon, including more info on managing Trade Ads.
