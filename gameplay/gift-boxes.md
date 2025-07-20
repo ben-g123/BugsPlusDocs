@@ -1,5 +1,5 @@
 ---
-description: Get gifts from Gift Boxes!
+description: Get gifts from Gift Boxes by progressing though the game!
 icon: gift
 ---
 
