@@ -36,6 +36,7 @@
 * [Material Exchange](gameplay/material-exchange.md)
 * [What are all the names of the sidebar tabs in Bugs+](gameplay/what-are-all-the-names-of-the-sidebar-tabs-in-bugs+.md)
 * [Quizzes](gameplay/quizzes.md)
+* [Collection](gameplay/collection.md)
 
 ***
 
