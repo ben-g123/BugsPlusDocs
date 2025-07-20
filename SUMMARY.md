@@ -61,7 +61,6 @@
 
 * [BugSearch For Publishers documentation](bugsearch-for-publishers-documentation/README.md)
   * [Supported Schema.org, meta tags and other markups with BugSearch](bugsearch-for-publishers-documentation/search-markup.md)
-* [Bugs+ Website](http://bugsplus.me/)
 
 ## Special Events <a href="#events" id="events"></a>
 
@@ -70,7 +69,9 @@
 ## Other
 
 * [Bugs+ Demo](other/bugs+-demo.md)
+* [Bugs+ Website](http://bugsplus.me/)
 * [Using the Bugs+ Forum to report issues](other/using-the-bugs+-forum-to-report-issues.md)
 * [Change Settings](other/change-settings.md)
 * [Contact Support](other/contact-support.md)
 * [Leaderboard](other/leaderboard.md)
+* [Bug Identification Tools](other/bug-identification-tools.md)

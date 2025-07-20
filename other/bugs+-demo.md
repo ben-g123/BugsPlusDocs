@@ -24,6 +24,6 @@ On the other hand, some feature are not found in the demo such as these: (note t
 
 * BugID linking. However you can link a new BugID when you transfer your data to the actual version.
 * Features related to BugID such as Trading with real players, friends lists and Bugs+ sync. These work on the actual version of Bugs+
-* Most features in the demo are ever capped, restricted, only shows a tutorial or not available, or not even visible. Do not rely on the demo to be able to play Bugs+ on mobile, since the demo will cap of completely or there is not much to learn after a while.
+* Most features that you find in Bugs+ are probably capped, restricted, only shows a tutorial or not available, or not even visible in the demo version. Do not rely on the demo to be able to play Bugs+ on mobile, since the demo will cap of completely or there is not much to learn after a while.
 
 If you need support with the demo, limited support is available. We don’t use the normal support model with the demo, since there is no option to link a BugID, but there is some support still. You also need to say that you are using the demo for support.
