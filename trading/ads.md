@@ -72,6 +72,8 @@ If you no longer want a Trade Ad that you own to be displayed anymore, you can c
 
 To further support the Trade Ad’s goal of Trading helping people look at the insect facts on the Trading Cards and learn more about bugs for both of the traders, we have Trade Ad Vouchers. This makes it easier for people to use Trading to learn more about bugs and help other people. This allows the user to display a Trade Ad for free and also allows the user to choose longer ad durations and more common rarities.
 
+These are usually received from quest rewards or giveaways, but you may also be able to get them from gift boxes that you unlock by progressing though the game alongside the other rewards in the gift boxes, if the gift boxes contains a Trade Ad voucher.
+
 ## Other Info
 
 More information is coming soon, including more info on managing Trade Ads.
