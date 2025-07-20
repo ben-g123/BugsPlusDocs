@@ -37,6 +37,7 @@
 * [What are all the names of the sidebar tabs in Bugs+](gameplay/what-are-all-the-names-of-the-sidebar-tabs-in-bugs+.md)
 * [Quizzes](gameplay/quizzes.md)
 * [Collection](gameplay/collection.md)
+* [Bug Catching Game](gameplay/bug-catching.md)
 
 ***
 
