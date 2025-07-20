@@ -21,7 +21,7 @@
 * [What is BugID?](bugid/what-is-bugid.md)
 * [Bugs+ Rules](bugid/bugs+-rules.md)
 * [Friends List](bugid/friends-list.md)
-* [How do I merge my Guest Mode data to a BugID?](bugid/how-do-i-merge-my-guest-mode-data-to-a-bugid.md)
+* [How do I merge my Guest Mode data to a BugID?](bugid/merge.md)
 * [Can I sync settings with Bugs+ Sync?](bugid/can-i-sync-settings-with-bugs+-sync.md)
 
 ***

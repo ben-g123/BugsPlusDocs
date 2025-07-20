@@ -1,3 +1,7 @@
+---
+icon: merge
+---
+
 # How do I merge my Guest Mode data to a BugID?
 
 You can merge your Guest Mode data without losing it by following the following steps:
