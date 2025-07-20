@@ -35,7 +35,7 @@
 * [How to get lots of Bug Points](gameplay/how-to-get-lots-of-bug-points.md)
 * [Material Exchange](gameplay/material-exchange.md)
 * [What are all the names of the sidebar tabs in Bugs+](gameplay/what-are-all-the-names-of-the-sidebar-tabs-in-bugs+.md)
-* [Page 1](gameplay/page-1.md)
+* [Quizzes](gameplay/quizzes.md)
 
 ***
 
