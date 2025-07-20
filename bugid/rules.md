@@ -2,6 +2,7 @@
 description: >-
   Follow these rules to protect your account so it doesn’t get banned, warned,
   deleted, globally locked or Trade-Banned
+icon: gavel
 ---
 
 # Bugs+ Rules
