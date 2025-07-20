@@ -38,6 +38,7 @@
 * [Quizzes](gameplay/quizzes.md)
 * [Collection](gameplay/collection.md)
 * [Bug Catching Game](gameplay/bug-catching.md)
+* [Gift Boxes](gameplay/gift-boxes.md)
 
 ***
 
