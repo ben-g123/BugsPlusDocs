@@ -68,6 +68,10 @@ If you no longer want a Trade Ad that you own to be displayed anymore, you can c
 * Enter the Ad ID. It shows next to the Trade Ads on the Trade Ads list, and in the notification that your trade ad has been approved, rejected, published, or is pending review.
 * Press Cancel Ad
 
+## Trade Ad Vouchers
+
+To further support the Trade Ad’s goal of Trading helping people look at the insect facts on the Trading Cards and learn more about bugs for both of the traders, we have Trade Ad Vouchers. This makes it easier for people to use Trading to learn more about bugs and help other people. This allows the user to display a Trade Ad for free and also allows the user to choose longer ad durations and more common rarities.
+
 ## Other Info
 
 More information is coming soon, including more info on managing Trade Ads.
