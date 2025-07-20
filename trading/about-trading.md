@@ -7,6 +7,8 @@ description: Learn more about Trading
 Trading is a feature in Bugs+ where people can exchange Bugs+ Trading Cards with other Bugs+ players with a BugID or with AI Bots. It can be found in the Trading tab (the Handshake icon).
 
 {% hint style="warning" %}
+### Beware Of Scams!
+
 Please be careful when trading. There could be scams, so please be aware of them. If you discover a scam, press the Report Scam button.
 {% endhint %}
 
