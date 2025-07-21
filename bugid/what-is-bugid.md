@@ -9,7 +9,7 @@ BugID is the account system Bugs+ uses to manage their user's accounts, allow Sy
 
 ## How to create a new BugID
 
-Firstly, go to [this page](https://bugid.au.auth0.com/authorize?response_type=token\&client_id=FIBmHyheCVOB2ztLlGPboxtaICsokYzh\&redirect_uri=https://sitesbyben.wixsite.com/bugsplus/) and scroll to the bottom of the page and press Sign up. Enter your email address and choose a username. The Phone Number is not necessary, but you can use it to login to your account. Press Sign up and confirm your email. Then, choose a secure password. There are password requirements so the system will detect if it is a good password or not.
+Firstly, go to [this page](https://bugid.au.auth0.com/authorize?response_type=token\&client_id=FIBmHyheCVOB2ztLlGPboxtaICsokYzh\&redirect_uri=https://sitesbyben.wixsite.com/bugsplus/) and scroll to the bottom of the page and press Sign up. Enter your email address and choose a username. The Phone Number is not necessary, but you can use it to login to your account. Press Sign up and confirm your email. Then, choose a secure password. There are password requirements so the system will detect if it is a good password or not. You will also be required to enable 2FA.
 
 ## After you login to BugID to Bugs+ vis the Webpage
 
