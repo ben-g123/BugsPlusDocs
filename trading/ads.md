@@ -48,13 +48,15 @@ If you want to create a new Trade Ad, you can follow the following steps to do s
 * Press the Trade Ads button on the page. You can also open this by going to New Trade then Manage Trade Ads.
 * Press Manage & Create Trade Ads.
 * Press New Trade Ad.
+* Select if you want to use Bug Points or use a [Trade Ad Voucher](ads.md#trade-a-d-vouchers).
 * Select an ad style and type from the list and then press Next.
 * If you want to add any text to your ad, feel free to add it. Note that this requires approval even if you already got approval before. The text for the small ad must be short, but on the Ad Info (when people click on Learn More or Send Trade Request on the Trade Ad) text can be longer.
 * You can also add a small trade items recommendation that appears when people want to Trade with the user who created the Trade Ad.
 * Choose a audience target. You can choose General Users, or Advanced Users. General allows anyone to see that ad, while Advanced Users mainly focuses on experienced users, but sometimes uses anyone.
 * Choose a ad name for your reference and for display. This will show when people click Learn More on the trade, and as small text on the small ad, and also shows when you go to the Ad Management screen.
 * At this point in the setup process, you can also take a moment to preview your Trade Ad.
-* Choose the Ad Duration, how common the ad should be, and if it is chosen, if it should show at the top, middle or if it should choose a random position on the page each time. Note that you need to use Bug Points to publish the Trade Ad. The Bug Points price for publishing a Trade Ad will is based off the ad configuration (just like how the Shop items are chosen based off how good the item is and how rare it is). You can choose from trade ad durations as short as 3 Days and as long as 1 Month.
+* Choose the Ad Duration, how common the ad should be (if you have use Trade Ad voucher, you can make it more common than the most common option), and if it is chosen, if it should show at the top, middle or if it should choose a random position on the page each time. Note that you need to use Bug Points to publish the Trade Ad. The Bug Points price for publishing a Trade Ad will is based off the ad configuration (just like how the Shop items are chosen based off how good the item is and how rare it is). You can choose from trade ad durations as short as 3 Days and as long as 1 Month. If you use a Trade Voucher, you can add as long as 2 Months.
+* The Bug Points price will be chosen. Make sure to review it and make sure if it is right. This won't show if you chose to use a Trade Ad Voucher.
 * When you are ready, press Publish. It will also tell you if approval is needed. If it gets rejected, you will also get a Bug Points refund if it is not a major offense.
 
 ## Cancel an ad that I manage
