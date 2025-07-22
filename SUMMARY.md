@@ -70,6 +70,11 @@
 
 * [Easter Event](events/easter.md)
 
+## AI
+
+* [BugAI](ai/bugai.md)
+* [Bug Identification Tools](ai/bug-identification-tools.md)
+
 ## Other
 
 * [Bugs+ Demo](other/bugs+-demo.md)
@@ -78,4 +83,3 @@
 * [Change Settings](other/change-settings.md)
 * [Contact Support](other/contact-support.md)
 * [Leaderboard](other/leaderboard.md)
-* [Bug Identification Tools](other/bug-identification-tools.md)
