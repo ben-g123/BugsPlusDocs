@@ -21,6 +21,8 @@ Note that trader’s Trade Ads accounts must be approved with Level 1 Approval (
 
 These are different to Anti-Scam levels, but Anti-Scam levels can also help decide the Trade Ads Approval Level other than only using it for Anti-Scam detection in trades.
 
+If your Trade Ad needs approval, the final result if the ad will be approved or rejected may take up to 7 days.
+
 ## Change Trade Ads frequency
 
 It is possible to change the frequency of Trade Ads or remove Trade Ads altogether. The Trade Ads frequency configuration only applies to one device so logging out will clear the configuration. Here is how to do this:
