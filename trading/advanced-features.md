@@ -5,6 +5,12 @@ icon: address-card
 
 # Unlock Advanced Trading Features with a Trading License
 
+{% hint style="info" %}
+### We are on to it!
+
+This feature is Coming Soon. Stay tuned! But in the meantime, you can learn more about what is feature is. We will be rolling this feature out to you soon - make stay to stay tuned!
+{% endhint %}
+
 Bugs+ also offers more features for Trading, not just the default set of features, so you can make the most of learning about insects, and help others.
 
 But unfortunately, there are scammers that abuse Trading in Bugs+. To help prevent this, we also have more anti-scam measures that include restricting access to some trading features.
