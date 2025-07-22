@@ -36,4 +36,6 @@ Currently, every person who is eligible to send a friend pass will get 3 Friend 
 
 If you give a Friend Pass, it must be claimed in 2 weeks time or else the friend pass will be returned to you.
 
-You can’t cancel a friend pass that you have given, but if it expires it will be cancelled for you,
+You can’t cancel a friend pass that you have given, but if it expires it will be cancelled for you.
+
+If your friend successfully claims your Friend Pass, you will get a random Trading Cards and 500 Bug Points as a thank you gift.
