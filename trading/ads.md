@@ -39,7 +39,7 @@ It is possible to change the frequency of Trade Ads or remove Trade Ads altogeth
 ## Create a Trade Ad
 
 {% hint style="info" %}
-Trade Ads must not be disabled to be able to create a Trade Ad.
+Trade Ads must not be disabled to be able to create a Trade Ad, since if others can see your trade ads, you should also be able to see other people's trade ads, so it is fair.
 {% endhint %}
 
 If you want to create a new Trade Ad, you can follow the following steps to do so:
