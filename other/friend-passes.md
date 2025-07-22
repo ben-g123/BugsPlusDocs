@@ -16,8 +16,11 @@ With friend passes, you can give a user that is new to Bugs+ a Gift Box and auto
 Currently, you need to follow the following requirements:
 
 * You must be level 75 or higher
+* You must have at least 65 Trading Cards at the time of reaching Level 75. If you did not reach that amount by that time, we will check again each level after that.
 
 You can create a friend pass by going to the Account tab and press Friend Passes. Then you can create a code or add a friend’s username.
+
+To know when you have unlocked it, you will get a notification.
 
 {% hint style="info" %}
 You can’t give a friend pass to yourself or a person who is not new to Bugs+. Also, the user who is claiming it needs a BugID.
