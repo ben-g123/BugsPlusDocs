@@ -11,4 +11,4 @@ Bugs+ is a free educational game (no general ads, however there is still small n
 
 ### Quick Start
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-user">:user:</i></td><td>What Is BugID?</td><td><a href="bugid/what-is-bugid.md">what-is-bugid.md</a></td></tr><tr><td><i class="fa-desktop-arrow-down">:desktop-arrow-down:</i></td><td>Bugs+ Setup</td><td><a href="bugs+-setup.md">bugs+-setup.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-user">:user:</i></td><td><strong>What Is BugID?</strong></td><td>Learn what BugID is and how to create one.</td><td><a href="bugid/what-is-bugid.md">what-is-bugid.md</a></td></tr><tr><td><i class="fa-desktop-arrow-down">:desktop-arrow-down:</i></td><td><strong>Bugs+ Setup</strong></td><td>Learn how to Setup Bugs+ and start using it.</td><td><a href="bugs+-setup.md">bugs+-setup.md</a></td></tr></tbody></table>
