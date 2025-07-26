@@ -25,6 +25,7 @@
 * [Can I sync settings with Bugs+ Sync?](bugid/can-i-sync-settings-with-bugs+-sync.md)
 * [2FA](bugid/2fa.md)
 * [Password Reset](bugid/password-reset.md)
+* [Privacy Notice](bugid/privacy.md)
 
 ***
 
