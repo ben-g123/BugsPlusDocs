@@ -10,3 +10,5 @@ icon: store
 When you use Bugs+ and learn more about Bugs and earn Bug Points, you can go to the more tab, then select the Shop and get trading cards and items using your Bug Points or Stars that you have unlocked.
 
 You can find it in the More tab (the 3 dots) then select Shop. Then, there will be options for trading cards, like the Random Legendary Card Set. After you choose one and use the Bug Points, it will appear in your Collection. If you get multiple, you can keep the multiple, that will be a backup for when you trade the card away.
+
+You can also use the arrows on the bottom of the Bug Point shop to change the page to the next page or the previous page to find more options to use your Bug Points on rather than only one page.

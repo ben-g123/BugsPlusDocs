@@ -11,7 +11,7 @@ icon: ticket
 Currently, you need to meet the requirement to be able to generate a friend pass. We will lower these requirements to only people who are not new can create one when we finsiht this, but currently we have requirements, read on to learn more.
 {% endhint %}
 
-With friend passes, you can give a user that is new to Bugs+ a Gift Box and automatically add them to your Friend list when they approve the Friend Pass.
+With friend passes, you can give a user that is new to Bugs+ a special Gift Box and automatically add them to your Friend list when they approve the Friend Pass. The user who is claiming it also has to not of claimed it before.
 
 Currently, you need to follow the following requirements:
 

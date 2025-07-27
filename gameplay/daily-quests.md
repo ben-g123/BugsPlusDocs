@@ -17,6 +17,8 @@ If you want to refresh the daily quests more than one time ina day, for example 
 
 You can use a **Daily Quests Refresher** item to get a new set of quests to do. You will unlock this item at level 35, and you will also get one of them as a gift at that level as well, and at level 40, 45, 50, and 55 you will get them as a gift additionally, and at events you may be able to get them. You can get them anytime at the Bug Points shop.
 
+There is a Daily Quests Refresher limit, which you can upgrade as well in one of the options in the Bug Point Shop so you can hold more Daily Quests Refreshers. The Daily Quest Refresher gifts from the level ups don’t count towards the limit.
+
 You can use that item via a button at the Daily Quests tab.
 
 The button looks like this:

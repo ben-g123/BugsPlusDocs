@@ -43,6 +43,8 @@
 * [Bug Catching Game](gameplay/bug-catching.md)
 * [Gift Boxes](gameplay/gift-boxes.md)
 * [Check your current Level & XP](gameplay/check-your-current-level-and-xp.md)
+* [Bugs+ Moth](gameplay/moth.md)
+* [Notifications](gameplay/notifications.md)
 
 ***
 
