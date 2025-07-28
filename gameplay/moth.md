@@ -52,8 +52,7 @@ Bugs+ Moth is the ultimate feature-first upgrade package for Bugs+. Access every
 
 The Bug Points price for Bugs+ Moth Basic is currently:
 
-* 1150 Bug Points for 1 month of Bugs+ Moth Basic
-* 3075 Bug Points for 3 months of Bugs+ Moth Basic
+* The price is currently being decided
 
 The Features Include:
 
