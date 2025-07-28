@@ -38,6 +38,41 @@ The Features Include:
 
 <i class="fa-calendar-days">:calendar-days:</i> 1 Extra Daily Quests Slot
 
+<i class="fa-gem">:gem:</i> Get a small boost in Special Events
+
+<i class="fa-ticket">:ticket:</i> 1 Extra Friend Pass Every Month
+
+<i class="fa-bluesky">:bluesky:</i> Special Bugs+ Moth Badge where your username appears
+
+<i class="fa-sparkles">:sparkles:</i> More AI Power - 10 AI Uses in one session instead of 6
+
+### Bugs+ Moth
+
+Bugs+ Moth is the ultimate feature-first upgrade package for Bugs+. Access every Bugs+ Moth feature and get the ultimate Bugs+ experience.
+
+The Bug Points price for Bugs+ Moth Basic is currently:
+
+* 1150 Bug Points for 1 month of Bugs+ Moth Basic
+* 3075 Bug Points for 3 months of Bugs+ Moth Basic
+
+The Features Include:
+
+<i class="fa-calendar-days">:calendar-days:</i> 1 Extra Daily Quests Slot
+
+<i class="fa-gem">:gem:</i> Get a small boost in Special Events
+
+<i class="fa-ticket">:ticket:</i> 2 Extra Friend Passes Every Month
+
+<i class="fa-bluesky">:bluesky:</i> Special Bugs+ Moth Badge where your username appears
+
+<i class="fa-sparkles">:sparkles:</i> More AI Power - 10 AI Uses in one session instead of 6
+
+<i class="fa-wifi-slash">:wifi-slash:</i> Access Bugs+ Offline without Wi-Fi<sup>+</sup>
+
+<i class="fa-clock-rotate-left">:clock-rotate-left:</i> 2 Trial Passes Which Lets You Give A 14 Day Free Trial To Friends<sup>\*</sup>
+
+<sup>+</sup> Changes will sync when you have internet \* Not available during the free trial
+
 ## 7 Day Bugs+ Moth Free Trial
 
 You can try Bugs+ Moth or Bugs+ Moth Basic free for 7 Days, no Bug Points required. This is a one time offer so you can’t claim it again after you first claim the trial, regardless of what tier you chose, unless there is a special event that gives free trials. You can claim your free trial by going to the More tab (the 3 dots), then press Bug Point Shop, press Bugs+ Moth Packages, then choose a package that you want to test out, then press Try It With A 7 Day Free Trial.
