@@ -87,3 +87,4 @@
 * [Contact Support](other/contact-support.md)
 * [Leaderboard](other/leaderboard.md)
 * [Friend Passes](other/friend-passes.md)
+* [Parent Verify](other/parent-verify.md)
