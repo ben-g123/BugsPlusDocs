@@ -10,4 +10,4 @@ Then, after you downloaded it, move it to the Applications folder (or similar, i
 
 It will be setup after that, but you can still change settings later.
 
-You can use Bugs+ on MacOS, Windows and Linux. Bugs+ is not availble on mobile, but you can still create a BugID and reset it’s password. You can access the Demo on Mobile & Computer.
+You can use Bugs+ on MacOS, Windows and Linux. Bugs+ is not availble on mobile, but you can still create a BugID and reset it’s password.
