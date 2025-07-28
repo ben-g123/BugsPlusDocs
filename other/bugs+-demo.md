@@ -2,6 +2,8 @@
 description: >-
   Try a limited version of Bugs+ in your browser before you download it with a
   demo
+hidden: true
+noIndex: true
 ---
 
 # Bugs+ Demo
