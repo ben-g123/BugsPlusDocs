@@ -16,6 +16,28 @@ Bugs+ Moth is an recurring upgrade for Bugs+ where you can get additonal feature
 
 There is different tiers, that includes Bugs+ Moth, and a low-end solution with less features called Bugs+ Moth Basic.
 
+## Available Bugs+ Moth Tiers
+
+Here are the current Bugs+ Moth tiers available, the descriptions and the features:
+
+* Bugs+ Moth Basic
+* Bugs+ Moth
+
+Here are the features of those packages:
+
+### Bugs+ Moth Basic
+
+Bugs+ Moth Basic is a cheaper low-tier version of Bugs+ Moth. Access additional features to help boost your learning with Bugs+, and get more Daily Quests, all by paying less Bug Points.
+
+The Bug Points price for Bugs+ Moth Basic is currently:
+
+* 1150 Bug Points for 1 month of Bugs+ Moth Basic
+* 3075 Bug Points for 3 months of Bugs+ Moth Basic
+
+The Features Include:
+
+<i class="fa-calendar-days">:calendar-days:</i> 1 Extra Daily Quests Slot
+
 ## 7 Day Bugs+ Moth Free Trial
 
 You can try Bugs+ Moth or Bugs+ Moth Basic free for 7 Days, no Bug Points required. This is a one time offer so you can’t claim it again after you first claim the trial, regardless of what tier you chose, unless there is a special event that gives free trials. You can claim your free trial by going to the More tab (the 3 dots), then press Bug Point Shop, press Bugs+ Moth Packages, then choose a package that you want to test out, then press Try It With A 7 Day Free Trial.
