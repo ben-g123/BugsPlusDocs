@@ -46,6 +46,8 @@ The Features Include:
 
 <i class="fa-sparkles">:sparkles:</i> More AI Power - 10 AI Uses in one session instead of 6
 
+<i class="fa-users-between-lines">:users-between-lines:</i>  35 Friends Limit instead of a standard 25 Friends Limit
+
 ### Bugs+ Moth
 
 Bugs+ Moth is the ultimate feature-first upgrade package for Bugs+. Access every Bugs+ Moth feature and get the ultimate Bugs+ experience.
@@ -58,17 +60,21 @@ The Features Include:
 
 <i class="fa-calendar-days">:calendar-days:</i> 1 Extra Daily Quests Slot
 
-<i class="fa-gem">:gem:</i> Get a small boost in Special Events
+<i class="fa-gem">:gem:</i> Get a medium-sized boost in Special Events
 
 <i class="fa-ticket">:ticket:</i> 2 Extra Friend Passes Every Month
 
 <i class="fa-bluesky">:bluesky:</i> Special Bugs+ Moth Badge where your username appears
 
-<i class="fa-sparkles">:sparkles:</i> More AI Power - 10 AI Uses in one session instead of 6
+<i class="fa-sparkles">:sparkles:</i> More AI Power - 21 AI Uses in one session instead of 10
 
 <i class="fa-wifi-slash">:wifi-slash:</i> Access Bugs+ Offline without Wi-Fi<sup>+</sup>
 
 <i class="fa-clock-rotate-left">:clock-rotate-left:</i> 2 Trial Passes Which Lets You Give A 14 Day Free Trial To Friends<sup>\*</sup>
+
+<i class="fa-users-between-lines">:users-between-lines:</i> 50 Friends Limit instead of a standard 25 Friends Limit
+
+<i class="fa-square-user">:square-user:</i> Upgrade Your Profile With Backgrounds, Profile Pic Frames and Other Tools
 
 <sup>+</sup> Changes will sync when you have internet \* Not available during the free trial
 
