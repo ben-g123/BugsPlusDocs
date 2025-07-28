@@ -46,7 +46,7 @@ The Features Include:
 
 <i class="fa-sparkles">:sparkles:</i> More AI Power - 10 AI Uses in one session instead of 6
 
-<i class="fa-users-between-lines">:users-between-lines:</i>  35 Friends Limit instead of a standard 25 Friends Limit
+<i class="fa-users-between-lines">:users-between-lines:</i> 35 Friends Limit instead of a standard 25 Friends Limit
 
 ### Bugs+ Moth
 
@@ -72,11 +72,11 @@ The Features Include:
 
 <i class="fa-clock-rotate-left">:clock-rotate-left:</i> 2 Trial Passes Which Lets You Give A 14 Day Free Trial To Friends<sup>\*</sup>
 
-<i class="fa-users-between-lines">:users-between-lines:</i> 50 Friends Limit instead of a standard 25 Friends Limit
+<i class="fa-users-between-lines">:users-between-lines:</i> 50 Friends Limit instead of a standard 25 Friends Limit<sup>=</sup>
 
 <i class="fa-square-user">:square-user:</i> Upgrade Your Profile With Backgrounds, Profile Pic Frames and Other Tools
 
-<sup>+</sup> Changes will sync when you have internet \* Not available during the free trial
+<sup>+</sup> Changes will sync when you have internet \* Not available during the free trial = If you need more than 50 Friends, Bugs+ Moth (not Bugs+ Moth Basic) offers bundle packs each in a 10 Friends upgrade increment, with the first bundle pack starting from 500 Bug Points. The price (only for the Friends bundle packs, nothing else) will increment by 250 each upgrade. If you cancel the subscription, your money from the bundles will be refunded (not the Bugs+ Moth) and the bundle packs will be undone.
 
 ## 7 Day Bugs+ Moth Free Trial
 
