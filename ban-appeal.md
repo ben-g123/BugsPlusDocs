@@ -17,3 +17,7 @@ Here are some steps to appeal a ban via the ban screen:
 We will review your request soon. You can see updates by using the appeal code and tracking it on Account Status & Appeals. If you don‘t get an update or you want to re-appeal, submit another appeal via Account Status & Appeals or use Support instead.
 
 Make sure to provide as much information as possible.
+
+## Appeal on behalf of your child
+
+If you setup a Kids Account for your child, you can appeal on behalf of your child. You only need to click on the "Appeal This Punishment On Behalf Of My Child" button in the email that they got a punishment and fill out the form for them.
