@@ -1,13 +1,16 @@
 ---
 description: >-
   Follow these rules to protect your account so it doesn’t get banned, warned,
-  deleted, globally locked or Trade-Banned
+  deleted, globally locked, Fine Noticed (forced to pay Bug Points or else get
+  banned) or Trade-Banned
 icon: gavel
 ---
 
 # Bugs+ Rules
 
 At Bugs+ we made some rules that people need to follow or else moderation actions will be taken against them. We want to share these rules with you to protect your account from random bans and punishments.
+
+You can find out what rule you broke by seeing the ban notice, warning notice, or notification. If you don't get a popup, check the Notification Bell.
 
 Rules Last updated: July 29 2025
 
