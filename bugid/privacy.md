@@ -14,4 +14,10 @@ If you setup an account for a user under 12 years old, a email will be sent to t
 
 You can switch to a private (friends only can see your profile and trade with you) or a public profile (anyone can see your profile, choose who can trade with you) by following the following steps:
 
-*
+* Open the Account tab (the person icon)
+* Press Account Settings
+* Press Account Privacy
+* Press Private Profile
+* Choose a Private or Public profile
+
+Parents can also force a Private Profile on their kid account under 12 years old by revoking the Public Profile right.
