@@ -11,3 +11,7 @@ We aim to keep your data secure, and you can request an export via Bugs+ support
 We will only access or/and edit some non-personal-identifying information for the purpose of helping you in support cases and fighting abuse and spam only.
 
 If you setup an account for a user under 12 years old, a email will be sent to the parent’s email with a link to verify that a parent is involved and is creating a account for their child rather than the child creating it for themselves. (they will also need to provide additional proof), and manage what features are available. This is a secure service that is provided by Kids Web Services,  integrated into Bugs+. This will also be covered by their privacy policy for verification.
+
+You can switch to a private (friends only can see your profile and trade with you) or a public profile (anyone can see your profile, choose who can trade with you) by following the following steps:
+
+*
