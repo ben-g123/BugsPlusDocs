@@ -41,4 +41,4 @@ This is an educational game, please don’t cheat! This takes the learning away,
 
 ## Rule 7: Choose The Right Age
 
-Make sure to choose the right age of the main account user when you signup, instead of your age (unless you are the main account user). Failure to do so will result in Bans. You will get 2 opportunities when you choose the age to choose the right one. You can't change this without support if you choose Over 12.
+Make sure to choose the right age of the main account user when you signup, instead of your age (unless you are the main account user). Failure to do so will result in Bans. You will get 3 opportunities when you choose the age to choose the right one. You can't change this without support if you choose Over 12.
