@@ -58,7 +58,7 @@ The Bug Points price for Bugs+ Moth Basic is currently:
 
 The Features Include:
 
-<i class="fa-calendar-days">:calendar-days:</i> 1 Extra Daily Quests Slot
+<i class="fa-calendar-days">:calendar-days:</i> 2 Extra Daily Quests Slots
 
 <i class="fa-gem">:gem:</i> Get a medium-sized boost in Special Events
 
