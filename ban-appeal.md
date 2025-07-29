@@ -18,6 +18,6 @@ We will review your request soon. You can see updates by using the appeal code a
 
 Make sure to provide as much information as possible.
 
-## Appeal on behalf of your child
+## Appeal a ban or punishment on behalf of your child
 
 If you setup a Kids Account for your child, you can appeal on behalf of your child. You only need to click on the "Appeal This Punishment On Behalf Of My Child" button in the email that they got a punishment and fill out the form for them.
