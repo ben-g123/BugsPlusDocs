@@ -1,10 +1,14 @@
 # Parent Verify
 
-If the child using a BugID is under 12, they will need a parent to verify that they are allowed to use Bugs+, using ID or Face Scan. This service is powered by Kids Web Services.
+If the child using a BugID is under 12, they will need a parent to verify that they are allowed to use Bugs+, using ID or Face Scan. This service is powered by Kids Web Services. The parent will get an email with the link to start verification.
+
+Parents will also get notifications if the child did wrong things on Bugs+, with the chance to appeal on behalf of them.
 
 This can be delayed by one day by pressing Maybe Later. After that it will be forced.
 
 To add and revoke rights for your child (permissions, like trading with real players and more), go to https://bugsplus.me/parent-portal (COMING SOON) and follow the steps there.
+
+If you already verifed using that email on another platform, or used it for another Bugs+ Kids Account with Kids Web Services technology, you can skip needing to verify and just need to click on one link in your email.
 
 {% hint style="info" %}
 ### Need Help?

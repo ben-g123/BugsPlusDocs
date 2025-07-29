@@ -10,7 +10,7 @@ icon: gavel
 
 At Bugs+ we made some rules that people need to follow or else moderation actions will be taken against them. We want to share these rules with you to protect your account from random bans and punishments.
 
-You can find out what rule you broke by seeing the ban notice, warning notice, or notification. If you don't get a popup, check the Notification Bell. If you still need help, contact Bugs+ Support (bugsplus.me/support).
+You can find out what rule you broke by seeing the ban notice, warning notice, or notification. If you don't get a popup, check the Notification Bell. If you still need help, contact Bugs+ Support (bugsplus.me/support). You can appeal with a link in the alert or ban screen.
 
 Rules Last updated: July 29 2025
 
