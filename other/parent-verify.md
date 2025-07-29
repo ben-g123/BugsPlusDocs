@@ -2,4 +2,16 @@
 
 If the child using a BugID is under 12, they will need a parent to verify that they are allowed to use Bugs+, using ID or Face Scan. This service is powered by Kids Web Services.
 
-To add and revoke rights for your child (permissions, like trading with real players and more), go to http://bugsplus.me/parent-portal (COMING SOON) and follow the steps there.
+To add and revoke rights for your child (permissions, like trading with real players and more), go to https://bugsplus.me/parent-portal (COMING SOON) and follow the steps there.
+
+{% hint style="info" %}
+### Need Help?
+
+If you received a Parent Verification email and you are sure it is not from your children, please file us an alert at https://bugsplus.me/support and we will investigate.
+{% endhint %}
+
+{% hint style="warning" %}
+### Please provide the right age
+
+Please make sure to enter the correct age for your child. Failure to do so will get your child's acount banned and it is illegal to provide the wrong age. Please contact support at https://bugsplus.me/support if you accidentally provided the wrong age, or need help doing the verification methods.
+{% endhint %}
