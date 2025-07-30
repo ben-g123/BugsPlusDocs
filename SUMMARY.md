@@ -79,6 +79,10 @@
 * [BugAI](ai/bugai.md)
 * [Bug Identification Tools](ai/bug-identification-tools.md)
 
+## Bugs+ Earn <a href="#earn" id="earn"></a>
+
+* [Bugs+ Earn](earn/bugs-plus-earn.md)
+
 ## Other
 
 * [Bugs+ Website](http://bugsplus.me/)
