@@ -48,6 +48,8 @@ The Features Include:
 
 <i class="fa-users-between-lines">:users-between-lines:</i> 35 Friends Limit instead of a standard 25 Friends Limit
 
+<i class="fa-piggy-bank">:piggy-bank:</i> Save 10 Bug Points for most items in the shop
+
 ### Bugs+ Moth
 
 Bugs+ Moth is the ultimate feature-first upgrade package for Bugs+. Access every Bugs+ Moth feature and get the ultimate Bugs+ experience.
@@ -75,6 +77,8 @@ The Features Include:
 <i class="fa-users-between-lines">:users-between-lines:</i> 50 Friends Limit instead of a standard 25 Friends Limit<sup>=</sup>
 
 <i class="fa-square-user">:square-user:</i> Upgrade Your Profile With Backgrounds, Profile Pic Frames and Other Tools
+
+<i class="fa-piggy-bank">:piggy-bank:</i> Save 20 Bug Points for most items in the shop
 
 <sup>+</sup> Changes will sync when you have internet \* Not available during the free trial = If you need more than 50 Friends, Bugs+ Moth (not Bugs+ Moth Basic) offers bundle packs each in a 10 Friends upgrade increment, with the first bundle pack starting from 500 Bug Points. The price (only for the Friends bundle packs, nothing else) will increment by 250 each upgrade. If you cancel the subscription, your money from the bundles will be refunded (not the Bugs+ Moth) and the bundle packs will be undone.
 
