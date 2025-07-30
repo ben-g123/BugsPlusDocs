@@ -26,6 +26,7 @@
 * [2FA](bugid/2fa.md)
 * [Password Reset](bugid/password-reset.md)
 * [Privacy Notice](bugid/privacy.md)
+* [Change BugID Account Birthdate](bugid/change-bugid-account-birthdate.md)
 
 ***
 

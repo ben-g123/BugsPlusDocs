@@ -8,7 +8,9 @@ This can be delayed by one day by pressing Maybe Later. After that it will be fo
 
 To add and revoke rights for your child (permissions, like trading with real players and more), go to https://bugsplus.me/parent-portal (COMING SOON) and follow the steps there.
 
-If you already verifed using that email on another platform, or used it for another Bugs+ Kids Account with Kids Web Services technology, you can skip needing to verify and just need to click on one link in your email.
+If you already verified using that email on another platform, or used it for another Bugs+ Kids Account with Kids Web Services technology, you can skip needing to verify and just need to click on one link in your email.
+
+After verifying, the parent can set a Parent PIN. This cannot be changed after setting it without the help of Bugs+ support (https://bugsplus.me/support). This parent PIN is only needed to perform actions on the device relating to parental controls and won’t affect the parent portal access (which uses email links instead). An example of this is changing the birthdate for the BugID.
 
 {% hint style="info" %}
 ### Need Help?
@@ -19,5 +21,5 @@ If you received a Parent Verification email and you are sure it is not from your
 {% hint style="warning" %}
 ### Please provide the right age
 
-Please make sure to enter the correct age for your child. Failure to do so will get your child's acount banned and it is illegal to provide the wrong age. Please contact support at https://bugsplus.me/support if you accidentally provided the wrong age, or need help doing the verification methods.
+Please make sure to enter the correct age for your child. Failure to do so will get your child's acount banned and it is illegal to provide the wrong age. Please contact support at https://bugsplus.me/support if you accidentally provided the wrong age, or need help doing the verification methods.&#x20;
 {% endhint %}
