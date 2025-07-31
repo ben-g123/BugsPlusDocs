@@ -50,6 +50,8 @@ The Features Include:
 
 <i class="fa-piggy-bank">:piggy-bank:</i> Save 10 Bug Points for most items in the shop
 
+<i class="fa-shield-plus">:shield-plus:</i> Includes Bugs+ Defender Basic, a way to better see account security insights
+
 ### Bugs+ Moth
 
 Bugs+ Moth is the ultimate feature-first upgrade package for Bugs+. Access every Bugs+ Moth feature and get the ultimate Bugs+ experience.
@@ -81,6 +83,8 @@ The Features Include:
 <i class="fa-piggy-bank">:piggy-bank:</i> Save 20 Bug Points for most items in the shop
 
 <i class="fa-circle-dollar">:circle-dollar:</i> Earn Bug Points by simply helping other people with Bugs+ Earn<sup>\* since people have abused this in the trial version</sup>
+
+<i class="fa-shield-plus">:shield-plus:</i> Includes Bugs+ Defender Pro, a way to better see account security insights
 
 <sup>+</sup> Changes will sync when you have internet \* Not available during the free trial = If you need more than 50 Friends, Bugs+ Moth (not Bugs+ Moth Basic) offers bundle packs each in a 10 Friends upgrade increment, with the first bundle pack starting from 500 Bug Points. The price (only for the Friends bundle packs, nothing else) will increment by 250 each upgrade. If you cancel the subscription, your money from the bundles will be refunded (not the Bugs+ Moth) and the bundle packs will be undone. # The account’s age must be at least 9 years old to use this feature
 

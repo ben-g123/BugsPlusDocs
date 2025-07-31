@@ -5,3 +5,4 @@ icon: shield-check
 
 # Bugs+ Defender
 
+With Bugs+ Defender you can get protected from hackera and do a antivirus scan on your BugID and Bugs+ application.
