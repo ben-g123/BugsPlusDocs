@@ -92,3 +92,4 @@
 * [Leaderboard](other/leaderboard.md)
 * [Friend Passes](other/friend-passes.md)
 * [Parent Verify](other/parent-verify.md)
+* [Bugs+ Defender](other/bugs+-defender.md)
