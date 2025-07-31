@@ -13,6 +13,8 @@ This feature is included with a [moth.md](../gameplay/moth.md "mention") subscri
 
 Bugs+ Earn is a special program that allows you to earn Bug Points by simply helping other people with insects and confirming data to make the data up-to-date. It is exclusive to Bugs+ Moth. The data provided may be featured either publicly or privately or not at all based on data quality.
 
+Currently, Bugs+ Earn is the only Bugs+ Earn earning program. In the future, we will make other earning programs for Bugs+ Earn.
+
 ## Payouts
 
 You could earn up to 1700 Bug Points in a single task. Instant payouts are eligible for people providing helpful data continuously. You can get a Instant Payout for payouts up to 800 Bug Points. Payouts (not instant ones) could pend for up to 2 days before being approved.
