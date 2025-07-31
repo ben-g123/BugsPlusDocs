@@ -36,3 +36,13 @@ Go to the More tab (the 3 dots) and click Bugs+ Earn to find your Bugs+ Earn das
 <i class="fa-comments-question-check">:comments-question-check:</i> Answer other people's questions about Insects
 
 <i class="fa-message-pen">:message-pen:</i> Provide feedback about trading cards and make helpful edit requests
+
+## What approval statuses are there?
+
+Here are the screening question approval statuses:
+
+<i class="fa-circle-pause">:circle-pause:</i> <mark style="color:$info;">**Not Started**</mark> - This means that the user has not done the Screening Questions
+
+<i class="fa-spinner-scale">:spinner-scale:</i> <mark style="color:purple;">**Pending**</mark> - This means that the user has started, but still needs to do the Screening Questions
+
+<i class="fa-clock-rotate-left">:clock-rotate-left:</i> <mark style="color:orange;">**Review Requested**</mark> - This means you have submitted the Screening Questions but the Bugs+ Admins still need to review it
