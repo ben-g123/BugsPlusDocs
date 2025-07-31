@@ -20,3 +20,17 @@ You could earn up to 1700 Bug Points in a single task. Instant payouts are eligi
 ## Screening Questions
 
 Before you can start earning, you need to do 3 screening questions to verify that you follow the rules. You won't earn Bug Points the screening questions but if accepted by a Bugs+ Admin, you will be able to do more tasks and start earning Bug Points.
+
+## Find the Bugs+ Earn Dashboard
+
+Go to the More tab (the 3 dots) and click Bugs+ Earn to find your Bugs+ Earn dashboard.
+
+## What types of tasks are there?
+
+<i class="fa-calendar-exclamation">:calendar-exclamation:</i> Update outdated data, and confirm existing data
+
+<i class="fa-sd-card">:sd-card:</i> Help with descriptions for upcoming Trading Cards
+
+<i class="fa-comments-question-check">:comments-question-check:</i> Answer other people's questions about Insects
+
+<i class="fa-message-pen">:message-pen:</i> Provide feedback about trading cards and make helpful edit requests

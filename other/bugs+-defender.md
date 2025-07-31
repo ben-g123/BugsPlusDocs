@@ -15,3 +15,4 @@ There are several editions available.
 * **Bugs+ Defender Basic** - Included with Bugs+ Moth Basic
 * **Bugs+ Defender Pro** - Included with Bugs+ Moth
 
+## What does Bugs+ Defender check for?
