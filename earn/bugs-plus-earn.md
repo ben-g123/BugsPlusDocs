@@ -15,4 +15,4 @@ Bugs+ Earn is a special program that allows you to earn Bug Points by simply hel
 
 ## Payouts
 
-You could earn up to 1700 Bug Points in a single task. Instant payouts are eligible for people providing helpful data continuously. You can get a Instant Payout for payouts up to 800 Bug Points.
+You could earn up to 1700 Bug Points in a single task. Instant payouts are eligible for people providing helpful data continuously. You can get a Instant Payout for payouts up to 800 Bug Points. Payouts (not instant ones) could pend for up to 2 days before being approved.
