@@ -5,4 +5,4 @@ icon: shield-check
 
 # Bugs+ Defender
 
-With Bugs+ Defender you can get protected from hackera and do a antivirus scan on your BugID and Bugs+ application.
+Bugs+ Defender is a feature in Bugs+ where you can get protected from hackers in Bugs+ and do a antivirus scan on your BugID and Bugs+ application, all with a security Dashboard.
