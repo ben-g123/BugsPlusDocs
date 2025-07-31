@@ -45,4 +45,6 @@ Here are the screening question approval statuses:
 
 <i class="fa-spinner-scale">:spinner-scale:</i> <mark style="color:purple;">**Pending**</mark> - This means that the user has started, but still needs to do the Screening Questions
 
-<i class="fa-clock-rotate-left">:clock-rotate-left:</i> <mark style="color:orange;">**Review Requested**</mark> - This means you have submitted the Screening Questions but the Bugs+ Admins still need to review it
+<i class="fa-clock-rotate-left">:clock-rotate-left:</i> <mark style="color:yellow;">**Review Requested**</mark> - This means you have submitted the Screening Questions but the Bugs+ Admins still need to review it
+
+<i class="fa-circle-xmark">:circle-xmark:</i> <mark style="color:red;">**Rejected - Low Quality**</mark> - This means that the admins has rejected the request because it does not meet our quality requirements
