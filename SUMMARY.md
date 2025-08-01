@@ -84,6 +84,10 @@
 
 * [Bugs+ Earn](earn/bugs-plus-earn.md)
 
+## Admin Tips
+
+* [Page 1](admin-tips/page-1.md)
+
 ## Other
 
 * [Bugs+ Website](http://bugsplus.me/)
