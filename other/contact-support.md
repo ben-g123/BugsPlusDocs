@@ -10,4 +10,4 @@ Approximate support wait times:
 
 <i class="fa-laptop-mobile">:laptop-mobile:</i> **Community Support (example: forum posting)** - 3 days to 8 days wait
 
-<i class="fa-sparkles">:sparkles:</i> **AI Support** - Instant
+<i class="fa-sparkles">:sparkles:</i> **AI Support** - Instant responses, but the downside is that they can’t perform actions on behalf of you and the answers may be incorrect or outdated.
