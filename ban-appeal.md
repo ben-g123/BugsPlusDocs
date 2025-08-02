@@ -1,6 +1,6 @@
 ---
 description: >-
-  Want to be unbanned from BugsC or you want a punishment removed from your
+  Want to be unbanned from Bugs+ or you want a punishment removed from your
   BugID? Then this article is for you!
 icon: hammer
 ---
@@ -8,6 +8,8 @@ icon: hammer
 # Submit a ban appeal
 
 To submit a ban appeal in Bugs+, you can use Account Status & Appeals. It appears on the ban, trade ban, warning or punishment page you have received. You can also contact [Bugs+ Support](http://bugsplus.me/support) to appeal the ban, but please try using Account Status & Appeals First.
+
+Any punishment and any duration of a punishment can be appealed.
 
 Here are some steps to appeal a ban via the ban screen:
 
@@ -31,3 +33,9 @@ If it is before the 9 months, use the usual appeal steps. If it has been 9 month
 ## Appeal a ban or punishment on behalf of your child
 
 If you setup a Kids Account for your child, you can appeal on behalf of your child. You only need to click on the "Appeal This Punishment On Behalf Of My Child" button in the email that they got a punishment and fill out the form for them.
+
+## Other info
+
+This is what the ban screen looks like:
+
+<figure><img src=".gitbook/assets/Image 24-4-2025 at 12.33 pm.jpeg" alt=""><figcaption></figcaption></figure>
