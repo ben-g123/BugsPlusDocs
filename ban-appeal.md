@@ -18,13 +18,15 @@ Here are some steps to appeal a ban via the ban screen:
 
 We will review your request soon. You can see updates by using the appeal code and tracking it on Account Status & Appeals. If you don‘t get an update or you want to re-appeal, submit another appeal via Account Status & Appeals or use Support instead.
 
+You also can‘t logout of Bugs+ if your account is in the banned state.
+
 Make sure to provide as much information as possible.
 
 From the time of getting a punishment, you have have 9 months to appeal our decisions. If you don’t appeal, your punishment will still be on our records. If it was a permanent ban or punishment, then you can no longer appeal.
 
 ### What if I am permanently banned or punished in or from Bugs+? How can I appeal if it has been 9 months?
 
-If it is before the 9 months, use the usual appeal steps. If it has been 9 months, then you can no longer submit appeals that will be considered. However, some appeal reasons is eligible to “revive” your account by getting it unbanned, simply by using the Reports System at [https://bugsplusreports.byethost7.com/reports-system/open.php](https://bugsplusreports.byethost7.com/reports-system/open.php) then go to the drop down and select Account Revival Requests. Make sure to note down the ticket number or use an account so you can easily access the final decision. If you don’t get a response, ping Bugs+ Support at http://bugsplus.me/support and also if you can, note down the ticket number.
+If it is before the 9 months, use the usual appeal steps. If it has been 9 months, then you can no longer submit appeals that will be considered. However, some appeal reasons is eligible to “revive” your account by getting it unbanned, simply by using the Reports System at [https://bugsplusreports.byethost7.com/reports-system/open.php](https://bugsplusreports.byethost7.com/reports-system/open.php) then go to the drop down and select Account Revival Requests. Make sure to note down the ticket number or use an account so you can easily access the final decision. If you don’t get a response, ping Bugs+ Support at http://bugsplus.me/support and also if you can, note down the ticket number. The final decision is final so if you get rejected you can no longer use Bugs+. You will still be able to submit another revival request after 4 months.
 
 ## Appeal a ban or punishment on behalf of your child
 
