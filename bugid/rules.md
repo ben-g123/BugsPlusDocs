@@ -12,7 +12,11 @@ At Bugs+ we made some rules that people need to follow or else moderation action
 
 You can find out what rule you broke by seeing the ban notice, warning notice, or notification. If you don't get a popup, check the Notification Bell. If you still need help, contact Bugs+ Support (bugsplus.me/support). You can appeal with a link in the alert or ban screen.
 
-Rules Last updated: July 29 2025
+Our rules are regularly updated, and we have transparency on when we last update our rules. Transparency statusboard:
+
+<i class="fa-calendar-days">:calendar-days:</i> **Rules Last Updated**: August 2 2025
+
+<i class="fa-rectangle-history">:rectangle-history:</i> **Latest Change Summary**: Adding Game Modding to the list of cheats
 
 ## Rule 1: No Swearing
 
@@ -40,7 +44,7 @@ We may update these rules and will notify you via Bugs+ of any changes. Failure 
 
 ## Rule 6: Don’t cheat
 
-This is an educational game, please don’t cheat! This takes the learning away, and makes it unfair for everyone, so don‘t do it. If you accidentally find a glitch, it’s fine (unless you did it on purpose), but please try to undo the cheat or contact support and report the glitch. This includes trying to get infinite or unlimited Bug Points or Stars.
+This is an educational game, please don’t cheat! This takes the learning away, and makes it unfair for everyone, so don‘t do it. If you accidentally find a glitch, it’s fine (unless you did it on purpose), but please try to undo the cheat or contact support and report the glitch. This includes trying to get infinite or unlimited Bug Points or Stars. This includes game modding.
 
 ## Rule 7: Choose The Right Age
 
