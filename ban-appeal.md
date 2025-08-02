@@ -1,5 +1,7 @@
 ---
-description: Want to be unbanned from Bugs+? Then this article is for you!
+description: >-
+  Want to be unbanned from BugsC or you want a punishment removed from your
+  BugID? Then this article is for you!
 icon: hammer
 ---
 
@@ -17,6 +19,12 @@ Here are some steps to appeal a ban via the ban screen:
 We will review your request soon. You can see updates by using the appeal code and tracking it on Account Status & Appeals. If you don‘t get an update or you want to re-appeal, submit another appeal via Account Status & Appeals or use Support instead.
 
 Make sure to provide as much information as possible.
+
+From the time of getting a punishment, you have have 9 months to appeal our decisions. If you don’t appeal, your punishment will still be on our records. If it was a permanent ban or punishment, then you can no longer appeal.
+
+### What if I am permanently banned or punished in or from Bugs+? How can I appeal if it has been 9 months?
+
+If it is before the 9 months, use the usual appeal steps. If it has been 9 months, then you can no longer submit appeals that will be considered. However, some appeal reasons is eligible to “revive” your account by getting it unbanned, simply by using the Reports System at [https://bugsplusreports.byethost7.com/reports-system/open.php](https://bugsplusreports.byethost7.com/reports-system/open.php) then go to the drop down and select Account Revival Requests. Make sure to note down the ticket number or use an account so you can easily access the final decision. If you don’t get a response, ping Bugs+ Support at http://bugsplus.me/support and also if you can, note down the ticket number.
 
 ## Appeal a ban or punishment on behalf of your child
 
