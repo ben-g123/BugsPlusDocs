@@ -24,7 +24,7 @@ You also can‘t logout of Bugs+ if your account is in the banned state.
 
 Make sure to provide as much information as possible.
 
-From the time of getting a punishment, you have have 9 months to appeal our decisions. If you don’t appeal, your punishment will still be on our records. If it was a permanent ban or punishment, then you can no longer appeal. If the ban is before the 9 months, you have unlimited appeals, but if you misuse the appeals system we may revoke your access to the built-in Account Status & Appeals system or delete your BugID or globally lock your BugID (global lock means you can’t sign in).
+From the time of getting a punishment, you have have 9 months to appeal our decisions. If you don’t appeal, your punishment will still be on our records. If it was a permanent ban or punishment, then you can no longer appeal. If the ban is before the 9 months, you have unlimited appeals, but if you misuse the appeals system we may revoke your access to the built-in Account Status & Appeals system or delete your BugID or globally lock your BugID (global lock means you can’t sign in). This gives you time to share your opinions without delays between appeals and without a limit during that timeframe. Beyond that time, compared to normal appeals, you only get a very limited amount of revivals and a long wait between revivals.
 
 ### What if I am permanently banned or punished in or from Bugs+? How can I appeal if it has been 9 months?
 
