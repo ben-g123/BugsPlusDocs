@@ -35,9 +35,9 @@ Go to the More tab (the 3 dots) and click Bugs+ Earn to find your Bugs+ Earn das
 
 <i class="fa-sd-card">:sd-card:</i> Help with descriptions for upcoming Trading Cards
 
-<i class="fa-comments-question-check">:comments-question-check:</i> Answer other people's questions about Insects
+<i class="fa-comments-question-check">:comments-question-check:</i> Answer other people's questions about Insects. If there is a off topic or inappropriate question that you have found, then you can report it at the Reports System or Bugs+ Support.
 
-<i class="fa-message-pen">:message-pen:</i> Provide feedback about trading cards and make helpful edit requests
+<i class="fa-message-pen">:message-pen:</i> Provide feedback about trading cards and make helpful edit requests. You don’t need Bugs+ Earn to make edit requests (since you can use Bugs+ Support), but with it you can suggest edits and also earn Bug Points from your helpful edit requests.
 
 ## What approval statuses are there?
 
@@ -51,8 +51,15 @@ Here are the screening question approval statuses:
 
 <i class="fa-circle-xmark">:circle-xmark:</i> <mark style="color:red;">**Rejected - Low Quality**</mark> - This means that the admins has rejected the request because it does not meet our quality requirements
 
-<i class="fa-circle-xmark">:circle-xmark:</i> <mark style="color:red;">**Rejected - User Too New**</mark> - This means that the admins has rejected the request because the user is too new to use Bugs+ Earn. The minimum amount of time on Bugs+ required to apply for Bugs+ Earn is 1 month and 12 days
+<i class="fa-circle-xmark">:circle-xmark:</i> <mark style="color:red;">**Rejected - User Too New**</mark> - This means that the admins has rejected the request because the user is too new to use Bugs+ Earn. The minimum amount of time on Bugs+ required to apply for Bugs+ Earn is 1 month and 12 days. You can do the screening questions and submit them when you are too new, but its very rare that you will get accepted
 
 <i class="fa-hexagon-xmark">:hexagon-xmark:</i> <mark style="color:red;">**Rejected - Bugs+ Rules Violation**</mark> - This means that the admins has rejected the request because the response the user gave breaks the Bugs+ Rules, and additional action may be taken
 
 <i class="fa-square-check">:square-check:</i> <mark style="color:green;">**Accepted**</mark> - This means that the application has been approved and the user can use Bugs+ Earn.
+
+## Appeal Our Decision
+
+If you get the Rejected status in Bugs+ Earn, then you have 2 choices. Here are the choices you can use to get another go so you may be able to get access to Bugs+ Earn.
+
+* <i class="fa-gavel">:gavel:</i> **Submit an Appeal** - You can either go to the Account tab (the person icon) then press Account Status & Appeals and appeal it there or contact Bugs+ Support at https://bugsplus.me/support and appeal it. You can also go to one of those tabs by going to the Bugs+ Earn interface and pressing Appeal.
+* <i class="fa-arrow-rotate-left">:arrow-rotate-left:</i> **Redo the Screening Questions** - You can also redo the  screening questions and provide better answers this time. You have unlimited attempts, but continuously failing the screening questions with extremely low quality can result in punishments.
