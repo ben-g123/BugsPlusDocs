@@ -10,12 +10,9 @@
 * [Unlock Advanced Trading Features with a Trading License](trading/advanced-features.md)
 * [Trade Ads](trading/ads.md)
 * [Change the Anti-Scam level](trading/change-the-anti-scam-level.md)
-* [Report A Player](trading/report-a-player.md)
-
-***
-
-* [Report Scams In Bugs+](scam-report.md)
-* [Trading Interface](trading-interface.md)
+* [Trading Interface](trading/interface.md)
+* [Report A Player](trading/player-report.md)
+* [Report Scams In Bugs+](trading/report.md)
 
 ## BugID
 
