@@ -76,6 +76,8 @@ The Features Include:
 
 <i class="fa-wifi-slash">:wifi-slash:</i> Access Bugs+ Offline without Wi-Fi<sup>+</sup>
 
+<i class="fa-star">:star:</i> Get 8 Stars each month to help you in Bugs+<sup>\*</sup>
+
 <i class="fa-clock-rotate-left">:clock-rotate-left:</i> 2 Trial Passes Which Lets You Give A 14 Day Free Trial To Friends<sup>\*</sup>
 
 <i class="fa-users-between-lines">:users-between-lines:</i> 50 Friends Limit instead of a standard 25 Friends Limit<sup>=</sup>
