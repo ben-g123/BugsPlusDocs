@@ -84,6 +84,8 @@ The Features Include:
 
 <i class="fa-square-user">:square-user:</i> Upgrade Your Profile With Backgrounds, Profile Pic Frames and Other Tools<sup># since little Kids may misuse this feature</sup>
 
+<i class="fa-rectangle-history">:rectangle-history:</i> Unlock 4 slots to save profile changes so you can easily apply them later
+
 <i class="fa-piggy-bank">:piggy-bank:</i> Save 20 Bug Points for most items in the shop
 
 <i class="fa-circle-dollar">:circle-dollar:</i> Earn Bug Points by simply helping other people with Bugs+ Earn<sup>\* since people have abused this in the trial version</sup>

@@ -44,6 +44,7 @@
 * [Notifications](gameplay/notifications.md)
 * [Bug Point Shop](bug-point-shop.md)
 * [Gravatar Integration](gravatar.md)
+* [Badges](gameplay/badges.md)
 
 ## Bugs+ PIN <a href="#pin" id="pin"></a>
 
