@@ -15,7 +15,7 @@ Bugs+ Earn is a special program that allows you to earn Bug Points by simply hel
 
 Currently, Bugs+ Earn is the only Bugs+ Earn earning program. In the future, we will make other earning programs for Bugs+ Earn.
 
-Bugs+ Earn also provides a version for notable people in the Bugs+ community, called Bugs+ Earn Community Edition. The difference is that it does not require a active Bugs+ Moth subscription which makes it easier to get points toward Bugs+ Moth.
+Bugs+ Earn also provides a version for notable people in the Bugs+ community, called Bugs+ Earn Community Edition. The difference is that it does not require a active Bugs+ Moth subscription which makes it easier to get points toward Bugs+ Moth and other things you can get with Bug Points and you can get higher payouts and higher instant payouts.
 
 ## Payouts
 
@@ -50,3 +50,9 @@ Here are the screening question approval statuses:
 <i class="fa-clock-rotate-left">:clock-rotate-left:</i> <mark style="color:yellow;">**Review Requested**</mark> - This means you have submitted the Screening Questions but the Bugs+ Admins still need to review it
 
 <i class="fa-circle-xmark">:circle-xmark:</i> <mark style="color:red;">**Rejected - Low Quality**</mark> - This means that the admins has rejected the request because it does not meet our quality requirements
+
+<i class="fa-circle-xmark">:circle-xmark:</i> <mark style="color:red;">**Rejected - User Too New**</mark> - This means that the admins has rejected the request because the user is too new to use Bugs+ Earn. The minimum amount of time on Bugs+ required to apply for Bugs+ Earn is 1 month and 12 days
+
+<i class="fa-hexagon-xmark">:hexagon-xmark:</i> <mark style="color:red;">**Rejected - Bugs+ Rules Violation**</mark> - This means that the admins has rejected the request because the response the user gave breaks the Bugs+ Rules, and additional action may be taken
+
+<i class="fa-square-check">:square-check:</i> <mark style="color:green;">**Accepted**</mark> - This means that the application has been approved and the user can use Bugs+ Earn.
