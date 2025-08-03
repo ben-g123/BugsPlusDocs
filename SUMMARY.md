@@ -27,12 +27,10 @@
 * [2FA](bugid/2fa.md)
 * [Password Reset](bugid/password-reset.md)
 * [Privacy Notice](bugid/privacy.md)
-* [Change BugID Account Birthdate](bugid/change-bugid-account-birthdate.md)
-
-***
-
-* [Submit a ban appeal](ban-appeal.md)
-* [Guest Mode](guest-mode.md)
+* [Change BugID Account Birthdate](bugid/birthdate.md)
+* [Bugs+ Rules Strikes](bugid/strikes.md)
+* [Submit a ban appeal](bugid/appeal.md)
+* [Guest Mode](bugid/guest-mode.md)
 
 ## Gameplay
 
@@ -47,11 +45,8 @@
 * [Check your current Level & XP](gameplay/check-your-current-level-and-xp.md)
 * [Bugs+ Moth](gameplay/moth.md)
 * [Notifications](gameplay/notifications.md)
-
-***
-
-* [Bug Point Shop](bug-point-shop.md)
-* [Gravatar Integration](gravatar.md)
+* [Bug Point Shop](gameplay/shop.md)
+* [Gravatar Integration](gameplay/gravatar.md)
 
 ## Bugs+ PIN <a href="#pin" id="pin"></a>
 
