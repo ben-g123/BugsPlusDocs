@@ -28,6 +28,7 @@
 * [Bugs+ Rules Strikes](bugid/strikes.md)
 * [Submit a ban appeal](ban-appeal.md)
 * [Guest Mode](guest-mode.md)
+* [Change Username](bugid/change-username.md)
 
 ## Gameplay
 

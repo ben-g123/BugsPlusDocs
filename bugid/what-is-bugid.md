@@ -11,6 +11,6 @@ BugID is the account system Bugs+ uses to manage their user's accounts, allow Sy
 
 Firstly, go to [this page](https://bugid.au.auth0.com/authorize?response_type=token\&client_id=FIBmHyheCVOB2ztLlGPboxtaICsokYzh\&redirect_uri=https://sitesbyben.wixsite.com/bugsplus/) and scroll to the bottom of the page and press Sign up. Enter your email address and choose a username. The Phone Number is not necessary, but you can use it to login to your account. Press Sign up and confirm your email. Then, choose a secure password. There are password requirements so the system will detect if it is a good password or not. You will also be required to enable 2FA.
 
-## After you login to BugID to Bugs+ vis the Webpage
+## After you login to BugID to Bugs+ via the Webpage
 
 You will get a screen saying you need to press a button. Press it then return to Bugs+ and press “I’ve Logged Into Bugs+”. The system will check your account details from the button press on the webpage to check what account it is and what account to login to. Then, you can start using Bugs+ with a BugID.

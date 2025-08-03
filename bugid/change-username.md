@@ -1,0 +1,5 @@
+# Change Username
+
+You can change your username by going to the Account tab (the person icon) and pressing Account Settings and pressing Account Details then press Change Username. Then choose a reason and set a new username. You can change your username for different reasons, like, General Reasons, Privacy Reasons and Change Capitalization. General Reasons lets you instantly change your username. You get one free username change that does not refill, after that, you need to pay a certain amount of Bug Stars. The price may vary. General Reasons username changes are logged and can be viewed on the profile. Privacy Reasons, requires approval, but is always free and is not logged. Change Capitalization is always free and instant, but you can only change the capitalization. Capitalization changes only show at some areas on Bugs+, otherwise the username may only show lowercase.
+
+You can also edit your display name that only shows on your profile alongside your username. You can change your display name by going to the Account tab (the person icon) and pressing Account Settings and pressing Account Details then press Display Name.
