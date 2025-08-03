@@ -2,7 +2,7 @@
 description: >-
   Follow these rules to protect your account so it doesn’t get banned, warned,
   deleted, globally locked, Fine Noticed (forced to pay Bug Points or else get
-  banned) or Trade-Banned
+  banned, usually within 1-30d) or Trade-Banned
 icon: gavel
 ---
 
