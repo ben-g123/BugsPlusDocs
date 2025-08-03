@@ -7,7 +7,7 @@ icon: g
 
 Since the release of Bugs+, you can link your Gravatar Bio to your profile and get extra features for your profile, like a opportunity for people looking at your profile to learn more about you at your Gravatar page, filling out fields on the profile like display name, and getting an “avatar” to use in Bugs+. (which is not possible in the UI without Gravatar)
 
-It also will sync to other services that integrate Gravatar like Wordpress.com.
+It also will sync to other selected services that integrate Gravatar like Wordpress.com and some other ones, not only Bugs+ and your Gravatar Bio.&#x20;
 
 ## Setting up your Gravatar page
 

@@ -38,4 +38,4 @@ If you setup a Kids Account for your child, you can appeal on behalf of your chi
 
 This is what the ban screen looks like:
 
-<figure><img src="../.gitbook/assets/Image 24-4-2025 at 12.33 pm.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Image 24-4-2025 at 12.33 pm.jpeg" alt=""><figcaption></figcaption></figure>
