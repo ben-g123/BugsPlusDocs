@@ -9,7 +9,7 @@ icon: hand-wave
 
 Bugs+ is a free educational game (no general ads, however there is still small not annoying ads in the trade directory that start a trade request with a specific user, those are called Trade Ads!) about Insects & Bugs. There is also trading cards that you can unlock by getting points and using them at the bug point shop. There are also quizzes, AI and info about bugs. Bugs+’s account system is called BugID. You can also trade with friends, real people, and AI Bots. There is also an easter event. There are also notifications. I am the main Super Admin. Super Admin is an admin, but it has more powers. There may be multiple admins. There is also a Bugs+ Forum & Issue Tracker. There is also bug identification in the More tab (the three dots,) where you can upload a bug image, and it will identify the bug. There are much more features as well. There are also Insect Facts.
 
-<i class="fa-building-user">:building-user:</i> _Bugs+ HQ Location_: **It is in a table in The Hub at City Vista Ct, Fraser Rise VIC 3336 (Springside West). It should also have a sign in one of the tables.**
+<i class="fa-building-user">:building-user:</i> _Bugs+ HQ Location_: **It is in a table in The Hub at City Vista Ct, Fraser Rise VIC 3336 (Springside West). It should also have a sign in one of the tables. Access only to students and teachers/staff of Springside West.**
 
 {% @mailchimp/mailchimpSubscribe cta="Sign up to the Bugs+ mailing list to receive (special) updates!" %}
 
