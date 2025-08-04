@@ -13,6 +13,7 @@
 * [Trading Interface](trading/interface.md)
 * [Report A Player](trading/player-report.md)
 * [Report Scams In Bugs+](trading/report.md)
+* [Trading Cards Reseller](trading/trading-cards-reseller.md)
 
 ## BugID
 
