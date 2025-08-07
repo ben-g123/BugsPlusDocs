@@ -94,3 +94,4 @@
 * [Friend Passes](other/friend-passes.md)
 * [Parent Verify](other/parent-verify.md)
 * [Bugs+ Defender](other/bugs+-defender.md)
+* [Bugs+ Coding Studio](other/bugs+-coding-studio.md)
