@@ -17,6 +17,8 @@ Currently, Bugs+ Earn is the only Bugs+ Earn earning program. In the future, we 
 
 Bugs+ Earn also provides a version for notable people in the Bugs+ community, called Bugs+ Earn Community Edition. The difference is that it does not require a active Bugs+ Moth subscription which makes it easier to get points toward Bugs+ Moth and other things you can get with Bug Points and you can get higher payouts and higher instant payouts.
 
+We are also working on multiple levels so you can start earning earlier then build up the Bugs+ earn features.
+
 ## Payouts
 
 You could earn up to 1700 Bug Points in a single task. Instant payouts are eligible for people providing helpful data continuously. You can get a Instant Payout for payouts up to 800 Bug Points. Payouts (not instant ones) could pend for up to 2 days before being approved.
