@@ -11,7 +11,7 @@ Bugs+ is a free educational game (no general ads, however there is still small n
 
 <i class="fa-youtube">:youtube:</i> **Youtube Channel**: [https://www.youtube.com/@BugsPlus?sub\_confirmation=1](https://www.youtube.com/@BugsPlus?sub_confirmation=1)
 
-<i class="fa-building-user">:building-user:</i> _Bugs+ HQ Location_: **In The Metaverse At** [**https://worlds.viverse.com/RknmoSp**](https://worlds.viverse.com/RknmoSp)**. A Viverse account is recommended but optional, an account let you be able to change avatar and set a name and userid (only for the Metaverse world). This is different to BugID. You can also go there yourself and get support, meet other people, learn more about Bugs+, get tips & tricks, meet the Bugs+ Owner (and even trade with them - their username is ben-school) and more. It used to be a table at The Hub at Springside West.**
+<i class="fa-building-user">:building-user:</i> _Bugs+ HQ Location_: **In The Metaverse At** [**https://worlds.viverse.com/Nyw4WnX**](https://worlds.viverse.com/Nyw4WnX)**. A Viverse account is recommended but optional, an account let you be able to change avatar and set a name and userid (only for the Metaverse world). This is different to BugID. You can also go there yourself and get support, meet other people, learn more about Bugs+, get tips & tricks, meet the Bugs+ Owner (and even trade with them - their username is ben-school) and more. It used to be a table at The Hub at Springside West.**
 
 {% @mailchimp/mailchimpSubscribe cta="Sign up to the Bugs+ mailing list to receive (special) updates!" %}
 
