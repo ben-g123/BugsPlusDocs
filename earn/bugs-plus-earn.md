@@ -17,8 +17,6 @@ Currently, Bugs+ Earn is the only Bugs+ Earn earning program. In the future, we 
 
 Bugs+ Earn also provides a version for notable people in the Bugs+ community, called Bugs+ Earn Community Edition. The difference is that it does not require a active Bugs+ Moth subscription which makes it easier to get points toward Bugs+ Moth and other things you can get with Bug Points and you can get higher payouts and higher instant payouts.
 
-We are also working on multiple levels so you can start earning earlier then build up the Bugs+ earn features.
-
 ## Payouts
 
 You could earn up to 1700 Bug Points in a single task. Instant payouts are eligible for people providing helpful data continuously. You can get a Instant Payout for payouts up to 800 Bug Points. Payouts (not instant ones) could pend for up to 2 days before being approved.
@@ -53,7 +51,7 @@ Here are the screening question approval statuses:
 
 <i class="fa-circle-xmark">:circle-xmark:</i> <mark style="color:red;">**Rejected - Low Quality**</mark> - This means that the admins has rejected the request because it does not meet our quality requirements
 
-<i class="fa-circle-xmark">:circle-xmark:</i> <mark style="color:red;">**Rejected - User Too New**</mark> - This means that the admins has rejected the request because the user is too new to use Bugs+ Earn. The minimum amount of time on Bugs+ required to apply for Bugs+ Earn is 1 month and 12 days. You can do the screening questions and submit them when you are too new, but its very rare that you will get accepted
+<i class="fa-circle-xmark">:circle-xmark:</i> <mark style="color:red;">**Rejected - User Too New**</mark> - This means that the admins has rejected the request because the user is too new to use Bugs+ Earn. The minimum amount of time on Bugs+ required to apply for the core tier in Bugs+ Earn is 1 month and 12 days. Other tiers may have different requirements. You can do the screening questions and submit them when you are too new, but its very rare that you will get accepted
 
 <i class="fa-hexagon-xmark">:hexagon-xmark:</i> <mark style="color:red;">**Rejected - Bugs+ Rules Violation**</mark> - This means that the admins has rejected the request because the response the user gave breaks the Bugs+ Rules, and additional action may be taken
 
@@ -65,3 +63,8 @@ If you get the Rejected status in Bugs+ Earn, then you have 2 choices. Here are 
 
 * <i class="fa-gavel">:gavel:</i> **Submit an Appeal** - You can either go to the Account tab (the person icon) then press Account Status & Appeals and appeal it there or contact Bugs+ Support at https://bugsplus.me/support and appeal it. You can also go to one of those tabs by going to the Bugs+ Earn interface and pressing Appeal.
 * <i class="fa-arrow-rotate-left">:arrow-rotate-left:</i> **Redo the Screening Questions** - You can also redo the  screening questions and provide better answers this time. You have unlimited attempts, but continuously failing the screening questions with extremely low quality can result in punishments.
+
+## Bugs+ Earn Tiers
+
+We also have multiple tiers, some of them let you unlock access earlier, one of them has the core features, while others add more features.\
+More information is coming soon.

@@ -27,7 +27,7 @@ Here are the features of those packages:
 
 ### Bugs+ Moth Basic
 
-Bugs+ Moth Basic is a cheaper low-tier version of Bugs+ Moth. Access additional features to help boost your learning with Bugs+, and get more Daily Quests, all by paying less Bug Points.
+Bugs+ Moth Basic is a cheaper low-end version of Bugs+ Moth. Access additional features to help boost your learning with Bugs+, and get more Daily Quests, all by paying less Bug Points.
 
 The Bug Points price for Bugs+ Moth Basic is currently:
 
