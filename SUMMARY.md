@@ -31,6 +31,8 @@
 * [Guest Mode](guest-mode.md)
 * [Change Username](bugid/change-username.md)
 * [Multiple BugIDs On One Device](bugid/multiple-bugids-on-one-device.md)
+* [Bugs+ Security Tips](bugid/bugs+-security-tips.md)
+* [Security Alerts](bugid/security-alerts.md)
 
 ## Gameplay
 
