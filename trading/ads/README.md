@@ -80,6 +80,8 @@ They are like ad credits, but you get a free Trade Ad.
 
 These are usually received from quest rewards or giveaways, but you may also be able to get them from gift boxes that you unlock by progressing though the game alongside the other rewards in the gift boxes, if the gift boxes contains a Trade Ad voucher.
 
+Go to the following link to learn more about [legit-ways-to-get-trade-ad-vouchers.md](legit-ways-to-get-trade-ad-vouchers.md "mention")
+
 ## Other Info
 
 More information is coming soon, including more info on managing Trade Ads.
