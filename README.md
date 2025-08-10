@@ -1,6 +1,8 @@
 ---
 description: Welcome to Bugs+! Start here.
 icon: hand-wave
+cover: .gitbook/assets/IMG_1137.jpeg
+coverY: 0
 ---
 
 # Welcome

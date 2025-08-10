@@ -50,7 +50,7 @@ If you want to create a new Trade Ad, you can follow the following steps to do s
 * Press the Trade Ads button on the page. You can also open this by going to New Trade then Manage Trade Ads.
 * Press Manage & Create Trade Ads.
 * Press New Trade Ad.
-* Select if you want to use Bug Points or use a [Trade Ad Voucher](ads.md#trade-a-d-vouchers).
+* Select if you want to use Bug Points or use a [Trade Ad Voucher](./#trade-a-d-vouchers).
 * Select an ad style and type from the list and then press Next.
 * If you want to add any text to your ad, feel free to add it. Note that this requires approval even if you already got approval before. The text for the small ad must be short, but on the Ad Info (when people click on Learn More or Send Trade Request on the Trade Ad) text can be longer.
 * You can also add a small trade items recommendation that appears when people want to Trade with the user who created the Trade Ad.
