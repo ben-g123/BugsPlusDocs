@@ -49,3 +49,12 @@ This is an educational game, please don’t cheat! This takes the learning away,
 ## Rule 7: Choose The Right Age
 
 Make sure to choose the right age of the main account user when you signup, instead of your age (unless you are the main account user). Failure to do so will result in Bans. You will get 3 opportunities when you choose the age to choose the right one. You can't change this without support if you choose Over 12.
+
+## What Happens If I Get Banned?
+
+This video, designed to scare away bad guys will explain what happens when you get banned - [https://www.youtube.com/watch?v=54yvY3dapU4](https://www.youtube.com/watch?v=54yvY3dapU4)
+
+{% embed url="https://www.youtube.com/watch?v=54yvY3dapU4" %}
+Why you should not scam people and break the rules. Please subscribe to the @BugsPlus Youtube channel for updates.
+{% endembed %}
+
