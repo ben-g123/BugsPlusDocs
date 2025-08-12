@@ -96,7 +96,7 @@ Please provide correct info to boost your chances of getting a level up to the n
 
 With the Starter Pack, you will get basic payout amounts as shown below:
 
-* **Accepted Trading Card Description:** Get Up To <mark style="color:green;">**725 Bug Points**</mark>
+* **Accepted Trading Card Description:** Get Up To <mark style="color:orange;">**725 Bug Points**</mark>
 * **Considered Trading Card Description:** Get up to <mark style="color:blue;">**165 Bug Points**</mark>
 * <mark style="color:red;">**Not eligible for Instant Payouts, regardless of account status and Bugs+ Earn data quality**</mark>
 
