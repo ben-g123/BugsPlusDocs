@@ -55,6 +55,6 @@ Make sure to choose the right age of the main account user when you signup, inst
 This video, designed to scare away bad guys will explain what happens when you get banned - [https://www.youtube.com/watch?v=54yvY3dapU4](https://www.youtube.com/watch?v=54yvY3dapU4)
 
 {% embed url="https://www.youtube.com/watch?v=54yvY3dapU4" %}
-Why you should not scam people and break the rules. Please subscribe to the @BugsPlus Youtube channel for updates.
+Why you should not scam people and break the rules. Please subscribe to the @BugsPlus Youtube Channel for updates.
 {% endembed %}
 
