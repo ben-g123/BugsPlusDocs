@@ -66,5 +66,22 @@ If you get the Rejected status in Bugs+ Earn, then you have 2 choices. Here are 
 
 ## Bugs+ Earn Tiers
 
-We also have multiple tiers, some of them let you unlock access earlier, one of them has the core features, while others add more features.\
-More information is coming soon.
+We also have multiple tiers, some of them let you unlock access earlier, one of them has the core features, while others add more features.
+
+Here is info on some of the tiers, more info will be coming soon:
+
+### Tier 1: Starter Pack
+
+Start earning Bug Points on Bugs+ earlier with a small amount of tools to get started. What you get:
+
+<details>
+
+<summary>Help with descriptions of selected Trading Cards</summary>
+
+With the Starter Pack, you can help with the descriptions of Common and Uncommon Trading Cards and earn Bug Points.
+
+{% hint style="warning" %}
+Please provide correct info to boost your chances of getting a level up to the next tier and to help make Bugs+ information accurate. Try using your knowledge, or unleash the power of BugSearch, which is a free tool provided by Bugs+ for everyone.
+{% endhint %}
+
+</details>
