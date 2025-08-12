@@ -105,5 +105,52 @@ With the Starter Pack, you will get basic payout amounts as shown below:
 **Requirements:**
 
 * **Minimum amount of time needed on Bugs+ to apply:** 18 Days
-* Account status at the time of applying **must** be "<mark style="color:$success;">**Good**</mark>". If you have another account status, appeal the punishments or wait for them to expire.
+* Account status at the time of applying **must** be "<mark style="color:$success;">**Good**</mark>". Check your status in the Account tab then press Account Status & Appeals. If you have another account status, appeal the punishments or wait for them to expire.
 * These are the only requirements to apply to make it simple for new people using Bugs+ Earn.
+
+### Tier 2: Core Tier
+
+Earn points in Bugs+ by doing tasks provided by the system. What you get:
+
+<details>
+
+<summary>Help with descriptions of selected Trading Cards</summary>
+
+With the Core Tier, you can help with the descriptions of Common, Uncommon and Rare Trading Cards and earn Bug Points.
+
+{% hint style="warning" %}
+Please provide correct info to boost your chances of getting a level up to the next tier and to help make Bugs+ information accurate. Try using your knowledge, or unleash the power of BugSearch, which is a free tool provided by Bugs+ for everyone.
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary>Eligible for normal payout amounts</summary>
+
+With the Core Tier, you will get normal payout amounts as shown below:
+
+* **Accepted Trading Card Description:** Get Up To <mark style="color:orange;">**950 Bug Points**</mark>
+* **Considered Trading Card Description:** Get up to <mark style="color:blue;">**400 Bug Points**</mark>
+
+- **Complete a outdated data question:** Get up to <mark style="color:purple;">**675 Bug Points**</mark>
+
+* **You marked a Outdated Data question marked as not outdated**: Get up to <mark style="color:$info;">**100 Bug Points**</mark>
+
+- <mark style="color:orange;">**Eligible for Instant Payouts, you can apply separately in the Bugs+ Earn dashboard, press Payouts and press Apply For Instant Payouts**</mark>
+
+</details>
+
+<details>
+
+<summary>Update outdated data in Bugs+</summary>
+
+With the Core Tier, you can help update outdated data in Bugs+
+
+</details>
+
+**Requirements:**
+
+* **Minimum amount of time needed on Bugs+ to apply:** 1 month and 12 days
+* Account status at the time of applying **must** be "<mark style="color:$success;">**Good**</mark>". Check your status in the Account tab then press Account Status & Appeals. If you have another account status, appeal the punishments or wait for them to expire. You also must have maintained the "<mark style="color:$success;">**Good**</mark>" Account Status for at least 1 week.
+* **Minimum Trading Card Requirement:** 25 Trading Cards
