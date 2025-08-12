@@ -51,6 +51,7 @@
 * [Bug Point Shop](bug-point-shop.md)
 * [Gravatar Integration](gravatar.md)
 * [Badges](gameplay/badges.md)
+* [Competitions](gameplay/competitions.md)
 
 ## Bugs+ PIN <a href="#pin" id="pin"></a>
 
