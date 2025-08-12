@@ -15,11 +15,15 @@ Bugs+ Earn is a special program that allows you to earn Bug Points by simply hel
 
 Currently, Bugs+ Earn is the only Bugs+ Earn earning program. In the future, we will make other earning programs for Bugs+ Earn.
 
-Bugs+ Earn also provides a version for notable people in the Bugs+ community, called Bugs+ Earn Community Edition. The difference is that it does not require a active Bugs+ Moth subscription which makes it easier to get points toward Bugs+ Moth and other things you can get with Bug Points and you can get higher payouts and higher instant payouts.
+Bugs+ Earn also provides a version for notable people in the Bugs+ community, called Bugs+ Earn Community Edition. The difference is that it does not require a active Bugs+ Moth subscription which makes it easier to get points toward Bugs+ Moth and other things you can get with Bug Points and you can get higher payouts and higher instant payouts. You will start with a Core Tier with Instant Payouts, then you can apply for other tiers later.
 
 ## Payouts
 
 You could earn up to 1700 Bug Points in a single task. Instant payouts are eligible for people providing helpful data continuously. You can get a Instant Payout for payouts up to 800 Bug Points. Payouts (not instant ones) could pend for up to 2 days before being approved.
+
+## What If I stop Using Bugs+ Moth?
+
+If you stop using Bugs+ Moth (if you have the Community edition, this does not count), usually due to cancelling it, downgrading to Bugs+ Moth basic or the subscription expriring and not having enough Bug Points to get the subscription, then you have 7 Days to get Bugs+ Moth again or apply for the Community Edition. During this time, you will still have access to Bugs+ Earn. If you fail to do so, then your Bugs+ Earn subscription will be paused. If you still did not get Bugs+ Moth, or apply for the Community Edition, within 14 days after it pausing, then you will loose your tier and need ot reapply if you decide to come back to Bugs+ Earn after that time.
 
 ## Screening Questions
 
@@ -72,7 +76,7 @@ Here is info on some of the tiers, more info will be coming soon:
 
 ### Tier 1: Starter Pack
 
-Start earning Bug Points on Bugs+ earlier with a small amount of tools to get started. What you get:
+Start earning Bug Points on Bugs+ earlier simply by writing descriptions of certain trading cards. What you get:
 
 <details>
 
@@ -85,3 +89,21 @@ Please provide correct info to boost your chances of getting a level up to the n
 {% endhint %}
 
 </details>
+
+<details>
+
+<summary>Eligible for basic payout amounts</summary>
+
+With the Starter Pack, you will get basic payout amounts as shown below:
+
+* **Accepted Trading Card Description:** Get Up To <mark style="color:green;">**725 Bug Points**</mark>
+* **Considered Trading Card Description:** Get up to <mark style="color:blue;">**165 Bug Points**</mark>
+* <mark style="color:red;">**Not eligible for Instant Payouts, regardless of account status and Bugs+ Earn data quality**</mark>
+
+</details>
+
+**Requirements:**
+
+* **Minimum amount of time needed on Bugs+ to apply:** 18 Days
+* Account status at the time of applying **must** be "<mark style="color:$success;">**Good**</mark>". If you have another account status, appeal the punishments or wait for them to expire.
+* These are the only requirements to apply to make it simple for new people using Bugs+ Earn.
