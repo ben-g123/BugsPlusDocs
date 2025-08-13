@@ -52,6 +52,7 @@
 * [Gravatar Integration](gravatar.md)
 * [Badges](gameplay/badges.md)
 * [Competitions](gameplay/competitions.md)
+* [Early access features](gameplay/early-access-features.md)
 
 ## Bugs+ PIN <a href="#pin" id="pin"></a>
 
