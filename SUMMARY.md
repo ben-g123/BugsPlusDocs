@@ -85,6 +85,10 @@
 
 * [Bugs+ Earn](earn/bugs-plus-earn.md)
 
+## +bug Number <a href="#bug-number" id="bug-number"></a>
+
+* [+bug Numbers](bug-number/about.md)
+
 ## Admin Tips
 
 * [Page 1](admin-tips/page-1.md)
