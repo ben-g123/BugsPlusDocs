@@ -5,7 +5,7 @@ icon: mobile
 
 # +bug Numbers
 
-When you have a BugID, you can free or paid (with Bug Points) claim a +bug Phone Number. The catch is that only people with BugIDs can send messages to it or ping it, and it has to be done in Bugs+.
+When you have a BugID, you can claim a free or paid (with Bug Points) +bug Phone Number. The catch is that only people with BugIDs can send messages to it or ping it, and it has to be done in Bugs+.
 
 ### Example Use Cases
 
