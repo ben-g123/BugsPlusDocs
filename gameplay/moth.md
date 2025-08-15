@@ -27,7 +27,7 @@ Here are the features of those packages:
 
 ### Bugs+ Moth Basic
 
-Bugs+ Moth Basic is a cheaper low-end version of Bugs+ Moth. Access additional features to help boost your learning with Bugs+, and get more Daily Quests, all by paying less Bug Points.
+Bugs+ Moth Basic is a cheaper low-end version of Bugs+ Moth. Access additional features to help boost your learning with Bugs+, and get more Daily Quests, all by paying less Bug Points. It includes 8+ premium privileges.
 
 The Bug Points price for Bugs+ Moth Basic is currently:
 
@@ -56,7 +56,7 @@ The Features Include:
 
 ### Bugs+ Moth
 
-Bugs+ Moth is the ultimate feature-first upgrade package for Bugs+. Access every Bugs+ Moth feature and get the ultimate Bugs+ experience.
+Bugs+ Moth is the ultimate feature-first upgrade package for Bugs+. Access every Bugs+ Moth feature and get the ultimate Bugs+ experience. It includes 15+ premium privileges.
 
 The Bug Points price for Bugs+ Moth Basic is currently:
 
