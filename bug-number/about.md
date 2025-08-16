@@ -34,7 +34,7 @@ To claim a +bug Number, please follow the following steps:
 3. Choose if you want the Free version, or select a tier of +bug Number Premium.
 4. Review the details, and press the Claim It! button.
 5. The number will shortly be registered with your BugID.
-6. To prevent bots and spammers, you will be asked to login with your BugID again and complete a captcha. This will activate the number. If you can't do that at the moment, you can press Can't do it or don't have time? then press Activate Later. Unactivated numbers can't be texted or pinged, for any reason. This is to prevent spam. Feel free to complete the activation process later. Unactivated numbers can last for up to 7 days unactivated, without the number being revoked and getting banned from Bugs+. Feel free to contact Bugs+ Support if you have issues.
+6. To prevent bots and spammers, you will be asked to login with your BugID again and complete a captcha. This will activate the number. If you can't do that at the moment, you can press Can't do it or don't have time? then press Activate Later. Unactivated numbers can't be texted or pinged, for any reason. This is to prevent spam. Feel free to complete the activation process later. Unactivated numbers can last for up to 7 days unactivated, without the number being revoked and automatically getting banned from Bugs+ (auto bans for failure to activate does not apply to Kids Accounts). Feel free to contact Bugs+ Support if you have issues.
 
 **If you have dismissed the recommendation or don't see it:**
 
