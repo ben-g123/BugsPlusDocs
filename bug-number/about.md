@@ -49,3 +49,14 @@ To claim a +bug Number, please follow the following steps:
 
 1. Go to the Account tab (the person icon) then press +bug Number.
 2. Then you should see a popup saying that the number is still pending activation. Login with your BugID, and complete the captcha. Unactivated numbers can last for up to 7 days unactivated, without the number being revoked and getting banned from Bugs+. Feel free to contact Bugs+ Support if you have issues. If you no longer want the number, press Revoke This Number. This will also prevent you from getting auto-banned for the reason of the number not being activated.
+
+## Kids Accounts +bug Number limitations
+
+Multiple features are turned off for users who have a Kids Account or an account with parental controls turned on.
+
+**What kids can not and can do with a +bug Number:**
+
+* Kids Accounts can only choose the Free plan of +bug Number. This also means a second number is not possible.
+* Kids Accounts can only receive and send messages to friends on the Friends List. If the friends list is disabled via the Parental Controls, the parent will have to approve each message or/and ping with the Parent PIN.
+* To activate the +bug Number on a Kids account, a Parent PIN will be required to be entered.
+* The permission ”Free Talk” is required to send messages without the pre-defined messages being forced (but not ping or send and receive limited chat messages) on Kids Accounts.
