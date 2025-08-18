@@ -136,6 +136,9 @@ With the Core Tier, you will get normal payout amounts as shown below:
 - **Complete a outdated data question:** Get up to <mark style="color:purple;">**675 Bug Points**</mark>
 
 * **You marked a Outdated Data question marked as not outdated**: Get up to <mark style="color:$info;">**100 Bug Points**</mark>
+* **Outdated data that you reported gets fixed in Bugs+:** Get up to <mark style="color:orange;">**850 Bug Points**</mark>
+* **Submit feedback to our team that is considered:** Get up to <mark style="color:purple;">**765 Bug Points**</mark>
+* **Submit feedback to our team that has been added:** Get up to <mark style="color:purple;">**985 Bug Points**</mark>
 
 - <mark style="color:orange;">**Eligible for Instant Payouts, you can apply separately in the Bugs+ Earn dashboard, press Payouts and press Apply For Instant Payouts**</mark>
 
@@ -145,7 +148,17 @@ With the Core Tier, you will get normal payout amounts as shown below:
 
 <summary>Update outdated data in Bugs+</summary>
 
-With the Core Tier, you can help update outdated data in Bugs+
+With the Core Tier, you can help update outdated data in Bugs+, and earn Bug Points in return.
+
+Data that has not been updated in the last 2 months will be added to the Outdated Data Review process. If you come across data in the Outdated Data Review process, you can mark it as outdated, or not outdated, and provide what is outdated in the trading card. If you don't know if the data is outdated, use BugSearch or a Search engine and research, or skip the question so someone else can answer it.
+
+</details>
+
+<details>
+
+<summary>Earn cash from your Feedback</summary>
+
+You can earn Bug Points from your helpful Feedback.
 
 </details>
 
