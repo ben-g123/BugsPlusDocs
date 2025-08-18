@@ -35,6 +35,7 @@
 * [Bugs+ Security Tips](bugid/bugs+-security-tips.md)
 * [Security Alerts](bugid/security-alerts.md)
 * [BugCard](bugid/bugcard.md)
+* [Trusted Friends](bugid/trusted-friends.md)
 
 ## Gameplay
 
