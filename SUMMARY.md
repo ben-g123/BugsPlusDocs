@@ -95,6 +95,10 @@
 
 * [Page 1](admin-tips/page-1.md)
 
+## Bugs+ Go <a href="#go" id="go"></a>
+
+* [Page 2](go/page-2.md)
+
 ## Other
 
 * [Bugs+ Website](http://bugsplus.me/)
