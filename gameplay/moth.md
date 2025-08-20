@@ -56,7 +56,7 @@ The Features Include:
 
 ### Bugs+ Moth
 
-Bugs+ Moth is the ultimate feature-first upgrade package for Bugs+. Access every Bugs+ Moth feature and get the ultimate Bugs+ experience. It includes 15+ premium privileges.
+Bugs+ Moth is the ultimate feature-first upgrade package for Bugs+. Access every Bugs+ Moth feature and get the ultimate Bugs+ experience. It includes 17+ premium privileges.
 
 The Bug Points price for Bugs+ Moth Basic is currently:
 
@@ -97,6 +97,8 @@ The Features Include:
 <i class="fa-child">:child:</i> Share some selected features of Bugs+ Moth with kids accounts linked to your email (coming soon)
 
 <i class="fa-badge-check">:badge-check:</i> <mark style="color:blue;">**Verified Checkmark**</mark> alongside Bugs+ Moth badge and Trading Verified Badge (if obtained)
+
+<i class="fa-badge-check">:badge-check:</i> Ability to join the <mark style="color:blue;">**Bugs+ Verified**</mark> program instantly.
 
 <sup>+</sup> Changes will sync when you have internet \* Not available during the free trial = If you need more than 50 Friends, Bugs+ Moth (not Bugs+ Moth Basic) offers bundle packs each in a 10 Friends upgrade increment, with the first bundle pack starting from 500 Bug Points. The price (only for the Friends bundle packs, nothing else) will increment by 250 each upgrade. If you cancel the subscription, your money from the bundles will be refunded (not the Bugs+ Moth) and the bundle packs will be undone. # The account’s age must be at least 9 years old to use this feature
 
