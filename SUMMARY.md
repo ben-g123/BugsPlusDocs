@@ -31,7 +31,7 @@
 * [Submit a ban appeal](ban-appeal.md)
 * [Guest Mode](guest-mode.md)
 * [Change Username](bugid/change-username.md)
-* [Multiple BugIDs On One Device](bugid/multiple-bugids-on-one-device.md)
+* [Guest User](bugid/guest.md)
 * [Bugs+ Security Tips](bugid/bugs+-security-tips.md)
 * [Security Alerts](bugid/security-alerts.md)
 * [BugCard](bugid/bugcard.md)
