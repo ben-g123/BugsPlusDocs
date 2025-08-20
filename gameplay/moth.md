@@ -98,7 +98,7 @@ The Features Include:
 
 <i class="fa-badge-check">:badge-check:</i> <mark style="color:blue;">**Verified Checkmark**</mark> alongside Bugs+ Moth badge and Trading Verified Badge (if obtained)
 
-<i class="fa-badge-check">:badge-check:</i> Ability to join the <mark style="color:blue;">**Bugs+ Verified**</mark> program instantly.
+<i class="fa-badge-check">:badge-check:</i> Your <mark style="color:blue;">**Verified Checkmark**</mark> from Bugs+ Moth includes the ability to join the <mark style="color:blue;">**Bugs+ Verified**</mark> program instantly.
 
 <sup>+</sup> Changes will sync when you have internet \* Not available during the free trial = If you need more than 50 Friends, Bugs+ Moth (not Bugs+ Moth Basic) offers bundle packs each in a 10 Friends upgrade increment, with the first bundle pack starting from 500 Bug Points. The price (only for the Friends bundle packs, nothing else) will increment by 250 each upgrade. If you cancel the subscription, your money from the bundles will be refunded (not the Bugs+ Moth) and the bundle packs will be undone. # The account’s age must be at least 9 years old to use this feature
 
