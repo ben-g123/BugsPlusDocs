@@ -16,6 +16,6 @@ Approximate support wait times:
 
 <i class="fa-mobile">:mobile:</i> **Facetime Audio** - You can call us on Facetime Audio (only for Apple devices) - Less than 15 seconds wait if a support agent is online and ready to talk
 
-<i class="fa-crown">:crown:</i> **Priority Support** - (included with [moth.md](../gameplay/moth.md "mention")) - Less than half a day (12 hours) wait
+<i class="fa-crown">:crown:</i> **Priority Email Support** - (included with [moth.md](../gameplay/moth.md "mention")) - Less than half a day (12 hours) wait. Other priority support options have different faster support times.
 
 <i class="fa-folder-xmark">:folder-xmark:</i> **Spam, Junk & Unnecessary Rushing (rushing is allowed when it is urgent)** - Not Allowed
