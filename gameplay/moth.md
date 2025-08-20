@@ -76,7 +76,7 @@ The Features Include:
 
 <i class="fa-wifi-slash">:wifi-slash:</i> Access Bugs+ Offline without Wi-Fi<sup>+</sup>
 
-<i class="fa-star">:star:</i> Get 8 Stars each month to help you in Bugs+<sup>\*</sup>
+<i class="fa-star">:star:</i> Get 10 Stars each month to help you in Bugs+<sup>\*</sup>
 
 <i class="fa-clock-rotate-left">:clock-rotate-left:</i> 2 Trial Passes Which Lets You Give A 14 Day Free Trial To Friends<sup>\*</sup>
 
@@ -88,7 +88,7 @@ The Features Include:
 
 <i class="fa-piggy-bank">:piggy-bank:</i> Save 20 Bug Points for most items in the shop
 
-<i class="fa-circle-dollar">:circle-dollar:</i> Earn Bug Points by simply helping other people with Bugs+ Earn<sup>\* since people have abused this in the trial version</sup>
+<i class="fa-circle-dollar">:circle-dollar:</i> Earn Bug Points by simply helping other people with Bugs+ Earn<sup>#</sup> <sup>\* since people have abused this in the trial version</sup>
 
 <i class="fa-shield-plus">:shield-plus:</i> Includes Bugs+ Defender Pro, a way to better see account security insights
 
@@ -96,9 +96,11 @@ The Features Include:
 
 <i class="fa-child">:child:</i> Share some selected features of Bugs+ Moth with kids accounts linked to your email (coming soon)
 
-<i class="fa-badge-check">:badge-check:</i> <mark style="color:blue;">**Verified Checkmark**</mark> alongside Bugs+ Moth badge and Trading Verified Badge (if obtained)
+<i class="fa-badge-check">:badge-check:</i> <mark style="color:blue;">**Verified Checkmark**</mark> alongside Bugs+ Moth badge and Trading Verified Badge (if obtained). The colour of the checkmark is blue.
 
 <i class="fa-badge-check">:badge-check:</i> Your <mark style="color:blue;">**Verified Checkmark**</mark> from Bugs+ Moth includes the ability to join the <mark style="color:blue;">**Bugs+ Verified**</mark> program instantly.
+
+<i class="fa-crown">:crown:</i> Priority Support - We will add you to our contacts list on most support methods for the length of your Bugs+ moth subscription
 
 <sup>+</sup> Changes will sync when you have internet \* Not available during the free trial = If you need more than 50 Friends, Bugs+ Moth (not Bugs+ Moth Basic) offers bundle packs each in a 10 Friends upgrade increment, with the first bundle pack starting from 500 Bug Points. The price (only for the Friends bundle packs, nothing else) will increment by 250 each upgrade. If you cancel the subscription, your money from the bundles will be refunded (not the Bugs+ Moth) and the bundle packs will be undone. # The account’s age must be at least 9 years old to use this feature
 

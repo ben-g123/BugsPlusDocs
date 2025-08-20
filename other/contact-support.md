@@ -13,3 +13,9 @@ Approximate support wait times:
 <i class="fa-sparkles">:sparkles:</i> **AI Support** - Instant responses, but the downside is that they can’t perform actions on behalf of you and the answers may be incorrect or outdated.
 
 <i class="fa-building-user">:building-user:</i> **Bugs+ HQ Support** - You can book a meeting or go there straight away. **Access only to students and teachers/staff of Springside West.**
+
+<i class="fa-mobile">:mobile:</i> **Facetime Audio** - You can call us on Facetime Audio (only for Apple devices) - Less than 15 seconds wait if a support agent is online and ready to talk
+
+<i class="fa-crown">:crown:</i> **Priority Support** - (included with [moth.md](../gameplay/moth.md "mention")) - Less than half a day (12 hours) wait
+
+<i class="fa-folder-xmark">:folder-xmark:</i> **Spam, Junk & Unnecessary Rushing (rushing is allowed when it is urgent)** - Generally Not Allowed
