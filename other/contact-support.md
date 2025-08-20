@@ -18,4 +18,4 @@ Approximate support wait times:
 
 <i class="fa-crown">:crown:</i> **Priority Support** - (included with [moth.md](../gameplay/moth.md "mention")) - Less than half a day (12 hours) wait
 
-<i class="fa-folder-xmark">:folder-xmark:</i> **Spam, Junk & Unnecessary Rushing (rushing is allowed when it is urgent)** - Generally Not Allowed
+<i class="fa-folder-xmark">:folder-xmark:</i> **Spam, Junk & Unnecessary Rushing (rushing is allowed when it is urgent)** - Not Allowed
