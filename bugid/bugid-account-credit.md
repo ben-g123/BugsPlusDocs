@@ -17,3 +17,5 @@ You would of also got a notification, but here are some reasons you would of got
 <i class="fa-gift">:gift:</i> Some Gift Codes
 
 <i class="fa-message-question">:message-question:</i> As a compensation from Support for certain issues
+
+<i class="fa-folder-xmark">:folder-xmark:</i> As a compensation for removed items or trading cards that you have originally got
