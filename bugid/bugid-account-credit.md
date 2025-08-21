@@ -19,3 +19,5 @@ You would of also got a notification with a reason and information on redeeming,
 <i class="fa-message-question">:message-question:</i> As a compensation from Support for certain issues
 
 <i class="fa-folder-xmark">:folder-xmark:</i> As a compensation for removed items or trading cards that you have originally got
+
+<i class="fa-gifts">:gifts:</i> When you redeem Gift Codes that are user generated (not by the Admins)
