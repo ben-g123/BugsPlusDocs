@@ -25,3 +25,13 @@ You would of also got a notification with a reason and information on redeeming,
 <i class="fa-heart">:heart:</i> As a Thank You gift from the Bugs+ Admins
 
 <i class="fa-bug">:bug:</i> It may also be a glitch in Bugs+, if you suspect it is, please Contact Support instead of redeeming the glitched credit
+
+## What You Can Do With Your Credits
+
+Here are some ideas on what to do when you get some:
+
+<i class="fa-money-bills">:money-bills:</i> Spend it and get a reward
+
+<i class="fa-gift">:gift:</i> Create a gift code for it and gift it to someone
+
+<i class="fa-shield">:shield:</i> Keep it and save up for something big
