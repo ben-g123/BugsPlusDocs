@@ -37,3 +37,14 @@ Here are some ideas on what to do when you get some:
 <i class="fa-shield">:shield:</i> Keep it and save up for something big
 
 <i class="fa-flag-swallowtail">:flag-swallowtail:</i> Report the BugID Account Credits at Bugs+ Support if it looks glitched or you did not get enough credits
+
+## Prices for each reward
+
+BugID account credits are measured in dollars, but Bugs+ is still free, and it will always be, and you can't buy account credits with real money and you also can't exchange them for real money.
+
+But here are the prices for every reward:
+
+* Every 5 Bug Points costs $0.25 Account Credits, which means Every 1 bug point is $0.05 Account Credits
+* Every 100 Bug Points costs $5 Account Credits
+* Every 1000 Bug Points costs $45 Account Credits, since if you get 1000 Bug Points, you get $5 Account Credits off
+* More info on reward prizes are coming soon
