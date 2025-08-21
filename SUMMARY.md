@@ -37,6 +37,7 @@
 * [BugCard](bugid/bugcard.md)
 * [Trusted Friends](bugid/trusted-friends.md)
 * [Student Offer](bugid/students.md)
+* [BugID Account Credit](bugid/bugid-account-credit.md)
 
 ## Gameplay
 
