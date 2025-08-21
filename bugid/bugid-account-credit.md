@@ -10,7 +10,7 @@ Some credits received from some events and some Gift Codes may turn into BugID A
 
 ## Why did I get BugID Account Credit?
 
-You would of also got a notification, but here are some reasons you would of got BugID Account Credit.
+You would of also got a notification with a reason and information on redeeming, but here are some reasons you would of got BugID Account Credit.
 
 <i class="fa-calendar-star">:calendar-star:</i> Certain Special Events
 
