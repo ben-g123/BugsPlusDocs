@@ -35,3 +35,5 @@ Here are some ideas on what to do when you get some:
 <i class="fa-gift">:gift:</i> Create a gift code for it and gift it to someone
 
 <i class="fa-shield">:shield:</i> Keep it and save up for something big
+
+<i class="fa-flag-swallowtail">:flag-swallowtail:</i> Report the BugID Account Credits at Bugs+ Support if it looks glitched or you did not get enough credits
