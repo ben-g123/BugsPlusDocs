@@ -18,7 +18,9 @@ After verifying, the parent can set a Parent PIN. This cannot be changed after s
 
 ## Features that can be managed by the parent in a Kids Account
 
-<i class="fa-screwdriver-wrench">:screwdriver-wrench:</i> Manage features that your kids or teenagers can use
+<i class="fa-screwdriver-wrench">:screwdriver-wrench:</i> Manage features that your kids or teenagers can use via the Parent Portal
+
+<i class="fa-hashtag-lock">:hashtag-lock:</i> Create a Parent PIN to approve certain setting changes, such as birthdate changes or parental controls unlinking
 
 {% hint style="info" %}
 ### Need Help?
