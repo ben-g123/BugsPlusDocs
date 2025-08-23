@@ -16,6 +16,10 @@ If you already verified using that email on another platform, or used it for ano
 
 After verifying, the parent can set a Parent PIN. This cannot be changed after setting it without the help of Bugs+ support (https://bugsplus.me/support). This parent PIN is only needed to perform actions on the device relating to parental controls and won’t affect the parent portal access (which uses email links instead). An example of this is changing the birthdate for the BugID.
 
+## Features that can be managed by the parent in a Kids Account
+
+<i class="fa-screwdriver-wrench">:screwdriver-wrench:</i> Manage features that your kids or teenagers can use
+
 {% hint style="info" %}
 ### Need Help?
 
