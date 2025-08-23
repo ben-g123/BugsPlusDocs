@@ -1,3 +1,7 @@
+---
+icon: octagon-check
+---
+
 # Parent Verify
 
 If the child using a BugID is under 12, they will need a parent to verify that they are allowed to use Bugs+, using ID or Face Scan. This service is powered by Kids Web Services. The parent will get an email with the link to start verification. Parents can also use this for users under 18 but over 12 (but it is optional if they are using it on a teenager.)
