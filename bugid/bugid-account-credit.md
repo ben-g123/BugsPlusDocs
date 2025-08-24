@@ -25,6 +25,8 @@ You would of also got a notification with a reason and information on redeeming,
 
 <i class="fa-heart">:heart:</i> As a Thank You gift from the Bugs+ Admins
 
+<i class="fa-ticket">:ticket:</i> As a gift from getting or sending a Friend Pass
+
 <i class="fa-bug">:bug:</i> It may also be a glitch in Bugs+, if you suspect it is, please Contact Support instead of redeeming the glitched credit
 
 ## What You Can Do With Your Credits
