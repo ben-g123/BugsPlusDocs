@@ -32,8 +32,8 @@ A Friend Pass currently gives the person the following, in the form of a Gift Bo
 * x1 Human Botfly Trading Card and x2 Daddy Longlegs Trading Cards
 * 1 Trade Ad Voucher - Let your friend get more Trade Requests
 * 7 Stars as a gift
-
-This offer you can gift to a friend helps support the goal of learning about insects.
+* This offer you can gift to a friend helps support the goal of learning about insects.
+* $25 BugID Account Credit
 
 Currently, every person who is eligible to send a friend pass will get 3 Friend Passes to give to friends, but stay tuned for a notification saying we have given you more Friend Passes to give!
 
@@ -41,4 +41,4 @@ If you give a Friend Pass, it must be claimed in 2 weeks time or else the friend
 
 You can’t cancel a friend pass that you have given, but if it expires it will be cancelled for you.
 
-If your friend successfully claims your Friend Pass, you will get a random Trading Cards and 500 Bug Points as a thank you gift.
+If your friend successfully claims your Friend Pass, you will get a random Trading Cards, 500 Bug Points and $10 BugID Account Credit as a thank you gift.

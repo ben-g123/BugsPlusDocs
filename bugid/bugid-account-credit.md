@@ -2,6 +2,7 @@
 description: >-
   Bug Points received from certain events and some Gift Codes may turn into
   redeemable BugID Account Credit
+icon: gift-card
 ---
 
 # BugID Account Credit
