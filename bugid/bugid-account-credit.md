@@ -47,7 +47,16 @@ BugID account credits are measured in dollars, but Bugs+ is still free, and it w
 
 But here are the prices for every reward:
 
+**Bug Points**
+
 * Every 5 Bug Points costs $0.25 Account Credits, which means Every 1 bug point is $0.05 Account Credits
 * Every 100 Bug Points costs $5 Account Credits
 * Every 1000 Bug Points costs $45 Account Credits, since if you get 1000 Bug Points, you get $5 Account Credits off
+* More info on reward prizes are coming soon
+
+**Stars**
+
+* Every 1 Star costs $5 Account Credits
+* Every 3 Stars costs $15 Account Credits
+* Every 5 Stars costs $22 Account Credits, since if you get 5 Stars, you get $3 Account Credits off
 * More info on reward prizes are coming soon
