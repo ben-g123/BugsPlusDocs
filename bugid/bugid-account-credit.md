@@ -39,7 +39,7 @@ Here are some ideas on what to do when you get some:
 
 <i class="fa-shield">:shield:</i> Keep it and save up for something big
 
-<i class="fa-flag-swallowtail">:flag-swallowtail:</i> Report the BugID Account Credits at Bugs+ Support if it looks glitched or you did not get enough credits
+<i class="fa-flag-swallowtail">:flag-swallowtail:</i> Report the BugID Account Credits at Bugs+ Support if it looks glitched or you did not get enough credits and the credit amounts are unfair
 
 ## Prices for each reward
 
