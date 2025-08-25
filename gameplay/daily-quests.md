@@ -13,7 +13,7 @@ On days like April Fools, a special daily quest will be avaible. Make sure to go
 
 ## Refreshing The Daily Quests Multiple Times A Day
 
-If you want to refresh the daily quests more than one time ina day, for example if you want to skip that set of quests and get a new one, or if you want to get another set of quests since you already did the one for today, that is possible.
+If you want to refresh the daily quests more than one time in a day, for example if you want to skip that set of quests and get a new one, or if you want to get another set of quests since you already did the one for today, that is possible.
 
 You can use a **Daily Quests Refresher** item to get a new set of quests to do. You will unlock this item at level 35, and you will also get one of them as a gift at that level as well, and at level 40, 45, 50, and 55 you will get them as a gift additionally, and at events you may be able to get them. You can get them anytime at the Bug Points shop.
 
