@@ -73,6 +73,8 @@ To unlink parental controls without using a Parent PIN (useful if you forgot the
 7. Wait for the 1 minute timer to finish, please don't close the page or window while the timer is on
 8. The siren noise will go off, the user will get banned for a day and the parental controls will turn off.
 
+<figure><img src="../.gitbook/assets/Image 26-8-2025 at 9.36 am.png" alt=""><figcaption></figcaption></figure>
+
 </details>
 
 <details>
