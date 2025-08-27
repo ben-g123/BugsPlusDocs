@@ -4,7 +4,7 @@ icon: file-lock
 
 # Privacy Notice
 
-We do not track you on the Bugs+ App, but we may use analytics on the Bugs+ Website (bugsplus.me) and the Bugs+ Docs (docs.bugsplus.me) which you can opt out to.
+We do not track you on the Bugs+ App, but we may use analytics on the Bugs+ Website (bugsplus.me) and the Bugs+ Docs (docs.bugsplus.me) which you can opt out to via the cookie banner, or by using the floating cookie button and choosing to opt out.
 
 We aim to keep your data secure, and you can request an export via Bugs+ support (bugsplus.me/support). You can also delete your data by contacting Bugs+ support (if it is your first day using Bugs+, you can delete it by clicking on the Account tab (the person icon) then press Delete Account). The account will be permanently deleted after 14 days, unless on your first day. During that time, your account will be globally locked (different to a ban, but you can't login and see the reason). You can cancel the deletion by contacting Bugs+ Support (bugsplus.me/support). You can also ban your own account by going to the Account tab then press Close Account, then press Ban My Account instead of the button contact support for deletion. While this does not delete your account and data, it restricts trades, and shows less profile data and shows a notice, and you can login at any time. Note that a password and username is only required to unban the account (you can only unban your account that you banned yourself, not the moderation bans), and a PIN won’t be required to do this. It is possible to logout after a self ban, and when not banned, but not for moderation bans.
 
