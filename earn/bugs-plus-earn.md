@@ -11,8 +11,12 @@ icon: circle-dollar
 This feature is included with a [moth.md](../gameplay/moth.md "mention") subscription (not Bugs+ Moth Basic). It is easy to get and only requires Bug Points. It is not available in the Bugs+ Moth trial version because of past abuse.
 {% endhint %}
 
-{% hint style="danger" %}
-## Bugs+ Earn Shutting Down Temporarily
+{% hint style="success" %}
+## Bugs+ NOT Earn Shutting Down Temporarily
+
+**Update:** We are keeping Bugs+ Earn, and still add the promised addition as a second Bugs+ Earn program.
+
+Old timeline (does not apply anymore)
 
 Bugs+ Earn will be shutting down until further notice, and there will also be something newer that better helps the community via insect fact posting that includes earning and Bugs+ Moth won't be needed, as a compensation, and it will be kept even if Bugs+ Earn comes back.
 
@@ -26,7 +30,7 @@ We will add Bugs+ Earn again in the future, and we are hoping so, so we don't de
 * **13 September 2025** - The Bugs+ Earn community edition won't be available, and will be revoked for existing users
 * **16 September 2025** - Everyone will be downgraded and locked to the Tier 1, the Starter Pack, and any Instant Payouts permissions will be removed
 * **20 September 2025** - All pending payouts will be paid out instantly, and Bugs+ Earn will be locked for all users, with all user's Bugs+ Earn rights revoked, and Bugs+ Earn will be shut down and hidden completely in the next update
-* **Sometime In 2026** - Bugs+ Moth will come back, better than ever.
+* **Sometime In 2026** - Bugs+ Earn will come back, better than ever.
 {% endhint %}
 
 Currently, Bugs+ Earn is the only Bugs+ Earn earning program. In the future, we will make other earning programs for Bugs+ Earn.
