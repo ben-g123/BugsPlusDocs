@@ -12,9 +12,11 @@ This feature is included with a [moth.md](../gameplay/moth.md "mention") subscri
 {% endhint %}
 
 {% hint style="danger" %}
-## Bugs+ Earn Shutting Down
+## Bugs+ Earn Shutting Down Temporarily
 
-Bugs+ Earn will be shutting down, and will be replaced with something newer that better helps the community via insect fact posting that includes earning and Bugs+ Moth won't be needed.
+Bugs+ Earn will be shutting down until further notice, and will be replaced with something newer that better helps the community via insect fact posting that includes earning and Bugs+ Moth won't be needed.
+
+We will add Bugs+ Earn again in the future, and we are hoping so, so we don't delete Bugs+ Earn, we will just show a message saying that "Bugs+ Earn has been shut down, but we will add it in the future"
 
 **Timeline:**
 
@@ -23,7 +25,7 @@ Bugs+ Earn will be shutting down, and will be replaced with something newer that
 * **12 September 2025** - You won't be able to switch tiers, or signup for Instant Payouts, or trigger any actions in Bugs+ Earn that needs approval
 * **13 September 2025** - The Bugs+ Earn community edition won't be available, and will be revoked for existing users
 * **16 September 2025** - Everyone will be downgraded and locked to the Tier 1, the Starter Pack, and any Instant Payouts permissions will be removed
-* **20 September 2025** - All pending payouts will be paid out instantly, and Bugs+ Earn will be locked for all users, with all user's Bugs+ Earn rights revoked, and Bugs+ Earn will be shut down and removed completely in the next update
+* **20 September 2025** - All pending payouts will be paid out instantly, and Bugs+ Earn will be locked for all users, with all user's Bugs+ Earn rights revoked, and Bugs+ Earn will be shut down and hidden completely in the next update
 {% endhint %}
 
 Currently, Bugs+ Earn is the only Bugs+ Earn earning program. In the future, we will make other earning programs for Bugs+ Earn.
