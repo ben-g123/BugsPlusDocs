@@ -110,6 +110,7 @@
 * [Contact Support](other/contact-support.md)
 * [Leaderboard](other/leaderboard.md)
 * [Friend Passes](other/friend-passes.md)
-* [Parent Verify](other/parent-verify.md)
+* [Parent Verify](other/parent-verify/README.md)
+  * [Parental controls note to read with your kids and teenagers](other/parent-verify/note.md)
 * [Bugs+ Defender](other/bugs+-defender.md)
 * [Bugs+ Coding Studio](other/bugs+-coding-studio.md)

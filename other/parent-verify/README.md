@@ -10,11 +10,13 @@ Parents will also get notifications if the child did wrong things on Bugs+, with
 
 This can be delayed by one day by pressing Maybe Later. After that it will be forced.
 
-To add and revoke rights for your child (permissions, like trading with real players and more), go to https://bugsplus.me/parent-portal (COMING SOON) and follow the steps there.
+To add and revoke rights for your child (permissions, like trading with real players and more), download Bugs+ on your device, choose Continue With BugID and instead of logging in with BugID, choose Supervise a Kids Account remotely using this device (COMING SOON) and follow the steps there.
 
 If you already verified using that email on another platform, or used it for another Bugs+ Kids Account with Kids Web Services technology, you can skip needing to verify and just need to click on one link in your email.
 
 After verifying, the parent can set a Parent PIN. This cannot be changed after setting it without the help of Bugs+ support (https://bugsplus.me/support). This parent PIN is only needed to perform actions on the device relating to parental controls and won’t affect the parent portal access (which uses email links instead). An example of this is changing the birthdate for the BugID.
+
+Here is a useful page to read with your child: [note.md](note.md "mention")
 
 {% hint style="info" %}
 ### Need Help?
@@ -73,7 +75,7 @@ To unlink parental controls without using a Parent PIN (useful if you forgot the
 7. Wait for the 1 minute timer to finish, please don't close the page or window while the timer is on
 8. The siren noise will go off, the user will get banned for a day and the parental controls will turn off.
 
-<figure><img src="../.gitbook/assets/Image 26-8-2025 at 9.36 am.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Image 26-8-2025 at 9.36 am.png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -81,6 +83,6 @@ To unlink parental controls without using a Parent PIN (useful if you forgot the
 
 <summary>Unlink Parental Controls If The Person Is Over 18</summary>
 
-You can also change your birthdate to remove parental controls, this also requires the Parent PIN. Learn more at [change-bugid-account-birthdate.md](../bugid/change-bugid-account-birthdate.md "mention").
+You can also change your birthdate to remove parental controls, this also requires the Parent PIN. Learn more at [change-bugid-account-birthdate.md](../../bugid/change-bugid-account-birthdate.md "mention").
 
 </details>
