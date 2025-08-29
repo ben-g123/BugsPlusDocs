@@ -26,4 +26,4 @@ With parental controls, your parent can manage your Bugs+ application and keep y
 
 <i class="fa-user-gear">:user-gear:</i> Configure settings for your BugID
 
-<i class="fa-filter">:filter:</i>
+<i class="fa-filter">:filter:</i> Gain access to miscellaneous features and controls where available
