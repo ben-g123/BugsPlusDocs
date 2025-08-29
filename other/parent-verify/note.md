@@ -22,8 +22,8 @@ With parental controls, your parent can manage your Bugs+ application and keep y
 
 <i class="fa-hourglass-clock">:hourglass-clock:</i> Enforce learning features only time until stopped or until the end of the day, when the parent cofigures it to
 
-<i class="fa-user-xmark">:user-xmark:</i> Remotely delete your account (for Under 12 users only) and remotely ban your account until the end of the day (all ages under 18 years old)
+<i class="fa-user-xmark">:user-xmark:</i> Remotely delete your account without support involvement (for Under 12 users only) and remotely ban your account until the end of the day or until ban stopped (all ages under 18 years old)
 
-<i class="fa-user-gear">:user-gear:</i> Configure settings for your BugID
+<i class="fa-user-gear">:user-gear:</i> Configure most settings for your BugID
 
 <i class="fa-filter">:filter:</i> Gain access to miscellaneous features and controls where available
