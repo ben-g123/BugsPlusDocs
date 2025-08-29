@@ -6,6 +6,8 @@ icon: octagon-check
 
 If the child using a BugID is under 12, they will need a parent to verify that they are allowed to use Bugs+, using ID or Face Scan. This service is powered by Kids Web Services. The parent will get an email with the link to start verification. Parents can also use this for users under 18 but over 12 (but it is optional if they are using it on a teenager.)
 
+After verifying, you will be able to setup parental controls using your device or use simple controls on your child‘s device.
+
 Parents will also get notifications if the child did wrong things on Bugs+, with the chance to appeal on behalf of them.
 
 This can be delayed by one day by pressing Maybe Later. After that it will be forced.
@@ -57,6 +59,17 @@ To unlink parental controls with a Parent PIN, follow these steps:
 7. Press Approve
 8. Press Next
 9. Parental Controls will be unlinked!
+
+**Or, use a device that is setup for remote supervision management:**
+
+1. On the supervision homepage, press Account Settings
+2. Press About Supervision
+3. Press Under Learn More About Parental Controls, press Disable Parental Controls For This Account
+4. Enter your Parent PIN
+5. Press Approve
+6. Press Next
+7. Press Sign Out
+8. Parental controls will be unlinked, and you will be signed out of the supervision dashboard
 
 </details>
 
