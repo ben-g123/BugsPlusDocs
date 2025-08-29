@@ -71,6 +71,10 @@ To unlink parental controls with a Parent PIN, follow these steps:
 7. Press Sign Out
 8. Parental controls will be unlinked, and you will be signed out of the supervision dashboard
 
+{% hint style="info" %}
+If Explore Options To Remove Parental Controls or nothing appears instead of remove parental controls, then the account is under 12. Clicking the explore options instead of remove parental controls will ask you to make settings less stricter, wait, or  change the birthdate before unlinking.
+{% endhint %}
+
 </details>
 
 <details>
