@@ -14,9 +14,9 @@ You can find out what rule you broke by seeing the ban notice, warning notice, o
 
 Our rules are regularly updated, and we have transparency on when we last update our rules. Transparency statusboard:
 
-<i class="fa-calendar-days">:calendar-days:</i> **Rules Last Updated**: August 2 2025
+<i class="fa-calendar-days">:calendar-days:</i> **Rules Last Updated**: August 29 2025
 
-<i class="fa-rectangle-history">:rectangle-history:</i> **Latest Change Summary**: Adding Game Modding to the list of cheats
+<i class="fa-rectangle-history">:rectangle-history:</i> **Latest Change Summary**: Revealing that Bugs+ sometimes uses captchas
 
 ## Rule 1: No Swearing
 
@@ -29,6 +29,8 @@ Scamming and misleading trades are not allowed on Bugs+. It will get you banned 
 ## Rule 3: No Spamming & Promotion
 
 Bugs+ is a educational game, not a place to spam and promote businesses. There are other platforms to do that such as Google Ads and listing sites.
+
+This includes spambots and scambots. In addition to our efforts on stopping this, we implement captchas that appear once per device when trying to access some features called extra features, like trading, BugAI image generation and more, which means you need to press I Am Not A Robot and complete a easy text captcha correctly to unlock all of the extra features on that device. We regularly review and add and remove things to the captcha wall when some features are targeted by bots.
 
 ## Rule 4: Security Policy
 
