@@ -30,7 +30,7 @@ Scamming and misleading trades are not allowed on Bugs+. It will get you banned 
 
 Bugs+ is a educational game, not a place to spam and promote businesses. There are other platforms to do that such as Google Ads and listing sites.
 
-This includes spambots and scambots. In addition to our efforts on stopping this, we implement captchas that appear once per device when trying to access some features called extra features, like trading, BugAI image generation and more, which means you need to press I Am Not A Robot and complete a easy text captcha correctly to unlock all of the extra features on that device. We regularly review and add and remove things to the captcha wall when some features are targeted by bots.
+This includes spambots and scambots. In addition to our efforts on stopping this, we implement captchas that appear once per device when trying to access some features called extra features, like trading, BugAI image generation and more, which means you need to press I Am Not A Robot and complete a easy text captcha correctly to unlock all of the extra features on that device. We regularly review and add and remove things to the captcha wall when some features are targeted by bots. If you are unable to do the captcha on a child device, you can use the Parent PIN to unlock it since the proof of human is verifying the age at the start, otherwise if you are not using a Kids Account or can’t find the PIN use Bugs+ Support.
 
 ## Rule 4: Security Policy
 
