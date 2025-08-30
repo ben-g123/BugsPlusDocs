@@ -20,7 +20,7 @@ With parental controls, your parent can manage your Bugs+ application and keep y
 
 <i class="fa-lock">:lock:</i> Change your password when you need it (for Under 12 users only)
 
-<i class="fa-hourglass-clock">:hourglass-clock:</i> Enforce learning features only time until stopped or until the end of the day, when the parent cofigures it to
+<i class="fa-hourglass-clock">:hourglass-clock:</i> Enforce learning features only time until stopped or until the end of the day, when the parent configures it to
 
 <i class="fa-user-xmark">:user-xmark:</i> Remotely delete your account without support involvement (for Under 12 users only) and remotely ban your account until the end of the day or until ban stopped (all ages under 18 years old)
 
