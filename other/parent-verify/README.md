@@ -12,7 +12,7 @@ Parents will also get notifications if the child did wrong things on Bugs+, with
 
 This can be delayed by one day by pressing Maybe Later. After that it will be forced.
 
-To add and revoke rights for your child (permissions, like trading with real players and more), download Bugs+ on your device, choose Continue With BugID and instead of logging in with BugID, choose Supervise a Kids Account remotely using this device (COMING SOON) and follow the steps there, including entering your child’s email or username, and entering the Parent PIN
+To add and revoke rights for your child (permissions, like trading with real players and more), download Bugs+ on your device, choose Continue With BugID and instead of logging in with BugID, choose Supervise a Kids Account remotely using this device (COMING SOON) and follow the steps there, including entering your child’s email or username, and entering the Parent PIN.
 
 If you already verified using that email on another platform, or used it for another Bugs+ Kids Account with Kids Web Services technology, you can skip needing to verify and just need to click on one link in your email.
 
@@ -92,7 +92,9 @@ To unlink parental controls without using a Parent PIN (useful if you forgot the
 7. Wait for the 1 minute timer to finish, please don't close the page or window while the timer is on
 8. The siren noise will go off, the user will get banned for a day and the parental controls will turn off.
 
-<figure><img src="../../.gitbook/assets/Image 26-8-2025 at 9.36 am.png" alt=""><figcaption></figcaption></figure>
+{% include "../../.gitbook/includes/parental-controls-unlinking-timer-method.md" %}
+
+If you want to use another BugID or guest mode during the ban time, perform a Quick Restart by pressing the green flag at the top of the screen, while holding down the D key. Continue holding it even while selecting the buttons on the popup. If you see a popup, press the appropriate buttons on it. Then, you should see a Debug Mode instead of the title screen. Stop holding the key, and if you missed, restart those steps. Then, press the Reset button. Press the confirm button that will appear, then Bugs+ should restart. Now you can login to another account, note that you can login to your Kids Account that with the parental controls you have removed after the next day anytime without loosing any save data.
 
 </details>
 
@@ -108,12 +110,48 @@ You can also change your birthdate to remove parental controls, this also requir
 
 You can manage parental controls either on the device or remotely. As a gift for using remote supervision, you can access even more controls since it is less likely to be hacked remotely and for easy access to change settings.
 
-Choose how you want to manage parental controls:
+**Choose how you want to manage parental controls:**
 
 <details>
 
 <summary>Directly on the child or teenager’s device</summary>
 
+You can manage certain parental controls on directly on their device by following the following steps:
 
+1. Go to the Account tab (the person icon)
+2. On newer Bugs+ versions, Select Account Settings or on older versions, choose from Settings or Account Settings based on what you want to manage
+3. On newer versions, select Parental Controls, or on older versions, select a setting you want to manage like you normally set settings
+4. On older versions, Enter your Parent PIN if prompted
+5. On newer versions, select a parental controls setting to manage, then Enter your Parent PIN when prompted
+
+{% hint style="info" %}
+Some features you are used to seeing won’t show on their device since you need to use remote supervision to access more parental controls
+{% endhint %}
+
+### When using their device instead of yours, only these parental controls are available:
+
+<i class="fa-sliders-up">:sliders-up:</i> Configure a limited range of parental settings, such as trading (other configurations may not be available)
+
+<i class="fa-hourglass-clock">:hourglass-clock:</i> Enforce learning features only until the end of the day or until stopped using the Parent PIN
+
+To unlock more control, consider remotely changing settings alongside changing it directly.
+
+</details>
+
+<details>
+
+<summary>Using a parent’s computer</summary>
+
+Remotely managing parental controls gives more control over their kids and teenagers since they can manage it even when they don’t have their device nearby, and since there is more features.
+
+**On a parent’s computer, follow these steps:**
+
+1. Download Bugs+ if you don’t already have it on your computer
+2. Press Continue With BugID
+3. Instead of signing in, select Supervise a Kids Account remotely using this device
+4. When prompted, enter your kid or teenager’s username or login email
+5. Enter the Parent PIN when prompted
+6. Press Start
+7. A supervision dashboard should show up, manage your settings there
 
 </details>
