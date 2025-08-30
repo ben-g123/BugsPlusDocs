@@ -103,3 +103,17 @@ To unlink parental controls without using a Parent PIN (useful if you forgot the
 You can also change your birthdate to remove parental controls, this also requires the Parent PIN. Learn more at [change-bugid-account-birthdate.md](../../bugid/change-bugid-account-birthdate.md "mention").
 
 </details>
+
+## Manage parental controls
+
+You can manage parental controls either on the device or remotely. As a gift for using remote supervision, you can access even more controls since it is less likely to be hacked remotely and for easy access to change settings.
+
+Choose how you want to manage parental controls:
+
+<details>
+
+<summary>Directly on the child or teenager’s device</summary>
+
+
+
+</details>
