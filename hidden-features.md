@@ -14,3 +14,11 @@ Here are some features that you might find useful in Bugs+. Remember these are n
 * **BugAI and Image Generation:** Get access to AI features.
 * **Meet in the metaverse:** Visit the Bugs+ HQ world (Viverse). You can get tips, meet others, and even trade with the owner (Viverse account optional).
 * **Wide range of settings:** Bugs+ comes with a wide range of settings, go to the Account tab (the person icon) and press Settings or account settings.
+
+## Part 2: Select Quick Actions
+
+You can select up to 2 quick actions that will appear on the Home Tab (house icon), firstly go to the Account tab (the person icon) and press Settings and then press Homepage then press Quick Actions, then select up to 2 Quick Actions from the dropdown list.
+
+## Part 3: Parental Controls
+
+You can also setup Parental Controls.
