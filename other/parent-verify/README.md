@@ -163,3 +163,27 @@ Remotely managing parental controls gives more control over their kids and teena
 7. A supervision dashboard should show up, manage your settings there
 
 </details>
+
+### What sections are there in the supervision dashboard?
+
+Here are the sections on the supervision dashboard.
+
+<i class="fa-comments">:comments:</i> **Community Features**
+
+With the Community Features area, you can manage who can trade with your child, if the child should have a friends list and more community and interaction related settings. On older Bugs+ versions this is called General Parental Controls Settings.
+
+<i class="fa-hourglass-clock">:hourglass-clock:</i> **Time Management**
+
+With the time management area, you can restrict Bugs+ to learning features only until the next day or until stopped, and ban access to Bugs+ until the next day or until stopped. On some Bugs+ versions, Bugs+ will review the history to see if your child does learning or miscellaneous features more.
+
+<i class="fa-mobile">:mobile:</i> **Bugs+ History**
+
+You can scroll through your child or teenager’s Bugs+ history using the Bugs+ History area. This is useful to make decisions, and to protect people.
+
+<i class="fa-user-gear">:user-gear:</i> **Account Settings**
+
+Here you can manage certain settings on the person’s BugID, including your parent PIN and more. This is similar to the feature in Bugs+, but you can mange some of it remotely.
+
+<i class="fa-filter">:filter:</i> **Miscellaneous**
+
+Here you can manage other features that may not fit into a category.
