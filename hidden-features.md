@@ -21,4 +21,4 @@ You can select up to 2 quick actions that will appear on the Home Tab (house ico
 
 ## Part 3: Parental Controls
 
-You can also setup Parental Controls.
+You can also setup Parental Controls. Do this by creating an account for your child or teenager, or creating and merging a Guest Mode login and setting the age to the child or teenager's age, or if you already did this but chose the wrong age, contact Bugs+ Support for help. To make the most out of parental controls, you can use a second computer or device to manage parental controls and get more parental controls by doing that.
