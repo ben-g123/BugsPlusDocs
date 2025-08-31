@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Bugs+ Setup](bugs+-setup.md)
+* [Hidden Features in Bugs+ That You Don’t Know About](hidden-features.md)
 
 ## Trading
 
