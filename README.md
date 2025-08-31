@@ -21,6 +21,8 @@ Bugs+ is a free educational game (no general ads, however there is still small n
 
 Here are some articles to get started. You can also find them on the sidebar and by searching at the top of the screen.
 
+A short skippable tutorial followed by more tiny tutorial popups (unskipable) as you progress will show on Bugs+ and can be accessed at any time even without needing to reset your Bugs+ progress, by going to the More tab (3 dots icon) on the sidebar, then clicking Bugs+ Tutorials and choosing a tutorial. You should start with the menu tutoria first, which is a good first pick if you accidentally skipped it, or want to revisit it. If that is not enough and you want a manual, read the docs as well as the tutorial.
+
 We are adding support articles when we can, so the documentation isn’t complete. Feel free to [contact support](https://bugsplus.me/support) when you need to.
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><i class="fa-user">:user:</i></td><td><strong>What Is BugID?</strong></td><td>Learn what BugID is and how to create one.</td><td><a href="bugid/what-is-bugid.md">what-is-bugid.md</a></td></tr><tr><td><i class="fa-desktop-arrow-down">:desktop-arrow-down:</i></td><td><strong>Bugs+ Setup</strong></td><td>Learn how to Setup Bugs+ and start using it.</td><td><a href="bugs+-setup.md">bugs+-setup.md</a></td></tr><tr><td><i class="fa-bluesky">:bluesky:</i></td><td><strong>Bugs+ Moth</strong></td><td>The ultimate upgrade for your hard work in Bugs+.</td><td></td></tr></tbody></table>
