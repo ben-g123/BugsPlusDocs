@@ -104,7 +104,7 @@ If you want to use another BugID or guest mode during the ban time, perform a Qu
 
 You can also change your birthdate to over 18 to remove parental controls, this also requires the Parent PIN. Learn more at [change-bugid-account-birthdate.md](../../bugid/change-bugid-account-birthdate.md "mention").
 
-This usually happens automatically if the user turns 18, but on older versions it may not happen automatically at all, or you will need to review the birthdate settings and confirm the age and review the Bugs+ Rules, and require approval with PIN, but we have changed that since adults don’t need random unwanted parental controls, so we remove it automatically. Update Bugs+ (reinstall Bugs+ and replace the new file with the okd file, or press Update if a update checking popup appears on app opening), and it should remove it automatically and the parenta, controls reviewing popup should go away.
+This usually happens automatically if the user turns 18, but on older versions it may not happen automatically at all if you don’t change the birthdate or go to the parental controls removal area, click on it and follow the steps, or you will need to review the birthdate settings and confirm the age and review the Bugs+ Rules, and require approval with PIN, but we have changed that since adults don’t need random unwanted parental controls, so we remove it automatically. Update Bugs+ (reinstall Bugs+ and replace the new file with the okd file, or press Update if a update checking popup appears on app opening), and it should remove it automatically and the parenta, controls reviewing popup should go away.
 
 </details>
 
