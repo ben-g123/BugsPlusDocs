@@ -106,6 +106,14 @@ You can also change your birthdate to remove parental controls, this also requir
 
 </details>
 
+<details>
+
+<summary>Need more help?</summary>
+
+You can contact Bugs+ Support for more help.
+
+</details>
+
 ## Manage parental controls
 
 You can manage parental controls either on the device or remotely. As a gift for using remote supervision, you can access even more controls since it is less likely to be hacked remotely and for easy access to change settings.
