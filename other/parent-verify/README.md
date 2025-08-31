@@ -184,7 +184,7 @@ You can scroll through your child or teenager’s Bugs+ history using the Bugs+ 
 
 <i class="fa-user-gear">:user-gear:</i> **Account Settings**
 
-Here you can manage certain settings on the person’s BugID, including your parent PIN and more. This is similar to the feature in Bugs+, but you can mange some of it remotely.
+Here you can manage certain settings on the person’s BugID, including your parent PIN and more. This is similar to the feature in Bugs+, but you can manage some of it remotely.
 
 <i class="fa-filter">:filter:</i> **Miscellaneous**
 
