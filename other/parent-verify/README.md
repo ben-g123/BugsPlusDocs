@@ -118,7 +118,7 @@ Steps (please note this is currently coming soon at the time of writing, it may 
 
 1. Go to [Bugs+ Supervision Opt Out - http://bugsplus.me/supervision-opt-out](http://bugsplus.me/supervision-opt-out)
 2. Select Next
-3. Enter your UserID. You can find this on most AI Summary cards on your profile, by going to Community (cell phone tower icon), click user profiles and click My Profile and scroll to the BugAI User AI Summary and locate the userid if displayed after it finished loading. No password will be required.
+3. Enter your UserID. You can find this on most AI Summary cards on your profile, by going to Community (cell phone tower icon), click user profiles and click My Profile (if you are using guest mode or another account enter your username \[only works for public profiles for viewing other people’s profiles unless you friended them]) and scroll to the BugAI User AI Summary and locate the userid if displayed after it finished loading. No password will be required.
 4. Read what supervision actually means and click Unlink.
 5. Read the note saying about the 1 day ban, check the checkboxes and click the OK button.
 6. Your devices should get banned and the parental controls should get unlinked. A timer won’t play though.
