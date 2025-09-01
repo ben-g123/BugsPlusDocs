@@ -12,7 +12,7 @@ Here are some features that you might find useful in Bugs+. Remember these are n
 * **Reopen tutorials anytime:** More tab (the 3 dots icon) → Bugs+ Tutorials. Start with the Menu tutorial for new players.
 * **Seasonal content:** There’s an Easter event and more seasonal events.
 * **BugAI and Image Generation:** Get access to AI features.
-* **Meet in the metaverse:** Visit the Bugs+ HQ world (Viverse). You can get tips, meet others, and even trade with the owner (Viverse account optional).
+* **Meet in the metaverse:** Visit the Bugs+ HQ world (Viverse). You can get tips, meet others, and even trade with the owner (Viverse account optional). Link: [https://worlds.viverse.com/Nyw4WnX](https://worlds.viverse.com/Nyw4WnX)
 * **Wide range of settings:** Bugs+ comes with a wide range of settings, go to the Account tab (the person icon) and press Settings or account settings.
 
 ## Part 2: Select Quick Actions
