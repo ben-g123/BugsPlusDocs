@@ -12,7 +12,7 @@ Parents will also get notifications if the child did wrong things on Bugs+, with
 
 This can be delayed by one day by pressing Maybe Later. After that it will be forced.
 
-To add and revoke rights for your child (permissions, like trading with real players and more), download Bugs+ on your device, choose Continue With BugID and instead of logging in with BugID, choose Supervise a Kids Account remotely using this device (COMING SOON) and follow the steps there, including entering your child’s email or username, and entering the Parent PIN.
+To add and revoke rights for your child (permissions, like trading with real players and more), download Bugs+ on your device, choose Continue With BugID and instead of logging in with BugID, choose Supervise a Kids Account remotely using this device and follow the steps there, including entering your child’s email or username, and entering the Parent PIN.
 
 If you already verified using that email on another platform, or used it for another Bugs+ Kids Account with Kids Web Services technology, you can skip needing to verify and just need to click on one link in your email.
 
