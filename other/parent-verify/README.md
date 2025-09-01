@@ -6,7 +6,7 @@ icon: octagon-check
 
 If the child using a BugID is under 12, they will need a parent to verify that they are allowed to use Bugs+, using ID or Face Scan. This service is powered by Kids Web Services. The parent will get an email with the link to start verification. Parents can also use this for users under 18 but over 12 (but it is optional if they are using it on a teenager.)
 
-After verifying, you will be able to setup parental controls using your device or use simple controls on your child‘s device.
+After verifying, you will be able to **setup parental controls** using your own device, then the parental controls will be applied to your child's device remotely (remote supervision) or manage simple controls on your child‘s device.
 
 Parents will also get notifications if the child did wrong things on Bugs+, with the chance to appeal on behalf of them.
 
@@ -169,6 +169,10 @@ Remotely managing parental controls gives more control over their kids and teena
 ### What sections are there in the supervision dashboard?
 
 Here are the sections on the supervision dashboard.
+
+<i class="fa-stars">:stars:</i> **Highlights & Recommendations**
+
+Here you can find recommended parental controls for your child. You can still choose your own as well.
 
 <i class="fa-comments">:comments:</i> **Community Features**
 
