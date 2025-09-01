@@ -129,7 +129,7 @@ Steps (please note this is currently coming soon at the time of writing, it may 
 
 <summary>Need more help?</summary>
 
-You can contact Bugs+ Support for more help.
+You can contact Bugs+ Support for more help. Don’t attempt to mod Bugs+ to unlink it.
 
 </details>
 

@@ -46,7 +46,7 @@ We may update these rules and will notify you via Bugs+ of any changes. Failure 
 
 ## Rule 6: Don’t cheat
 
-This is an educational game, please don’t cheat! This takes the learning away, and makes it unfair for everyone, so don‘t do it. If you accidentally find a glitch, it’s fine (unless you did it on purpose), but please try to undo the cheat or contact support and report the glitch. This includes trying to get infinite or unlimited Bug Points or Stars. This includes game modding.
+This is an educational game, please don’t cheat! This takes the learning away, and makes it unfair for everyone, so don‘t do it. If you accidentally find a glitch, it’s fine (unless you did it on purpose), but please try to undo the cheat or contact support and report the glitch. This includes trying to get infinite or unlimited Bug Points or Stars. This includes game modding. We will either lock or ban your Bugs+ account (not application) if you try to mod or cheat. Both are the same thing but locking it shows a popup error at the start with no appeal for in-app other than contacting support. (debug mode can still be used to bypass both screens but not recommended).
 
 ## Rule 7: Choose The Right Age
 
