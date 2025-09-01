@@ -193,3 +193,5 @@ Here you can manage certain settings on the person’s BugID, including your par
 <i class="fa-filter">:filter:</i> **Miscellaneous**
 
 Here you can manage other features that may not fit into a category.
+
+<figure><img src="../../.gitbook/assets/Image 1-9-2025 at 2.44 pm.png" alt=""><figcaption><p>Image of the Supervision Dashboard homepage, managing a user called ben-school. Note that you can manage any user you are a parent of.</p></figcaption></figure>
