@@ -110,11 +110,30 @@ This usually happens automatically if the user turns 18, but on older versions i
 
 <details>
 
+<summary>Unlink Parental Controls Using Your Web Browser</summary>
+
+If all the above fails, you can also remove supervision from your browser. Note that the account will still be banned for a day, but a siren noise won’t play. So we recommend either using the device or using remote supervision if you know the PIN.
+
+Steps (please note this is currently coming soon at the time of writing, it may work it may not work):
+
+1. Go to [Bugs+ Supervision Opt Out - http://bugsplus.me/supervision-opt-out](http://bugsplus.me/supervision-opt-out)
+2. Select Next
+3. Enter your UserID. You can find this on most AI Summary cards on your profile, by going to Community (cell phone tower icon), click user profiles and click My Profile and scroll to the BugAI User AI Summary and locate the userid if displayed after it finished loading. No password will be required.
+4. Read what supervision actually means and click Unlink.
+5. Read the note saying about the 1 day ban, check the checkboxes and click the OK button.
+6. Your devices should get banned and the parental controls should get unlinked. A timer won’t play though.
+
+</details>
+
+<details>
+
 <summary>Need more help?</summary>
 
 You can contact Bugs+ Support for more help.
 
 </details>
+
+Note that doing any of these options, when there is a active remote supervision login, the parent will be prompted to re-enable supervision or logout from the supervision dashboard and risk loosing supervision on the next supervision dashboard opening.
 
 ## Manage parental controls
 
