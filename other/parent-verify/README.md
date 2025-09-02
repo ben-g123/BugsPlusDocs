@@ -133,7 +133,7 @@ You can contact Bugs+ Support for more help. Don’t attempt to mod Bugs+ to unl
 
 </details>
 
-Note that doing any of these options, when there is a active remote supervision login, the parent will be prompted to re-enable supervision or logout from the supervision dashboard and risk loosing supervision on the next supervision dashboard opening.
+Note that doing any of these options, when there is a active remote supervision login, the parent will be prompted to re-enable supervision or logout from the supervision dashboard and risk loosing supervision on the next supervision dashboard opening. Also, if parental controls don't remove properly after unlinking, please Contact Bugs+ Support.
 
 ## Manage parental controls
 
