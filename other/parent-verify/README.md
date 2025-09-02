@@ -135,6 +135,34 @@ You can contact Bugs+ Support for more help. Don’t attempt to mod Bugs+ to unl
 
 Note that doing any of these options, when there is a active remote supervision login, the parent will be prompted to re-enable supervision or logout from the supervision dashboard and risk loosing supervision on the next supervision dashboard opening. Also, if parental controls don't remove properly after unlinking, please Contact Bugs+ Support, and example of this is the leaderboard hiding feature staying on even after unlinking since currently we don't fix that, but you can contact support if the parents forgot to fix it and you really want to be in the leaderboards.
 
+## Setup Parental Controls
+
+You can setup parental controls for your child or teenager.
+
+**How do you want to setup parental controls?**
+
+<details>
+
+<summary>Create a new BugID with parental controls built in</summary>
+
+If you want to create a shiny new BugID for your child that comes with parental controls, simply choose Continue use With BugID on the sign up screen. Is your child currently signed out but is using Guest Mode? Go to the Account tab (the person icon) and press Merge Data To BugID. If you did both of those, choose the birthdate of your child or teenager. Bugs+ supports parental controls for under 18 years old, with no minimum age requirement. Past that age, Bugs+ parental controls may get disabled. Then, verify your age and setup parental controls. Make the most of it by using your computer as the parental controls remote, which grants remote access and more controls.
+
+</details>
+
+<details>
+
+<summary>Add Parental Controls to a existing BugId</summary>
+
+Follow the steps to setup parental controls on a under 18 account:
+
+1. Go to the account tab (the person icon)
+2. Press Account Settings
+3. Press Setup Parental Controls
+4. Press Next and verify your age to verify you are a parent of that child or teenager.
+5. Setup parental controls! Also, consider downloading Bugs+ on your personal laptop and controlling parental controls remotely. (we will even gift you more controls!)
+
+</details>
+
 ## Manage parental controls
 
 You can manage parental controls either on the device or remotely. As a gift for using remote supervision, you can access even more controls since it is less likely to be hacked remotely and for easy access to change settings.
