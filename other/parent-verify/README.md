@@ -52,8 +52,8 @@ To unlink parental controls with a Parent PIN, follow these steps:
 
 1. Go to the Account tab (the person icon)
 2. Press Account Settings
-3. Press Account Details
-4. Press Kids Account Settings
+3. Press Parental Controls
+4. Press Unlink Parental Controls
 5. Press "My Parent Is Here, Next Step" on the popup
 6. Enter your Parent PIN
 7. Press Approve
@@ -85,12 +85,13 @@ To unlink parental controls without using a Parent PIN (useful if you forgot the
 
 1. Go to the Account tab (the person icon)
 2. Press Account Settings
-3. Press Account Details
-4. Press Kids Account Settings
-5. Press "Unlink parental controls without parent"
-6. Read the note carefully and press "Acknowledge & Unlink Parental Controls"
-7. Wait for the 1 minute timer to finish, please don't close the page or window while the timer is on
-8. The siren noise will go off, the user will get banned for a day and the parental controls will turn off.
+
+1) Press Parental Controls
+2) Press Unlink Parental Controls
+3) Press "Unlink parental controls without parent"
+4) Read the note carefully and press "Acknowledge & Unlink Parental Controls"
+5) Wait for the 1 minute timer to finish, please don't close the page or window while the timer is on
+6) The siren noise will go off, the user will get banned for a day and the parental controls will turn off.
 
 {% include "../../.gitbook/includes/parental-controls-unlinking-timer-method.md" %}
 
@@ -104,7 +105,42 @@ If you want to use another BugID or guest mode during the ban time, perform a Qu
 
 You can also change your birthdate to over 18 to remove parental controls, this also requires the Parent PIN. Learn more at [change-bugid-account-birthdate.md](../../bugid/change-bugid-account-birthdate.md "mention").
 
-This usually happens automatically if the user turns 18, but on older versions it may not happen automatically at all if you don’t change the birthdate or go to the parental controls removal area, click on it and follow the steps, or you will need to review the birthdate settings and confirm the age and review the Bugs+ Rules, and require approval with PIN, but we have changed that since adults don’t need random unwanted parental controls, so we remove it automatically. Update Bugs+ (reinstall Bugs+ and replace the new file with the okd file, or press Update if a update checking popup appears on app opening), and it should remove it automatically and the parenta, controls reviewing popup should go away.
+After reaching that age (if you did not use the birthdate changing step it needs to be done manually), we won’t alert you, but you can follow these steps to unlink parental controls:
+
+1. Go to the Account Tab (the person icon)
+2. Press Account Settings
+3. Press Parental Controls
+4. Press Unlink Parental Controls
+5. Press Next
+6. Press Next again
+7. Press Approve
+8. Bugs+ will restart and Parental Controls will be removed with a very tiny chance of it being added back by the parent since we may prevent it. Your account won’t get banned, there will be no siren, and there will be no timer!
+
+</details>
+
+<details>
+
+<summary>Temporarily disable parental controls to change lots of parent locked settings at once or to avoid restrictions</summary>
+
+If you only need to remove parental controls for a small amount of time, you can remove it without sitting through the setup process all over again. Please note that the deactivation will expire when Bugs+ is restarted or the green flag icon for restarting is pressed once (not with the D key), and Bugs+ quickly restarts to the title screen. This is for one device, but you can temporarily deactivate it for other devices as well. This also requires the Parent PIN.
+
+**Follow these steps to make a temporary deactivation**:
+
+1. Go to the Account Tab (the person icon)
+2. Press Account Settings
+3. Press Parental Controls
+4. Press Parental Access Mode
+5. Enter your PIN
+6. Press Approve on the next screen
+7. Parental controls will be deactivated.
+
+If you want to re-activate you can restart Bugs+, use the Green Flag icon at the top, or follow these steps:
+
+1. Go to the Account Tab (the person icon)
+2. Press Account Settings
+3. Press Parental Controls
+4. Press Child Mode. This will only appear if parental controls are enabled but deactivated.
+5. No other steps needed, you can continue using it just like before you deactivated it
 
 </details>
 
@@ -135,6 +171,8 @@ You can contact Bugs+ Support for more help. Don’t attempt to mod Bugs+ to unl
 
 Note that doing any of these options, when there is a active remote supervision login, the parent will be prompted to re-enable supervision or logout from the supervision dashboard and risk loosing supervision on the next supervision dashboard opening. Also, if parental controls don't remove properly after unlinking, please Contact Bugs+ Support, and example of this is the leaderboard hiding feature staying on even after unlinking since currently we don't fix that, but you can contact support if the parents forgot to fix it and you really want to be in the leaderboards.
 
+If you choose to add parental controls back, your original settings will come back and be enforced, but you will have a chance to change them like always with the PIN.
+
 ## Setup Parental Controls
 
 You can setup parental controls for your child or teenager.
@@ -151,15 +189,17 @@ If you want to create a shiny new BugID for your child that comes with parental 
 
 <details>
 
-<summary>Add Parental Controls to a existing BugId</summary>
+<summary>Add Parental Controls to a existing BugID</summary>
 
 Follow the steps to setup parental controls on a under 18 account:
 
-1. Go to the account tab (the person icon)
+1. Go to the Account Tab (the person icon)
 2. Press Account Settings
 3. Press Setup Parental Controls
-4. Press Next and verify your age to verify you are a parent of that child or teenager.
-5. Setup parental controls! Also, consider downloading Bugs+ on your personal laptop and controlling parental controls remotely. (we will even gift you more controls!)
+4. Press Next
+5. Press Verify Now and verify your age to verify you are a parent of that child or teenager.
+6. One recommendation will popup about choosing who your child can trade with, press Select and change the setting, or press Skip and ignore it.
+7. Setup parental controls! Also, consider downloading Bugs+ on your personal laptop and controlling parental controls remotely. (we will even gift you more controls!)
 
 </details>
 
@@ -210,6 +250,20 @@ Remotely managing parental controls gives more control over their kids and teena
 5. Enter the Parent PIN when prompted
 6. Press Start
 7. A supervision dashboard should show up, manage your settings there
+
+</details>
+
+### Devices and services that can’t be supervised
+
+Here are some devices and services that can’t be supervised via parental controls and what happens when you use them with a Kids Account.
+
+<details>
+
+<summary>Web browsers</summary>
+
+Web browsers that are used to login to only a BugID and not a BugID and Bugs+ at the same time can’t be properly supervised with parental controls, so please use your device’s built in controls and block pages that only use web browsers if you care about this (don’t block the Bugs+ login page).
+
+**None of your controls will be enforced if your child uses their browser. Please speak to the supervised user about if it is abused.**
 
 </details>
 
