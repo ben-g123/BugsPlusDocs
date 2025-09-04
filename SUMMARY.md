@@ -16,6 +16,7 @@
 * [Report A Player](trading/player-report.md)
 * [Report Scams In Bugs+](trading/report.md)
 * [Trading Cards Reseller](trading/trading-cards-reseller.md)
+* [Anti-Scam and Abuse Features](trading/anti-scam-and-abuse-features.md)
 
 ## BugID
 
