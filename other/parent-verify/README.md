@@ -157,6 +157,10 @@ If you want to re-activate you can restart Bugs+, use the Green Flag icon at the
 4. Press Child Mode. This will only appear if parental controls are enabled but deactivated.
 5. No other steps needed, you can continue using it just like before you deactivated it
 
+{% hint style="warning" %}
+We found out that it won’t work and won’t show up on Bugs+ 1.0 and 1.1, please use the latest version!
+{% endhint %}
+
 </details>
 
 <details>
