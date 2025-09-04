@@ -44,8 +44,22 @@ With parental controls, your parent can manage your Bugs+ application and keep y
 You can ask your parent to manage parental controls and they can manage it for you.
 
 Disabling parental controls withou consent will need you to wait for a minute timer after clicking on the button, a siren playing, and you getting banned for 1-day.\
+A lockout will be introduced in future versions, see a sneak peak below
+
+<details>
+
+<summary>Click here to view sneak peak</summary>
+
 You won’t be able to manage parental settings or disable parental settings without automatic punishments without knowing the Parent PIN. Using the PIN maximum attempts (11 attempts) on a device (except the supervision dashboard) will issue a lock-out for 4-days. Here’s what’s included in the lockout and how to recover from it if you are a parent:
 
 * You will be able to recover parental access on that device by logging on to another device, and setting up remote supervision, then going to the dashboard, and go to Account Settings, and then select Parent PIN, then press Parental PIN Lockout Recovery, and enter the code you get onto the recovery screen. If you don’t get the option to do this, you will need to wait for the lockout to expire or logout and log in again.
-* The lockout will be issued for 4-days. Parents will not be notified vis the dashboard.
+
+- The lockout will be issued for 4-days. Parents will not be notified via the dashboard.
+
 * Note that only newer Bugs+ versions will have this functionality, so make sure to update both Bugs+ applications recovering from the lockout.
+
+</details>
+
+{% hint style="info" %}
+Some devices or features may not be able to be supervised or have limited supervision features. Your parent can take action on this if you exploit unsupervised or limited supervision devices or features.
+{% endhint %}

@@ -12,6 +12,19 @@ Parents will also get notifications if the child did wrong things on Bugs+, with
 
 This can be delayed by one day by pressing Maybe Later. After that it will be forced.
 
+{% hint style="warning" %}
+## **Compatibility**
+
+**All versions support parental controls, but here are recommended versions**\
+Here is the minimum Bugs+ version to get modern and  proper parental controls:
+
+* **Bugs+ 1.2** - Using a earlier version will only have limited parental controls, see [#devices-and-services-that-cant-be-supervised-or-have-limited-supervision](./#devices-and-services-that-cant-be-supervised-or-have-limited-supervision "mention")
+
+Here is the recommended Bugs+ version if you want the latest features
+
+* **The latest Bugs+ versions** - Talk to your child about why you should update Bugs+, including safety features, security fixed, glitch fixes, new features and more. You can also go on their computer and update it for them.
+{% endhint %}
+
 To add and revoke rights for your child (permissions, like trading with real players and more), download Bugs+ on your device, choose Continue With BugID and instead of logging in with BugID, choose Supervise a Kids Account remotely using this device and follow the steps there, including entering your child’s email or username, and entering the Parent PIN.
 
 If you already verified using that email on another platform, or used it for another Bugs+ Kids Account with Kids Web Services technology, you can skip needing to verify and just need to click on one link in your email.
@@ -34,9 +47,11 @@ Please make sure to enter the correct age for your child. Failure to do so will 
 
 ## Features that can be managed by the parent in a Kids Account
 
-<i class="fa-screwdriver-wrench">:screwdriver-wrench:</i> Manage features that your kids or teenagers can use via the Parent Portal
+<i class="fa-screwdriver-wrench">:screwdriver-wrench:</i> Manage features that your kids or teenagers can use via the Parent Portal (now Remote Supervision, since we changed the name)
 
 <i class="fa-hashtag-lock">:hashtag-lock:</i> Create a Parent PIN to approve certain setting changes, such as birthdate changes or parental controls unlinking
+
+And more, see [note.md](note.md "mention")
 
 ## Unlink Parental Controls
 
@@ -201,6 +216,10 @@ Follow the steps to setup parental controls on a under 18 account:
 6. One recommendation will popup about choosing who your child can trade with, press Select and change the setting, or press Skip and ignore it.
 7. Setup parental controls! Also, consider downloading Bugs+ on your personal laptop and controlling parental controls remotely. (we will even gift you more controls!)
 
+{% hint style="warning" %}
+Not supported on Bugs+ 1.0 and 1.1, so make sure to update, but you can still contact support to enable it if you can’t update.
+{% endhint %}
+
 </details>
 
 ## Manage parental controls
@@ -229,7 +248,7 @@ Some features you are used to seeing won’t show on their device since you need
 
 <i class="fa-sliders-up">:sliders-up:</i> Configure a limited range of parental settings, such as trading (other configurations may not be available)
 
-<i class="fa-hourglass-clock">:hourglass-clock:</i> Enforce learning features only until the end of the day or until stopped using the Parent PIN
+<i class="fa-hourglass-clock">:hourglass-clock:</i> Enforce learning features only until the end of the day or until stopped using the Parent PIN (only on some older versions not 1.0 or 1.1, so that’s another reason we encourage you to sign up for the remote supervision)
 
 To unlock more control, consider remotely changing settings alongside changing it directly.
 
@@ -251,9 +270,13 @@ Remotely managing parental controls gives more control over their kids and teena
 6. Press Start
 7. A supervision dashboard should show up, manage your settings there
 
+{% hint style="warning" %}
+Wondering why controls are not working? Does your child have Bugs+ 1.0 or 1.1? Then only a small amount (1 or 2) of controls remotely supervised will work, and your child may be changing it. For example, using the disabling trades won’t take effect, but friends only mode will work but that’s only who can friend that person not who they can trade with unlike other versions.
+{% endhint %}
+
 </details>
 
-### Devices and services that can’t be supervised
+### Devices and services that can’t be supervised or have limited supervision
 
 Here are some devices and services that can’t be supervised via parental controls and what happens when you use them with a Kids Account.
 
@@ -267,6 +290,43 @@ Web browsers that are used to login to only a BugID and not a BugID and Bugs+ at
 
 </details>
 
+<details>
+
+<summary>Versions Bugs+ 1.0 and Bugs+ 1.1</summary>
+
+Bugs+ 1.0 and 1.1 only support limited supervision, so please take care when using those versions, and update your version to the latest at https://bugsplus.me/page?p=download since those versions don’t have update alerts. This is since those versions are early versions of Bugs+ and before proper parental controls.
+
+**Here’s the only settings that we enforce on those versions:**
+
+* Built-in required restrictions that everyone has, including no trade directories, and no direct link to the Bugs+ Forum
+* Parent PIN for disabling parental controls and changing the birthdate
+* Can’t Update? You can change the settings yourself but they can be changed by your supervised user and does not include the dedicated version for parental control purposes
+
+**Other key points that don’t fit into the unenforced restrictions category:**
+
+* Parental controls can’t be added again or added after skipping the parental controls setup at the start without Bugs+ Support on those versions
+* The Parental Controls tab won’t be available, so to unlink controls on those versions, go to Account Settings, press Account Details, press Kids Account Settings, and follow the instructions
+* Remote supervision will be available to open but won’t be enforced
+* Check Your Child’s Bugs+ Version: Your child may of got Bugs+ earlier, since we don’t provide download links to older versions of Bugs+, or they are not deleting the old versions and are using it as a parental controls bypassing system but you can fix it. Make sure there is a notice on the homepage shoeing something like “This BugID Is Supervised Via Bugs+ Parental Controls!”. Don’t see it? Update and check parental controls settings. You can also use the Check For Updates button on the Home tab (the house icon).
+
+</details>
+
+<details>
+
+<summary>Older versions (not 1.0 and 1.1 but still older)</summary>
+
+Parental controls will work just like it used to on older versions, but if you want to use newer controls or encourage more learning with more features, then you are better of installing updates.
+
+</details>
+
+<details>
+
+<summary>Devices using Guest Mode or another account</summary>
+
+Guest Mode devices or other accounts (unless supervised, but parental controls will be separate) won’t have your supervision settings at all, so make sure to talk to your child about it and find parental controls to approve sign ins and sign outs if available, check in your supervision dashboard.
+
+</details>
+
 ### What sections are there in the supervision dashboard?
 
 Here are the sections on the supervision dashboard.
@@ -274,10 +334,6 @@ Here are the sections on the supervision dashboard.
 <i class="fa-stars">:stars:</i> **Highlights & Recommendations**
 
 Here you can find recommended parental controls for your child. You can still choose your own as well.
-
-<i class="fa-comments">:comments:</i> **Community Features**
-
-With the Community Features area, you can manage who can trade with your child, if the child should have a friends list and more community and interaction related settings. On older Bugs+ versions this is called General Parental Controls Settings.
 
 <i class="fa-hourglass-clock">:hourglass-clock:</i> **Time Management**
 
