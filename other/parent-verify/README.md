@@ -18,7 +18,7 @@ This can be delayed by one day by pressing Maybe Later. After that it will be fo
 **All versions support parental controls, but here are recommended versions**\
 Here is the minimum Bugs+ version to get modern and  proper parental controls:
 
-* **Bugs+ 1.2** - Using a earlier version will only have limited parental controls, see [#devices-and-services-that-cant-be-supervised-or-have-limited-supervision](./#devices-and-services-that-cant-be-supervised-or-have-limited-supervision "mention")
+* **Bugs+ 1.2 and higher** - Using a earlier version will only have limited parental controls, see [#devices-and-services-that-cant-be-supervised-or-have-limited-supervision](./#devices-and-services-that-cant-be-supervised-or-have-limited-supervision "mention")
 
 Here is the recommended Bugs+ version if you want the latest features
 
