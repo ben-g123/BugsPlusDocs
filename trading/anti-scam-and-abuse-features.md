@@ -23,12 +23,24 @@ In some cases, it may take less than 40 seconds for someone to login, while you 
 
 You can also mention trade IDs, users and more by pressing Add Resources.
 
-To end the call after someone accepted it, press End Emergency Alert, then confirm it. If we accepted it after the countdown, and it is an accidental call, please tell us using the messaging function.
+To end the call after someone accepted it, press End Emergency Alert, then confirm it.
+
+If we accepted it after the countdown, and it is an accidental call, please tell us using the messaging function. Otherwise, we may reply to you back unnecessarily via Email.
 
 If you add resources, the person who you are reporting won’t get notified, and if we take action, we won't include your name or other reporters for privacy and trust reasons, we will just say that we took action based on our review.
 
 We show off this feature in What’s New popups, Scam Alerts and certain suggestions.
 
 Prank calls and fake calls are not allowed and will result in a quick hang up, and a warning or ban appearing when you next open Bugs+. Accidental calls are allowed but don’t do it too much since we may think it is a prank, since only our team knows who did the alert. Also only one other Bugs+ Support person can connect to your call at a time.
+
+**Here's what will happen when you trigger our Real Time Alerting System**
+
+After the countdown, Bugs+ and your device will:
+
+<i class="fa-check">:check:</i> Connect you to Bugs+ Support via our Real Time Alerting System
+
+<i class="fa-check">:check:</i> The support agent may email you with a follow-up
+
+<i class="fa-check">:check:</i> Enable Emergency Logging Mode - Bugs+ will collect info on what's happening on your screen so you can send it to us later or for future reference, you may get a call back during this time. Duration: 2 minutes, updates every time you go to a different resource.
 
 </details>
