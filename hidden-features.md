@@ -14,7 +14,7 @@ Here are some features that you might find useful in Bugs+. Remember these are n
 * **BugAI and Image Generation:** Get access to AI features.
 * **Meet in the metaverse:** Visit the Bugs+ HQ world (Viverse). You can get tips, meet others, and even trade with the owner (Viverse account optional). Link: [https://worlds.viverse.com/Nyw4WnX](https://worlds.viverse.com/Nyw4WnX)
 * **Wide range of settings:** Bugs+ comes with a wide range of settings, go to the Account tab (the person icon) and press Settings or account settings.
-* Get Help ASAP: Need help from a scammy or abusive trade or person? Press your S Key 5 times to give real time alerts. Fun fact: S key stands for Scam Key but it can be used for any alert. Details: [#report-scams-and-abuse-in-real-time-with-our-emergency-alerting-system](trading/anti-scam-and-abuse-features.md#report-scams-and-abuse-in-real-time-with-our-emergency-alerting-system "mention")
+* **Get Help ASAP**: Need help from a scammy or abusive trade or person? Press your S Key 4 times to give real time alerts. Fun fact: S key stands for Scam Key but it can be used for any alert. Details: [#report-scams-and-abuse-in-real-time-with-our-emergency-alerting-system](trading/anti-scam-and-abuse-features.md#report-scams-and-abuse-in-real-time-with-our-emergency-alerting-system "mention")
 
 ## Part 2: Select Quick Actions
 
