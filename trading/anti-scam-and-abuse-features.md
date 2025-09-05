@@ -41,6 +41,6 @@ After the countdown, Bugs+ and your device will:
 
 <i class="fa-check">:check:</i> The support agent may email you with a follow-up
 
-<i class="fa-check">:check:</i> Enable Emergency Logging Mode - Bugs+ will collect info on what's happening on your screen so you can send it to us later or for future reference, you may get a call back during this time. Duration: 2 minutes, updates every time you go to a different resource.
+<i class="fa-check">:check:</i> Enable Emergency Logging Mode - Bugs+ will collect info on what's happening on your screen so you can send it to us later or for future reference, you may get a call back during this time. Duration: 2 minutes, updates every time you go to a different resource. This happens after the call.
 
 </details>
