@@ -43,3 +43,7 @@ If you don’t know the Trade ID, since the trade is no longer there or has been
 ## Use A Anti-Scam And Abuse Feature
 
 The most common anti-scam and abuse feature is the S Key. Press the S Key on your keyboard 4 times, wait for the countdown, and chat with support real-time. Instructions: [#report-scams-and-abuse-in-real-time-with-our-emergency-alerting-system](anti-scam-and-abuse-features.md#report-scams-and-abuse-in-real-time-with-our-emergency-alerting-system "mention").
+
+## No Need To Rush!
+
+You have unlimited time to collect evidence, send emergneyc alerts and report scams, even when a trade is taken down or suppressed for every trade. Feel free to use this time, but report scammy trades quickly.
