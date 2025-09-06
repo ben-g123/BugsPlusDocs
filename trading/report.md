@@ -39,3 +39,7 @@ If you can’t use the interface to report the scam, you can also go to [http://
 ### Player Reports & Investigation for Suppressed Trades
 
 If you don’t know the Trade ID, since the trade is no longer there or has been suppressed or removed, you can use the Player Reports and Investigations tool instead, which you can use at [http://bugsplus.me/support](http://bugsplus.me/support).
+
+## Use A Anti-Scam And Abuse Feature
+
+The most common anti-scam and abuse feature is the S Key. Press the S Key on your keyboard 4 times, wait for the countdown, and chat with support real-time. Instructions: [#report-scams-and-abuse-in-real-time-with-our-emergency-alerting-system](anti-scam-and-abuse-features.md#report-scams-and-abuse-in-real-time-with-our-emergency-alerting-system "mention").
