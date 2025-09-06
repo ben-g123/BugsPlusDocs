@@ -9,9 +9,23 @@ Here are the different anti-scam levels:
 
 You can change the anti-scam level by following the following steps:
 
+**On a version without the S Key alerting system:**
+
 * Go to the Account tab (the person icon)
 * Press Settings.
 * Press Trading
 * Press Anti-Scam
 * Press Anti-Scam Level
 * Choose the Anti-Scam level you want to use.
+
+**On a version with support for the S Key alerting system:**
+
+* Go to the Account Tab (the person icon)
+* Press Settings
+* Press Trading
+* Press Anti-Scam & Abuse Centre
+* Press Configure Anti-Scam in the list of Features
+* Select Anti-Scam Level
+* Choose the Anti-Scam level you want to use.
+
+**Note:** Unlike the Anti-Scam & Abuse Centre, Anti-Scam levels are per-device.

@@ -2,6 +2,8 @@
 
 Bugs+ comes with a handful of useful anti-scam features, and they are listed below, click one to learn more:
 
+## Features
+
 <details>
 
 <summary>Anti-Scam Levels &#x26; Scam Alerts</summary>
@@ -43,5 +45,26 @@ After the countdown, Bugs+ and your device will:
 <i class="fa-check">:check:</i> The support agent may email you with a follow-up
 
 <i class="fa-check">:check:</i> Enable Emergency Logging Mode - Bugs+ will collect info on what's happening on your screen so you can send it to us later or for future reference, you may get a call back during this time. Duration: 2 minutes, updates every time you go to a different resource. This happens after the call.
+
+</details>
+
+And there are many more that we added in with or without documentation here or other places or both, they may not be notable enough to share, but they will still help.
+
+## Anti-Scam & Abuse Centre
+
+You can access the Anti-Scam & Abuse Centre to manage anti-scam and abuse features on Bugs+. It even applies to your BugID if signed in, which syncs across all your devices! (some features sync while others don’t)
+
+**Guide to using the Anti-Scam and Abuse Centre:**
+
+<details>
+
+<summary>Access the Anti-Scam &#x26; Abuse Centre</summary>
+
+Steps to accessing your Anti-Scam & Abuse Centre (only available on versions that support the S Key emergency alert system):
+
+1. Go to the Account Tab (the person icon)
+2. Press Settings
+3. Press Trading
+4. Press Anti-Scam & Abuse Centre
 
 </details>
