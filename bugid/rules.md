@@ -12,7 +12,9 @@ At Bugs+ we made some rules that people need to follow or else moderation action
 
 You can find out what rule you broke by seeing the ban notice, warning notice, or notification. If you don't get a popup, check the Notification Bell. If you still need help, contact Bugs+ Support (bugsplus.me/support). You can appeal with a link in the alert or ban screen.
 
-Our rules are regularly updated, and we have transparency on when we last update our rules. Transparency statusboard:
+Our rules are regularly updated, and we have transparency on when we last update our rules and what we added. We care a lot about this and our rules, so we even mention spelling fixes and minor changes not just the major ones.
+
+**Transparency statusboard:**
 
 <i class="fa-calendar-days">:calendar-days:</i> **Rules Last Updated**: August 29 2025
 

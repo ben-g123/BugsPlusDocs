@@ -46,4 +46,4 @@ The most common anti-scam and abuse feature is the S Key. Press the S Key on you
 
 ## No Need To Rush!
 
-You have unlimited time to collect evidence, send emergneyc alerts and report scams, even when a trade is taken down or suppressed for every trade. Feel free to use this time, but report scammy trades quickly.
+You have unlimited time to collect evidence, send emergency alerts and report scams, even when a trade is taken down or suppressed for every trade. Feel free to use this time, but report scammy trades quickly.
