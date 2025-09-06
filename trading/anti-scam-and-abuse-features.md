@@ -48,6 +48,25 @@ After the countdown, Bugs+ and your device will:
 
 </details>
 
+<details>
+
+<summary>Is something suspicious but not sure exactly? Prove it or think it’s a false positive with Quick Emergency Logging</summary>
+
+You can now enable Emergency Logging and collect evidence for something that is not urgent but suspicious, with Quick Emergency Logging. Backups stay alongside normal Emergency Logging backups. The logging will go on for 2 minutes, and you will be able to investigate later.
+
+**How to quickly start a Emergency Logging session (your version must support the S Key):**
+
+1. Go to the Account Tab (the person icon)
+2. Press Settings
+3. Press Trading
+4. Press Anti-Scam & Abuse Centre
+5. Press Start Quick Emergency Logging in the list of Features
+6. Confirm that you want to quickly start it and that it is not an urgent situation.
+
+You can’t start logging if there is no more backup space, so make sure to clear up space first.
+
+</details>
+
 And there are many more that we added in with or without documentation here or other places or both, they may not be notable enough to share, but they will still help.
 
 ## Anti-Scam & Abuse Centre
@@ -101,7 +120,7 @@ You can demo some Anti-Scam & Abuse Centre features without triggering real aler
 
 <summary>Find &#x26; Use Emergency Logging Backups</summary>
 
-Your Emergency Logging sessions aren’t just single use, you can back them up and they are backed up by default if you don’t cancel the logging or block it from backing up! Make sure this  backups feature is enabled first, and it is by default.
+Your Emergency Logging sessions aren’t just single use, you can back them up and they are backed up by default if you don’t cancel the logging or block it from backing up! Make sure this  backups feature is enabled first, and it is by default. This includes Quick Emergency Logging backups as well.
 
 **Accessing past backups (versions that support the S Key only):**
 
@@ -115,6 +134,8 @@ Your Emergency Logging sessions aren’t just single use, you can back them up a
 **What you can do during Emergency Logging and in the backup:**
 
 * Start a new call with the Emergency Logging data. Just press Call Using This Emergency Log or press the S Key 4 times on that screen.
+* Delete it if it is no longer needed or you need space for more backups
+* Request a non-urgent investigation from Bugs+ Support
 
 </details>
 
