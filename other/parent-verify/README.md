@@ -108,6 +108,8 @@ To unlink parental controls without using a Parent PIN (useful if you forgot the
 5) Wait for the 1 minute timer to finish, please don't close the page or window while the timer is on
 6) The siren noise will go off, the user will get banned for a day and the parental controls will turn off.
 
+**Changed your mind but the countdown did not finish yet?** Press the Cancel button at the bottom of the countdown to cancel.
+
 {% include "../../.gitbook/includes/parental-controls-unlinking-timer-method.md" %}
 
 If you want to use another BugID or guest mode during the ban time, perform a Quick Restart by pressing the green flag at the top of the screen, while holding down the D key. Continue holding it even while selecting the buttons on the popup. If you see a popup, press the appropriate buttons on it. Then, you should see a Debug Mode instead of the title screen. Stop holding the key, and if you missed, restart those steps. Then, press the Reset button. Press the confirm button that will appear, then Bugs+ should restart. Now you can login to another account, note that you can login to your Kids Account that with the parental controls you have removed after the next day anytime without loosing any save data.

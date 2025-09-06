@@ -44,7 +44,7 @@ After the countdown, Bugs+ and your device will:
 
 <i class="fa-check">:check:</i> The support agent may email you with a follow-up
 
-<i class="fa-check">:check:</i> Enable Emergency Logging Mode - Bugs+ will collect info on what's happening on your screen so you can send it to us later or for future reference, you may get a call back during this time. Duration: 2 minutes, updates every time you go to a different resource. This happens after the call.
+<i class="fa-check">:check:</i> Enable Emergency Logging Mode - Bugs+ will collect info on what's happening on your screen so you can send it to us later in a new call or in the follow up or for future reference, you can even store up to 3 backups without needing to remove any, regardless of levels or Bugs+ Moth, and you may get a call back during this time. Duration: 2 minutes, updates every time you go to a different resource. This happens after the call. You will also be able to stop Emergency Logging from starting if it is not
 
 </details>
 
@@ -52,7 +52,11 @@ And there are many more that we added in with or without documentation here or o
 
 ## Anti-Scam & Abuse Centre
 
+Help prevent and report scams, plus shield yourself from scams with the Anti-Scam & Abuse Centre.
+
 You can access the Anti-Scam & Abuse Centre to manage anti-scam and abuse features on Bugs+. It even applies to your BugID if signed in, which syncs across all your devices! (some features sync while others don’t)
+
+It’s not just for scams or for trading related abuse, it can also be used for other types of abuse or important support cases.
 
 **Guide to using the Anti-Scam and Abuse Centre:**
 
@@ -66,5 +70,28 @@ Steps to accessing your Anti-Scam & Abuse Centre (only available on versions tha
 2. Press Settings
 3. Press Trading
 4. Press Anti-Scam & Abuse Centre
+
+</details>
+
+<details>
+
+<summary>Try demos and test Anti-Scam &#x26; Abuse Features before they actually need to be used</summary>
+
+You can demo some Anti-Scam & Abuse Centre features without triggering real alerts or annoying real people. You even won’t get in trouble for testing too much, and your action won’t get logged, and it’s a perfect way to practice!
+
+**Follow these steps to demo these features (only for versions that support the S Key):**
+
+1. Go to the Account Tab (the person icon)
+2. Press Settings
+3. Press Trading
+4. Press Anti-Scam & Abuse Centre
+5. Press Demos on the navigation on the right that will appear in the Anti-Scam & Abuse Centre
+6. Choose a feature you want to demo, and some instructions and a way to test it out without triggering real alerts will appear. If you don’t see it, update Bugs+.
+
+**What you can demo currently and how it works (some features can’t be demoed currently):**
+
+* **Scam Alerts (Anti-Scam):** Get a feel of the scam alert popup and what actions you can take without risking a real scam.
+* **S Key Emergency Alerting:** Feel and experience what happens when you press the S Key 4 times, without annoying real people, including the countdown, the siren, the emergency call and Emergency Logging. (follow up email not included)
+* More features to demo coming soon!
 
 </details>
