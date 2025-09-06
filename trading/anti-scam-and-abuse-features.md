@@ -91,7 +91,8 @@ You can demo some Anti-Scam & Abuse Centre features without triggering real aler
 **What you can demo currently and how it works (some features can’t be demoed currently):**
 
 * **Scam Alerts (Anti-Scam):** Get a feel of the scam alert popup and what actions you can take without risking a real scam.
-* **S Key Emergency Alerting:** Feel and experience what happens when you press the S Key 4 times, without annoying real people, including the countdown, the siren, the emergency call and Emergency Logging. (follow up email not included)
+* **S Key Emergency Alerting:** Feel and experience what happens when you press the S Key 4 times, without annoying real people, including the countdown, the siren, the emergency call and Emergency Logging. (follow up email not included) Emergency \
+  logging backups in the demo will stay until you close or re-open Bugs+ and does not count towards the 3 backups limit.
 * More features to demo coming soon!
 
 </details>
