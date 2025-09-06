@@ -17,7 +17,7 @@ You can still override the alert, but be extra careful when doing this. This sti
 
 <summary>Report scams and abuse in real time with our emergency alerting system</summary>
 
-Pressing the S button 4 times will show a 8 second countdown, will play a siren noise, and will contact Bugs+ Support and we will come and solve the issue ASAP, while getting in contact with support in real time. To prevent false alarms, this does not apply while typing, but you can quickly exit out of the page and press it. You will also get a shortcut on scam alerts you get. This is quicker and higher priority than low-priority scam reports. If you accidentally press that key too much, you can cancel it.
+Pressing the S button 4 times will show a 8 second countdown, will play a siren noise that will sound a bit quicker near the end of the countdown, then the normal noise again and normal near the start. during the countdown, and will contact Bugs+ Support and we will come and solve the issue ASAP, while getting in contact with support in real time. To prevent false alarms, this does not apply while typing, but you can quickly exit out of the page and press it. You will also get a shortcut on scam alerts you get. This is quicker and higher priority than low-priority scam reports. If you accidentally press that key too much, you can cancel it.
 
 We will also get a hint of what trade or page you are in, so make sure to stay on that screen!\
 After the countdown, use the buttons and text boxes to interact with support and watch out for messages from our team. Make sure not to abuse this or else you could get banned.
@@ -133,8 +133,8 @@ Your Emergency Logging sessions aren’t just single use, you can back them up a
 
 **What you can do during Emergency Logging and in the backup:**
 
-* Start a new call with the Emergency Logging data. Just press Call Using This Emergency Log or press the S Key 4 times on that screen.
+* Start a new call with the Emergency Logging data. Just press Call Using This Emergency Log (the countdown and siren will begin) or press the S Key 4 times on that screen.
 * Delete it if it is no longer needed or you need space for more backups
-* Request a non-urgent investigation from Bugs+ Support
+* Request a non-urgent investigation from Bugs+ Support. This is not real time, and may take up to 5 days for a review, you will see the results and what actions we taken in Bugs+ notifications, along with a small follow up email.
 
 </details>
