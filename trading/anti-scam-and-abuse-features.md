@@ -96,3 +96,25 @@ You can demo some Anti-Scam & Abuse Centre features without triggering real aler
 * More features to demo coming soon!
 
 </details>
+
+<details>
+
+<summary>Find &#x26; Use Emergency Logging Backups</summary>
+
+Your Emergency Logging sessions aren’t just single use, you can back them up and they are backed up by default if you don’t cancel the logging or block it from backing up! Make sure this  backups feature is enabled first, and it is by default.
+
+**Accessing past backups (versions that support the S Key only):**
+
+1. Go to the Account Tab (the person icon)
+2. Press Settings
+3. Press Trading
+4. Press Anti-Scam & Abuse Centre
+5. Press Backups on the navigation on the right that will appear in the Anti-Scam & Abuse Centre
+6. Select a backup
+
+**What you can do during Emergency Logging and in the backup:**
+
+* Start a new call with the Emergency Logging data. Just press Call Using This Emergency Log or press the S Key 4 times on that screen.
+
+</details>
+
