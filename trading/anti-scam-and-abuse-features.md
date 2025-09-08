@@ -11,6 +11,8 @@ Bugs+ comes with a handful of useful anti-scam features, and they are listed bel
 Just at the moment the user is pressing the Accept button after a trade, and it looks scammy (some scam trades may not be detected regardless of the scam detection level), the user will be stopped from doing the trade and get a Suspicious Trade Alert. You can change the level as well, see [change-the-anti-scam-level](change-the-anti-scam-level/ "mention")\
 You can still override the alert, but be extra careful when doing this. This still goes off for friends as well as normal users since this is to prevent “trust-trading” scams. Trust trading is when a scammer is building up trust and using it on risky trades, eventually leading to a reportable scam. Trust trades can even take up to more than 14 days (2 weeks) before vanishing with the items or building up more trust quickly. During trust trades, unfriend the person and quickly contact support by pressing the S Key 4 times. Do not press Cancel or End Emergency Alert unless there is no emergency.
 
+In the latest versions of Bugs+, some Anti-Scam features also apply to friends lists, like the suspicious username detection systems and new account detections also apply for adding friends to the Friends List (to avoid trust trading).
+
 </details>
 
 <details>
