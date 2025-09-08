@@ -142,6 +142,8 @@ Your Emergency Logging sessions aren’t just single use, you can back them up a
 
 </details>
 
+Note that some Bugs+ Versions that support the S Key make the Trading in Account Settings called Trading & Anti-Abuse.
+
 ## Is it better to use a version that supports the S Key or Not?
 
 Alongside useful feature updates and new trading cards, we also add more features to the Anti-Scam & Abuse Centre and add anti-scamming and abusing features, so if you can update, it’s better off to do it now (and get more anti-scam tools) than get scammed very badly later.
