@@ -8,7 +8,7 @@ Bugs+ comes with a handful of useful anti-scam features, and they are listed bel
 
 <summary>Anti-Scam Levels &#x26; Scam Alerts</summary>
 
-Just at the moment the user is pressing the Accept button after a trade, and it looks scammy (some scam trades may not be detected regardless of the scam detection level), the user will be stopped from doing the trade and get a Suspicious Trade Alert. You can change the level as well, see [change-the-anti-scam-level.md](change-the-anti-scam-level.md "mention")\
+Just at the moment the user is pressing the Accept button after a trade, and it looks scammy (some scam trades may not be detected regardless of the scam detection level), the user will be stopped from doing the trade and get a Suspicious Trade Alert. You can change the level as well, see [change-the-anti-scam-level](change-the-anti-scam-level/ "mention")\
 You can still override the alert, but be extra careful when doing this. This still goes off for friends as well as normal users since this is to prevent “trust-trading” scams. Trust trading is when a scammer is building up trust and using it on risky trades, eventually leading to a reportable scam. Trust trades can even take up to more than 14 days (2 weeks) before vanishing with the items or building up more trust quickly. During trust trades, unfriend the person and quickly contact support by pressing the S Key 4 times. Do not press Cancel or End Emergency Alert unless there is no emergency.
 
 </details>
@@ -104,7 +104,7 @@ You can demo some Anti-Scam & Abuse Centre features without triggering real aler
 2. Press Settings
 3. Press Trading
 4. Press Anti-Scam & Abuse Centre
-5. Press Demos on the navigation on the right that will appear in the Anti-Scam & Abuse Centre
+5. Press Demos on the navigation on the bottom of the page that will appear in the Anti-Scam & Abuse Centre
 6. Choose a feature you want to demo, and some instructions and a way to test it out without triggering real alerts will appear. If you don’t see it, update Bugs+.
 
 **What you can demo currently and how it works (some features can’t be demoed currently):**
@@ -128,7 +128,7 @@ Your Emergency Logging sessions aren’t just single use, you can back them up a
 2. Press Settings
 3. Press Trading
 4. Press Anti-Scam & Abuse Centre
-5. Press Backups on the navigation on the right that will appear in the Anti-Scam & Abuse Centre
+5. Press Backups on the navigation on the bottom of the page that will appear in the Anti-Scam & Abuse Centre
 6. Select a backup
 
 **What you can do during Emergency Logging and in the backup:**
@@ -136,5 +136,19 @@ Your Emergency Logging sessions aren’t just single use, you can back them up a
 * Start a new call with the Emergency Logging data. Just press Call Using This Emergency Log (the countdown and siren will begin) or press the S Key 4 times on that screen.
 * Delete it if it is no longer needed or you need space for more backups
 * Request a non-urgent investigation from Bugs+ Support. This is not real time, and may take up to 5 days for a review, you will see the results and what actions we taken in Bugs+ notifications, along with a small follow up email.
+* Get an access code for your backup to share with Support if not using the other options but still contacting support.
 
 </details>
+
+## Is it better to use a version that supports the S Key or Not?
+
+Alongside useful feature updates and new trading cards, we also add more features to the Anti-Scam & Abuse Centre and add anti-scamming and abusing features, so if you can update, it’s better off to do it now (and get more anti-scam tools) than get scammed very badly later.
+
+**Here is a list of what features are supported with the S Key and what can be used without the S Key:**
+
+| Feature Name                                                                                                                                                                                                               | No S Key Support                                                      | S Key 1.0                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Scam Alerts:** Get alerts for potential scammy trades with configurable levels, a free tool from Bugs+.                                                                                                                  | <i class="fa-check">:check:</i> **Included with every Bugs+ Version** | <i class="fa-check">:check:</i>  **Included with every Bugs+ Version**                 |
+| **General Access To The Anti-Scam & Abuse Centre:** Free tools to shield yourself from scams, report abuse and glitches quickly and prepare to detect and take action against (reports and unfriending for example) abuse. |                                                                       | <i class="fa-check">:check:</i> **Included**                                           |
+| **4 taps of the S Key to get support:** Easily connect to a live agent by pressing S S S S on your keyboard. **Demo Included!**                                                                                            |                                                                       | <i class="fa-check">:check:</i> **Included for urgent support cases and reports only** |
+| **Normal Bugs+ Support & Scam Report Access:** Get support via Bugs+ Support, always accessible at https://bugsplus.me/support                                                                                             | <i class="fa-check">:check:</i> **Included with every Bugs+ Version** | <i class="fa-check">:check:</i> **Included with every Bugs+ Version**                  |

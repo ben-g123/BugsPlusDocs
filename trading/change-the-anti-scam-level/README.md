@@ -24,7 +24,8 @@ You can change the anti-scam level by following the following steps:
 * Press Settings
 * Press Trading
 * Press Anti-Scam & Abuse Centre
-* Press Configure Anti-Scam in the list of Features
+* Press the button Configure Anti-Scam under the info about "Scam Alerts &\
+  Anti-Scam Levels" in the list of Features
 * Select Anti-Scam Level
 * Choose the Anti-Scam level you want to use.
 
