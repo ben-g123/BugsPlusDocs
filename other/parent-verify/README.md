@@ -73,7 +73,8 @@ To unlink parental controls with a Parent PIN, follow these steps:
 6. Enter your Parent PIN
 7. Press Approve
 8. Press Next
-9. Parental Controls will be unlinked!
+9. You will need to do the parental consent & privacy steps like verifying you are a parent, looking at info and more. Due to privacy and security laws, skipping this will make Bugs+ unusable and erasing data will be required to continue using Bugs+, so make sure not to skip it.
+10. Parental Controls will be unlinked!
 
 **Or, use a device that is setup for remote supervision management:**
 
@@ -84,7 +85,8 @@ To unlink parental controls with a Parent PIN, follow these steps:
 5. Press Approve
 6. Press Next
 7. Press Sign Out
-8. Parental controls will be unlinked, and you will be signed out of the supervision dashboard
+
+1) Parental controls will be unlinked, and you will be signed out of the supervision dashboard
 
 {% hint style="info" %}
 If Explore Options To Remove Parental Controls or nothing appears instead of remove parental controls, then the account is under 12. Clicking the explore options instead of remove parental controls will ask you to make settings less stricter, wait, or  change the birthdate before unlinking.
