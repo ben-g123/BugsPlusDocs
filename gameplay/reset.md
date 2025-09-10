@@ -16,7 +16,7 @@ Parental Controls data will still be kept, and some social data such as friends 
 
 ## **Follow these steps to reset Bugs+:**
 
-**Newer versions:**
+### **Newer versions:**
 
 1. Go to the Account Tab (the person icon)
 2. Press Settings
@@ -28,8 +28,10 @@ Parental Controls data will still be kept, and some social data such as friends 
 8. Wait for the countdown (5-seconds, with a siren) to go off. Changed Your Mind? You can cancel the countdown as well and keep your data: ![](<../.gitbook/assets/Image 10-9-2025 at 1.02 pm.png>)
 9. Press OK (your login details will be kept if you have a BugID):  ![](<../.gitbook/assets/Screenshot 2025-09-10 at 1.04.37 pm.png>)
 
-**Older versions (less than Bugs+ 1.3):**
+### **Older versions (less than Bugs+ 1.3):**
 
 1. Go to the Account Tab (the person icon)&#x20;
 2. Press Rebirth (rebirthing on older versions requires Level 105 or higher)
 3. Follow the instructions
+
+If you are on older versions, have less than Level 105 and still want to Rebirth, update Bugs+ or contact Bugs+ Support. Guest Mode is not supported with the built-in Rebirth (on older versions), so update or sign out and in to Rebirth while signed out.
