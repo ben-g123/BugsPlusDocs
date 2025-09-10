@@ -13,6 +13,8 @@ You can still override the alert, but be extra careful when doing this. This sti
 
 In the latest versions of Bugs+, some Anti-Scam features also apply to friends lists, like the suspicious username detection systems and new account detections also apply for adding friends to the Friends List (to avoid trust trading).
 
+A siren will also go off after a Scam Alert goes off.
+
 </details>
 
 <details>

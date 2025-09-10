@@ -60,6 +60,7 @@
 * [Competitions](gameplay/competitions.md)
 * [Early access features](gameplay/early-access-features.md)
 * [Bugs+ Verified](gameplay/verified.md)
+* [Erase Bugs+ Data](gameplay/reset.md)
 
 ## Bugs+ PIN <a href="#pin" id="pin"></a>
 
