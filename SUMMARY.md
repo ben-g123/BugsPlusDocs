@@ -40,6 +40,7 @@
 * [Trusted Friends](bugid/trusted-friends.md)
 * [Student Offer](bugid/students.md)
 * [BugID Account Credit](bugid/bugid-account-credit.md)
+* [Can I delete data if I’m locked out of my account?](bugid/can-i-delete-data-if-im-locked-out-of-my-account.md)
 
 ## Gameplay
 
