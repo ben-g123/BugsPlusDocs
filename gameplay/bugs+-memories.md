@@ -1,6 +1,6 @@
 # Bugs+ Memories
 
-Bugs+ Memories is a new feature in Bugs+ which each memory is a screenshot or up to 7 seconds short videos (using the screen recording or built in editing tools in Bugs+) and each has educational value about insects, like facts, and more. You can even earn Bug Points from it. You can find them by scrolling in the Memories area in the More tab (the three dots icon).
+Bugs+ Memories is a new feature in Bugs+ which each memory is a screenshot or up to 7 seconds short videos (using the screen recording or built in editing tools in Bugs+) and each has educational value about insects, like facts, and more. You can even earn Bug Points for every 2 scrolls, and for uploading Memories. You can find them by scrolling in the Memories area in the More tab (the three dots icon).
 
 {% hint style="warning" %}
 Bugs+ Memories is still work in progress and it is currently public beta. Expect glitches in Memories. Not all memory types are out yet, and not all features are out yet. Incorrect early access use will result in bans from Bugs+ to protect our development of our memories feature, and you will possibly be unbanned at the end of the memories early access time.
