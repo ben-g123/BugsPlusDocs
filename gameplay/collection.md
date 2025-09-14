@@ -37,12 +37,12 @@ On newer versions:
 2. Select or search for the unwanted trading card or the trading card you want to refund.
 3. Press Refund, and look at the list of rewards you will get, depending on its rarity.
 4. Select Add To Refund List.
-5. A 3 minute timer will start to countdown, which will merge together with other pending refund list cards if there is any, so if there is already 2 minutes left, the new timer will be 2 minutes. Make sure not to close Bugs+ during the timer, you can still refund more trading cards, or do other things. You can always cancel the timer and keep your trading cards by going to the Collection tab (the SD Card Icon) and click Cards To Be Refunded. You can then Cancel it, see what will be refunded and preview your rewards.
+5. A 3 minute timer will start to countdown, which will merge together with other pending refund list cards if there is any, so if there is already 2 minutes left, the new timer will be 2 minutes. Make sure not to close Bugs+ during the timer, you can still refund more trading cards, or do other things. You can always cancel the timer and keep your trading cards by going to the Collection tab (the SD Card Icon) and click Cards To Be Refunded, then press Cancel. You can then Cancel it, see how many seconds are remaining from the countdown, see what will be refunded, skip the countdown and preview your rewards.
 6. Near the end of the countdown, an 8 seconds siren countdown popup will show on the screen, saying that the cards will be refunded in a few seconds. You can cancel it, or claim the rewards on the popup. If there is no response, they will be claimed automatically.
 
 #### In A Rush on a newer version?
 
-You can also pay 95 Bug Points to make the countdown go to the last 7 seconds (if you do that and decide to cancel, your Bug Points will come back).
+You can also pay 45 Bug Points per trading card to make the countdown go to the last 7 seconds (if you do that and decide to cancel, your Bug Points will come back).
 
 #### On older versions:
 
@@ -50,3 +50,9 @@ You can also pay 95 Bug Points to make the countdown go to the last 7 seconds (i
 2. Select or search for the unwanted trading card or the trading card you want to refund.
 3. Press Refund.
 4. Select the OK button. The cards will be refunded instantly. You will be able to preview how much Bug Points you will get.
+
+### Rewards For Refunding On Newer Versions
+
+* Part of the, all of the, or more than the Bug Points you paid or would have paid if it was not a reward during when first got it.
+* Some Stars for rarer or lots of Trading Cards
+* Refund Credits if there are leftover credits that were not turned into rewards, which can be used to get rewards later with Exchange Refund Credits on the Collection Tab (the SD card icon).
