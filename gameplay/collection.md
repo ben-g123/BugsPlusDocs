@@ -25,6 +25,8 @@ You can also see the Trading Card’s rarity. This is how rare it is to get.
 
 If you no longer want one of a specific Trading Card Type,  or you want to turn a trading card into rewards, you can refund it for Bug Points or other rewards (this will only take one of this card, which makes the count go down by one, if it is already 1 remaining, it will remove it from your collection). Please note that this is different to erasing data.
 
+<mark style="color:red;">**You can’t get refunded trading cards back, but you can re-earn the card back if you made a mistake.**</mark>
+
 ### How To Refund Trading Cards
 
 #### **Follow these steps to refund trading cards:**
