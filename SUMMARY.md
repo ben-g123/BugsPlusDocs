@@ -41,6 +41,7 @@
 * [Student Offer](bugid/students.md)
 * [BugID Account Credit](bugid/bugid-account-credit.md)
 * [Can I delete data if I’m locked out of my account?](bugid/can-i-delete-data-if-im-locked-out-of-my-account.md)
+* [I did not go on Bugs+ for a long time (6+ months) and my data is gone!](bugid/unwanted-data-loss.md)
 
 ## Gameplay
 
