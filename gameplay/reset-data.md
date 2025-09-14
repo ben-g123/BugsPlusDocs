@@ -13,7 +13,7 @@ Parental Controls data will still be kept, and some social data such as friends 
 * You will <mark style="color:red;">**loose most of your Bugs+ Data**</mark>, including your Points, Stars and more, plus your notifications will be cleared, and all local Bugs+ data on the device that was used to reset the BugID will be removed
 * It is possible to recover data after resetting, but it is very rare and unlikely, and support will try very hard for famous users on Bugs+.
 * If you are resetting in a public or crowded area, please turn down the volume or mute it temporarily to avoid annoying everyone with a loud siren.
-* If you want to only remove certain trading cards instead of everything, refund them instead, you will even get a reward! See [#refund-unwanted-trading-cards](collection.md#refund-unwanted-trading-cards "mention").
+* If you want to only remove certain trading cards instead of everything, refund them instead, you will even get a reward! See [#refund-unwanted-trading-cards](collection/#refund-unwanted-trading-cards "mention").
 
 ## **Follow these steps to reset Bugs+:**
 

@@ -56,3 +56,5 @@ You can also pay 45 Bug Points per trading card to make the countdown go to the 
 * Part of the, all of the, or more than the Bug Points you paid or would have paid if it was not a reward during when first got it.
 * Some Stars for rarer or lots of Trading Cards
 * Refund Credits if there are leftover credits that were not turned into rewards, which can be used to get rewards later with Exchange Refund Credits on the Collection Tab (the SD card icon).
+
+For a summary, check out our [trading-card-refund-guide.md](trading-card-refund-guide.md "mention").

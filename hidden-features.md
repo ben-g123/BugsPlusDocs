@@ -16,7 +16,7 @@ Here are some features that you might find useful in Bugs+. Remember these are n
 * **Wide range of settings:** Bugs+ comes with a wide range of settings, go to the Account tab (the person icon) and press Settings or account settings.
 * **Get Help ASAP**: Need help from a scammy or abusive trade or person? Press your S Key 4 times to give real time alerts. **Fun fact:** S key stands for Scam Key but it can be used for any alert. Use the demo feature if it is just a test. Details: [#report-scams-and-abuse-in-real-time-with-our-emergency-alerting-system](trading/anti-scam-and-abuse-features.md#report-scams-and-abuse-in-real-time-with-our-emergency-alerting-system "mention")
 * **Educational Photos And Videos:** Bugs+ Memories is a feature where you can see and upload educational bug photos and videos and scroll through other people’s creations. See [bugs+-memories.md](gameplay/bugs+-memories.md "mention").
-* **Refund Trading Cards Without A Reset:** You can refund selected trading cards without loosing all your other data. See [#how-to-refund-trading-cards](gameplay/collection.md#how-to-refund-trading-cards "mention"). If you prefer a full reset (warning: all data, not only trading cards will be reset), see [reset-data.md](gameplay/reset-data.md "mention").
+* **Refund Trading Cards Without A Reset:** You can refund selected trading cards without loosing all your other data. See [#how-to-refund-trading-cards](gameplay/collection/#how-to-refund-trading-cards "mention"). If you prefer a full reset (warning: all data, not only trading cards will be reset), see [reset-data.md](gameplay/reset-data.md "mention").
 
 ## Part 2: Select Quick Actions
 
