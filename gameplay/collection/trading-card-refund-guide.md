@@ -42,3 +42,5 @@ It is crucial to understand that the refund feature is permanent. When you refun
 * **Avoid Accidental Refunds**: The most common mistake players make is accidentally refunding a card they intended to keep. This is especially easy to do if you have multiple copies of a card. Always double-check your refund list before confirming, as the remorse of losing a key part of your deck is often greater than the value of the refund itself.
 
 In summary, the refund feature is a powerful tool for managing your collection, but it should be used with caution due to its permanent nature.
+
+{% embed url="https://www.youtube.com/watch?v=GsulRZVJjbg" %}
