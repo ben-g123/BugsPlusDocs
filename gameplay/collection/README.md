@@ -60,3 +60,5 @@ You can also pay 45 Bug Points per trading card to make the countdown go to the 
 For a summary, check out our [trading-card-refund-guide.md](trading-card-refund-guide.md "mention").
 
 {% embed url="https://www.youtube.com/watch?v=GsulRZVJjbg" %}
+
+{% embed url="https://www.youtube.com/watch?v=vpAvzcSP-a0" %}

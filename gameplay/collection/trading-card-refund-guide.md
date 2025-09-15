@@ -44,3 +44,5 @@ It is crucial to understand that the refund feature is permanent. When you refun
 In summary, the refund feature is a powerful tool for managing your collection, but it should be used with caution due to its permanent nature.
 
 {% embed url="https://www.youtube.com/watch?v=GsulRZVJjbg" %}
+
+{% embed url="https://www.youtube.com/watch?v=vpAvzcSP-a0" %}
