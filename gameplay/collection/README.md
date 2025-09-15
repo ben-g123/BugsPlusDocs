@@ -62,3 +62,5 @@ For a summary, check out our [trading-card-refund-guide.md](trading-card-refund-
 {% embed url="https://www.youtube.com/watch?v=GsulRZVJjbg" %}
 
 {% embed url="https://www.youtube.com/watch?v=vpAvzcSP-a0" %}
+
+{% embed url="https://www.youtube.com/watch?v=VRPYUP5WNyc" %}

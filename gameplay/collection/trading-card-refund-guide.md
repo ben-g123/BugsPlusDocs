@@ -46,3 +46,5 @@ In summary, the refund feature is a powerful tool for managing your collection, 
 {% embed url="https://www.youtube.com/watch?v=GsulRZVJjbg" %}
 
 {% embed url="https://www.youtube.com/watch?v=vpAvzcSP-a0" %}
+
+{% embed url="https://www.youtube.com/watch?v=VRPYUP5WNyc" %}
