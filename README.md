@@ -11,7 +11,7 @@ coverY: 0
 
 Bugs+ is a free educational game (no general ads, however there is still small not annoying ads in the trade directory that start a trade request with a specific user, those are called Trade Ads!) about Insects & Bugs. It also has **Parental Controls**. There is also trading cards that you can unlock by getting points and using them at the bug point shop. There are also quizzes, AI and info about bugs. Bugs+’s account system is called BugID. You can also trade with friends, real people, and AI Bots. There is also an easter event. There are also notifications. I am the main Super Admin. Super Admin is an admin, but it has more powers. There may be multiple admins. There is also a Bugs+ Forum & Issue Tracker. There is also bug identification in the More tab (the three dots,) where you can upload a bug image, and it will identify the bug. There are much more features as well. It also has a real-time scam alerting system. There are also Insect Facts. There are even short educational photos and videos called Bugs+ Memories.
 
-The most useful feature is refunding trading cards and parental controls.
+The most useful feature is refunding trading cards and the second most useful feature is parental controls.
 
 <i class="fa-youtube">:youtube:</i> **Youtube Channel**: [https://www.youtube.com/@BugsPlus?sub\_confirmation=1](https://www.youtube.com/@BugsPlus?sub_confirmation=1)
 
