@@ -10,7 +10,7 @@ You can view the leaderboard by going to Bugs+ and pressing the Community tab (c
 
 ## Opt Out (or in)  Of Leaderboard
 
-You can do this via remote supervision, or do it on the device directly (more involved process):
+You can do this via remote supervision, or do it on the device directly:
 
 1. Press the Green Flag button at the top for a Quick Restart, while holding U. Continue holding it even while interacting with menus until a Developer Unlock screen comes.
 2. Press Y to accept the warning. (or press N to cancel)
