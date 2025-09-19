@@ -2,6 +2,10 @@
 
 BugOn is a limited time event in 2025 where you can get valuable rewards for doing tasks. For this one, (unlike the Easter Event), but we will make a **dedicated area later**, there is no popup or dedicated event area since it is just doing tasks not anything else like Easter, but you will get notifications, emails and a Youtube Video on our Youtube Channel will come up. There is one BugOn each year, sometimes even more.
 
+**Click below for tasks list**
+
+[#this-years-tasks](bugon-2025.md#this-years-tasks "mention")
+
 ### Did A Task? Submit it now!
 
 Click the button below to submit it, or contact Support. When clicking on the link, your default email editor will popup. Fill out the empty areas to say what task you did.
