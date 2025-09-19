@@ -6,6 +6,10 @@ BugOn is a limited time event in 2025 where you can get valuable rewards for doi
 
 19 Sep 2025 to 22 October 2025.
 
+### Unleash the power of the Refund Feature!
+
+The most imporatn feature in Bugs+ is the refund feature. Refunded cards count towards this, and you can refund the cars you get for rewards if you want.
+
 ## This Year's Tasks
 
 This is your tasks. Complete at least one and you will win a reward.
