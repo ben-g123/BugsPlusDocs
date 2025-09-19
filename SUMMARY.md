@@ -88,6 +88,7 @@
 ## Special Events <a href="#events" id="events"></a>
 
 * [Easter Event](events/easter.md)
+* [BugOn 2025](events/bugon-2025.md)
 
 ## AI
 
