@@ -3,6 +3,7 @@
 * [Welcome](README.md)
 * [Bugs+ Setup](bugs+-setup.md)
 * [Hidden Features in Bugs+ That You Don’t Know About](hidden-features.md)
+*
 
 ## Trading
 
@@ -123,3 +124,7 @@
   * [Parental controls note to read with your kids and teenagers](other/parental-controls/note.md)
 * [Bugs+ Defender](other/bugs+-defender.md)
 * [Bugs+ Coding Studio](other/bugs+-coding-studio.md)
+
+## Bugs+ Labs <a href="#labs" id="labs"></a>
+
+* [Bugs+ Labs](labs/about.md)
