@@ -28,3 +28,9 @@ You can select up to 2 quick actions that will appear on the Home Tab (house ico
 You can also setup Parental Controls. Do this by creating an account for your child or teenager, or creating and merging a Guest Mode login and setting the age to the child or teenager's age, or if you already did this but chose the wrong age, contact Bugs+ Support for help. To make the most out of parental controls, you can use a second computer or device to manage parental controls and get more parental controls by doing that.
 
 <figure><img src=".gitbook/assets/Image 1-9-2025 at 2.44 pm.png" alt=""><figcaption><p>Image of the Supervision Dashboard homepage</p></figcaption></figure>
+
+## Part 4: Start with the best
+
+Try these features as well as the others we listed.
+
+The most useful feature is refunding trading cards and the second most useful feature is parental controls (useful for children and parent). The third useful feature, is Bugs+ Labs.
