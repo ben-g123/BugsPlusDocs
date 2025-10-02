@@ -14,4 +14,8 @@ Bugs+ Labs are experimental, upcoming features ready for public testing. We do n
 
 Some labs require applying or waiting, while others, are open to the whole public. If you are given the option to **Add me to the waitlist** or **Apply To Access This Feature**, tap it, and we will consider adding you, or adding you to the lab when it gets released to the whole public. If you are given the option to **Join & Enable This Lab’s Features**, tap it and join the lab.
 
+The best thing is that if you join a lab, the Bugs+ Labs features will stay until you leave or the lab shuts down.
+
+If you get waitlisted, the wait won’t take long, so watch for the notification that says you get access!
+
 </details>
