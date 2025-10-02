@@ -19,3 +19,14 @@ The best thing is that if you join a lab, the Bugs+ Labs features will stay unti
 If you get waitlisted, the wait won’t take long, so watch for the notification that says you get access!
 
 </details>
+
+<details>
+
+<summary>Why are there no Labs on the Bugs+ Labs page?</summary>
+
+If there are no labs, there may be some Labs available but we did not roll out access to your user account. Rolling out is very quick, so make sure to stay tuned for new Labs there.
+
+Also, some labs may require parental controls to be disabled, for example, if it has interaction features that we did not approve for kids yet)
+
+</details>
+
