@@ -33,4 +33,4 @@ You can also setup Parental Controls. Do this by creating an account for your ch
 
 Try these features as well as the others we listed.
 
-The most useful feature is refunding trading cards and the second most useful feature is parental controls (useful for children and parent). The third useful feature, is Bugs+ Labs.
+The most useful feature is refunding trading cards and the second most useful feature is Bugs+ Labs. The third most useful feature is parental controls.
