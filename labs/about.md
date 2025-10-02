@@ -4,7 +4,7 @@ icon: flask
 
 # Bugs+ Labs
 
-Bugs+ Labs are experimental, upcoming features ready for public testing. We do not guarantee that the real launch of these features will be the same, or even be added into the actual system. Any user on Bugs+, regradless of the age of their account, or parental controls status (unless the feature may not be for younger kids), can join a lab and test the features inside it.
+Bugs+ Labs are experimental, upcoming, and opt-in features ready for public testing. We do not guarantee that the real launch of these features will be the same, or even be added into the actual system. Any user on Bugs+, regradless of the age of their account, or parental controls status (unless the feature may not be for younger kids), can join a lab and test the features inside it.
 
 ## Learn how to use Labs, join them and take action on them
 
