@@ -44,6 +44,7 @@ Bugs+ Labs is made up of individual labs. If you want to opt out of a lab, you w
 4. Press Opt Out & Reset Lab Data. This will opt you out of the lab, and remove associated data with the lab you chose.
 5. Confirm that you want to opt out. You can always come back to a lab you opted out of, but it won’t contain your lab data.
 
-If a lab shuts down or converts to an actual feature, we won’t transfer the data, since we may do major updates to it, but we will remove the lab data and if it turns into a feature, you can use new lab data. This is for privacy and compatibility reasons.
+**How to remove lab or test data when a lab shuts down:**\
+If a lab shuts down or converts to an actual feature, we won’t transfer the data, since we may do major updates to it, but we will remove the lab data and if it turns into a feature, you can use new lab data. This is for privacy and compatibility reasons. There is no action that needs to be taken to do this, it is automatic.
 
 </details>
