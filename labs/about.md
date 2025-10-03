@@ -4,9 +4,23 @@ icon: flask
 
 # Bugs+ Labs
 
-Bugs+ Labs are experimental, upcoming, and opt-in features ready for public testing. We do not guarantee that the real launch of these features will be the same, or even be added into the actual system. Any user on Bugs+, regradless of the age of their account, or parental controls status (unless the feature may not be for younger kids), can join a lab and test the features inside it.
+Bugs+ Labs are experimental, upcoming, and opt-in features ready for public testing. We do not guarantee that the real launch of these features will be the same, or even be added into an actual version. Labs may be glitchy at some times, but you can provide feedback and report the glitch at any time. Any user on Bugs+, regradless of the age of their account, or parental controls status (unless the feature may not be for younger kids), can join a lab and test the features inside it. Bugs+ Labs are made up of individual Labs each with different features, so make sure to opt in to the Labs you want to try out.
+
+
 
 ## Learn how to use Labs, join them and take action on them
+
+<details>
+
+<summary>How do I join a Lab?</summary>
+
+**To join a Lab, you will need to follow these steps to choose Labs to opt into:**
+
+1. Go to the More tab on the sidebar (the 3 dots icon)
+2. Tap Bugs+ Labs
+3. Choose a lab you want to configure or opt into.
+
+</details>
 
 <details>
 
@@ -46,5 +60,27 @@ Bugs+ Labs is made up of individual labs. If you want to opt out of a lab, you w
 
 **How to remove lab or test data when a lab shuts down:**\
 If a lab shuts down or converts to an actual feature, we won’t transfer the data, since we may do major updates to it, but we will remove the lab data and if it turns into a feature, you can use new lab data. This is for privacy and compatibility reasons. There is no action that needs to be taken to do this, it is automatic.
+
+</details>
+
+<details>
+
+<summary>I was enjoying the features of a lab, but it just shut down</summary>
+
+Labs may shut down at any time with or without notice. This is since we can no longer handle a Lab, but usually we keep them. However, the best reason could be that the Lab has turned into an actual feature, thanks to your hard work, data and feedback. A simple test can go very far and turn into a feature release.
+
+</details>
+
+<details>
+
+<summary>How is my data used?</summary>
+
+**Throughout all Labs:**
+
+We don’t track your Bugs+ Labs data, but we may collect some essential data like how many times the user unleashed the power of a Labs feature, or at least tried to. We don’t create ”Lab Profiles” of you to try to track you down.
+
+**Specific Labs:**
+
+You can send Feedback or Glitch Reports to a Lab. We may try to see how many times you used a feature, unleashed the power of a feature, or tried to.
 
 </details>
