@@ -84,3 +84,19 @@ We don’t track your Bugs+ Labs data, but we may collect some essential data li
 You can send Feedback or Glitch Reports to a Lab. We may try to see how many times you used a feature, unleashed the power of a feature, or tried to.
 
 </details>
+
+<details>
+
+<summary>Why am I asked to take action within 14 days to avoid loosing access to a Lab?</summary>
+
+Some Labs have strict guideline, while others have soft guidelines. Strict guidelines mean that you always need to follow them, while soft guidelines, you only need to follow the guidelines to maintain access, but you still need to follow the Bugs+ Rules all the time.
+
+This means, if you don’t follow the suggested steps within 14 days, you will loose access to that specific Lab, but you will still maintain access to other Labs if possible. You will get reminders on the first day of that happening, the seventh day, then the last day of when you will loose access.&#x20;
+
+<mark style="color:red;">**What will happen during that time? We won’t allow feedback, Glitch Reports, or collect required data during this time, if you miss the 14 days window, then if you want access back, you will need to go through any waitlists, and do any required steps, and any Lab data will be deleted as well.**</mark>
+
+If you continue to loose access to a Lab a lot of times, you may get banned from Bugs+ since may be taking up resources and if a waitlist the time from the person who has accepted your request and any others for the Lab.
+
+You may also get this notification if you are not using the Lab (for manually used Labs) or on Bugs+ (for continuous reminder or alert Labs, like detecting things in Bugs+, or reminding you of things, the reminder does not need to go off, but you still need to use Bugs+)
+
+</details>
