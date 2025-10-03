@@ -59,7 +59,7 @@ Bugs+ Labs is made up of individual labs. If you want to opt out of a lab, you w
 5. Confirm that you want to opt out. You can always come back to a lab you opted out of, but it won’t contain your lab data.
 
 **How to remove lab or test data when a lab shuts down:**\
-If a lab shuts down or converts to an actual feature, we won’t transfer the data, since we may do major updates to it, but we will remove the lab data and if it turns into a feature, you can use new lab data. This is for privacy and compatibility reasons. There is no action that needs to be taken to do this, it is automatic.
+If a lab shuts down or converts to an actual feature, we won’t transfer the data, since we may do major updates to it, but we will remove the lab data and if it turns into a feature, you can use new lab data. This is for privacy and compatibility reasons. There is no action that needs to be taken to do this, it is automatic, and we remove data within minutes or even seconds of shutdown.
 
 </details>
 
@@ -67,7 +67,7 @@ If a lab shuts down or converts to an actual feature, we won’t transfer the da
 
 <summary>I was enjoying the features of a lab, but it just shut down</summary>
 
-Labs may shut down at any time with or without notice. This is since we can no longer handle a Lab, but usually we keep them. However, the best reason could be that the Lab has turned into an actual feature, thanks to your hard work, data and feedback. A simple test can go very far and turn into a feature release.
+Labs may shut down at any time with or without notice. This is since we can no longer handle a Lab, but usually we keep them. However, the best reason could be that the Lab has turned into an actual feature, thanks to your hard work, data and feedback. A simple test can go very far and turn into a feature release. This is not always the reason, but could be a possible reason.
 
 </details>
 
