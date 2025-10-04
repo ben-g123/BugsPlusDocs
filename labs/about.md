@@ -21,6 +21,7 @@ Some of the Labs (not all of them) give you experimental refund features, so you
 1. Go to the More tab on the sidebar (the 3 dots icon)
 2. Tap Bugs+ Labs
 3. Choose a lab you want to configure or opt into.
+4. Follow the steps on the screen.
 
 </details>
 
@@ -116,6 +117,21 @@ Here you can find the available labs you can join, and a description.
 <summary>What are Refund Notifications?</summary>
 
 Refund Notifications let you get reminders of when your Collection may be cluttered with duplicate cards, when you are refunding too many cards in a short amount of time (usually 15 minutes or less), or when it may not be a good time to refund (short on cards in your Collection). You get them via popups, and the duplicate detection feature will check for too many duplicates (more than 4 of the same card) regularly, but it is not real time checking, it happens every several minutes.
+
+</details>
+
+<details>
+
+<summary>How to get started with Refund Notifications?</summary>
+
+Firstly, make sure you have an account (also known as BugID), if not, create one and merge signed out data with the new account.&#x20;
+
+**Then, follow these steps:**
+
+1. Go to the More tab on the sidebar (the 3 dots icon)
+2. Tap Bugs+ Labs
+3. Select Refund Notifications
+4. Follow the steps on the screen.
 
 </details>
 
