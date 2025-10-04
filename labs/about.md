@@ -115,7 +115,7 @@ Here you can find the available labs you can join, and a description.
 
 <summary>What are Refund Notifications?</summary>
 
-Refund Notifications let you get reminders of when your Collection may be cluttered with duplicate cards, when you are refunding too many cards in a short amount of time (usually 15 minutes or less), or when it may not be a good time to refund (short on cards in your Collection). You get them via popups, and the duplicate detection feature will check for too many duplicates (more than 4 of the same card) regularly, but it is not real time checking, it happens every serverak minutes.
+Refund Notifications let you get reminders of when your Collection may be cluttered with duplicate cards, when you are refunding too many cards in a short amount of time (usually 15 minutes or less), or when it may not be a good time to refund (short on cards in your Collection). You get them via popups, and the duplicate detection feature will check for too many duplicates (more than 4 of the same card) regularly, but it is not real time checking, it happens every several minutes.
 
 </details>
 
