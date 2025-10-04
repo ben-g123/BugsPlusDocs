@@ -128,3 +128,4 @@
 ## Bugs+ Labs <a href="#labs" id="labs"></a>
 
 * [Bugs+ Labs](labs/about.md)
+* [Research & Product Development](labs/about.md#research-development)
