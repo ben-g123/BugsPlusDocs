@@ -6,7 +6,9 @@ icon: flask
 
 Bugs+ Labs are experimental, upcoming, and opt-in features ready for public testing. We do not guarantee that the real launch of these features will be the same, or even be added into an actual version. Labs may be glitchy at some times, but you can provide feedback and report the glitch at any time. Any user on Bugs+, regradless of the age of their account, or parental controls status (unless the feature may not be for younger kids), can join a lab and test the features inside it. Some Labs have separate requirements, so watch us for those. Bugs+ Labs are made up of individual Labs each with different features, so make sure to opt in to the Labs you want to try out.
 
+### Relation To The Refund Feature
 
+Some of the Labs (not all of them) give you experimental refund features, so you can truely unleash the power of the refund features.
 
 ## Learn how to use Labs, join them and take action on them
 
@@ -31,6 +33,8 @@ Some labs require applying or waiting, while others, are open to the whole publi
 The best thing is that if you join a lab, the Bugs+ Labs features will stay until you leave or the lab shuts down.
 
 If you get waitlisted, the wait won’t take long, so watch for the notification that says you get access!
+
+Some Labs do this to make it so there is not too many people turning on a Lab in a short amount of time.
 
 </details>
 
@@ -100,3 +104,29 @@ If you continue to loose access to a Lab a lot of times, you may get banned from
 You may also get this notification if you are not using the Lab (for manually used Labs) or on Bugs+ (for continuous reminder or alert Labs, like detecting things in Bugs+, or reminding you of things, the reminder does not need to go off, but you still need to use Bugs+)
 
 </details>
+
+## Available Labs
+
+Here you can find the available labs you can join, and a description.
+
+### Refund Notifications
+
+<details>
+
+<summary>What are Refund Notifications?</summary>
+
+Refund Notifications let you get reminders of when your Collection may be cluttered with duplicate cards, when you are refunding too many cards in a short amount of time (usually 15 minutes or less), or when it may not be a good time to refund (short on cards in your Collection). You get them via popups, and the duplicate detection feature will check for too many duplicates (more than 4 of the same card) regularly, but it is not real time checking, it happens every serverak minutes.
+
+</details>
+
+## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
+
+The Research & Product Developement setting is required to use Bugs+ Labs. You can enable or disable it by going to the Account Tab on the sidebar (the person icon) and press Settings, press More, then press Research & Product Development, and review the setting. This will update it for all your devices signed into your account (also known as BugID). If you forget to turn it on, a popup will show reminding you to turn it on will show when you setup Bugs+ Labs, and if you agree, the permission will be enabled for you. Turning it off will make the 14 day window go off for eligibility, just like we said earlier in this support post.
+
+You will also get a chance to review it when you setup your account, but you can always set that setting up later.
+
+This data permission is a privacy feature.
+
+{% hint style="info" %}
+You need an account (also known as BugID) to turn on this setting.
+{% endhint %}
