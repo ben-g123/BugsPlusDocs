@@ -96,7 +96,13 @@ You can send Feedback or Glitch Reports to a Lab. We may try to see how many tim
 
 Some Labs have strict guideline, while others have soft guidelines. Strict guidelines mean that you always need to follow them, while soft guidelines, you only need to follow the guidelines to maintain access, but you still need to follow the Bugs+ Rules all the time.
 
-This means, if you don’t follow the suggested steps within 14 days, you will loose access to that specific Lab, but you will still maintain access to other Labs if possible. You will get reminders on the first day of that happening, the seventh day, then the last day of when you will loose access.&#x20;
+This means, if you don’t follow the suggested steps within 14 days, you will loose access to that specific Lab, but you will still maintain access to other Labs if possible. You will get reminders on the first day of that happening, the seventh day, then the last day of when you will loose access.
+
+We will even give you reasoning.
+
+The eligibility countdowns are lab-specific.
+
+You can still use Bugs+ Labs during the countdown, but with limits, and don’t expect to go that far without fixing the issue.
 
 <mark style="color:red;">**What will happen during that time? We won’t allow feedback, Glitch Reports, or collect required data during this time, if you miss the 14 days window, then if you want access back, you will need to go through any waitlists, and do any required steps, and any Lab data will be deleted as well.**</mark>
 
