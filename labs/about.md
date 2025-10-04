@@ -202,7 +202,11 @@ To turn off Refund Notifications, follow the same steps for turning off a Lab.
 
 ## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
 
-The Research & Product Developement setting is required to use Bugs+ Labs. You can enable or disable it by going to the Account Tab on the sidebar (the person icon) and press Settings, press More, then press Research & Product Development, and review the setting. This will update it for all your devices signed into your account (also known as BugID). If you forget to turn it on, a popup will show reminding you to turn it on will show when you setup Bugs+ Labs, and if you agree, the permission will be enabled for you. Turning it off will make the 14 day window go off for eligibility, just like we said earlier in this support post.
+The Research & Product Developement setting is required to use Bugs+ Labs.&#x20;
+
+You can enable or disable it by going to the Account Tab on the sidebar (the person icon) and press Settings, press More, then press Research & Product Development, and review the setting. If disabling and you have Labs opted into, agree that a 14 day timer will start for eligibility purposes.
+
+This will update it for all your devices signed into your account (also known as BugID). If you forget to turn it on, a popup will show reminding you to turn it on will show when you setup Bugs+ Labs, and if you agree, the permission will be enabled for you. Turning it off will make the 14 day window go off for eligibility, just like we said earlier in this support post.
 
 You will also get a chance to review it when you setup your account, but you can always set that setting up later.
 
