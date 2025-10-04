@@ -119,6 +119,71 @@ Refund Notifications let you get reminders of when your Collection may be clutte
 
 </details>
 
+<details>
+
+<summary>Can I change the thresholds?</summary>
+
+Currently you can’t change the sensitivity or add custom rules of what you think each notification should be, but the good news is that we may add this feature later on, and we have chose the thresholds based on user experience.
+
+You can still send us feedback so we can add this feature or change the default thresholds or send us a Glitch Report, but it needs to involve a glitch to send Glitch Reports.
+
+</details>
+
+<details>
+
+<summary>How can I send feedback?</summary>
+
+You can send feedback by pressing Send Feedback after getting 3 Refund Notification. You can also send Glitch Reports from that Lab’s settings.
+
+</details>
+
+<details>
+
+<summary>Refund Reminders</summary>
+
+Refund Reminders are part of Refund Notifications. This will give you reminders for when you should start looking through your collection to refund cards. One card with lots of duplicate wont trigger it, so you need at least 2 different cards that have lots of duplicates for the alert to trigger. This comes with the Refund Notifications Lab.
+
+</details>
+
+<details>
+
+<summary>Can I snooze reminders?</summary>
+
+You can snooze reminders until you close Bugs+ by clicking the snooze button on the reminder.
+
+</details>
+
+<details>
+
+<summary>Over-refunding Alerts</summary>
+
+You can get alerts for when you seem to be refunding too many trading cards in a short amount of time. This comes with the Refund Notifications Lab.
+
+</details>
+
+<details>
+
+<summary>Wrong Timing Alerts</summary>
+
+You can get alerts for when it may not be a good time for refunding since you are short on trading cards, which could help users build up on trading cards when their Collection is very small, so they are more likely to build up. This comes with the Refund Notifications Lab.
+
+</details>
+
+<details>
+
+<summary>How to turn off Refund Notifications</summary>
+
+To turn off Refund Notifications, follow the same steps for turning off a Lab.
+
+1. Go to the More sidebar tab (the 3 dots icon)
+
+2) Press Bugs+ Labs
+3) Select Refund Notifications
+4) Press Opt Out & Reset Lab Data. This will opt you out of Refund Notifications. Even though it mentions a reset, it won’t reset anything unless Refund Notifications stores something like settings.
+5) Confirm that you want to opt out. You can always come back to Refund Notifications.
+
+</details>
+
 ## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
 
 The Research & Product Developement setting is required to use Bugs+ Labs. You can enable or disable it by going to the Account Tab on the sidebar (the person icon) and press Settings, press More, then press Research & Product Development, and review the setting. This will update it for all your devices signed into your account (also known as BugID). If you forget to turn it on, a popup will show reminding you to turn it on will show when you setup Bugs+ Labs, and if you agree, the permission will be enabled for you. Turning it off will make the 14 day window go off for eligibility, just like we said earlier in this support post.
