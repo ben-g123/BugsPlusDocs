@@ -70,7 +70,7 @@ If a lab shuts down or converts to an actual feature, we won’t transfer the da
 
 <details>
 
-<summary>How to reset Bugs+ Labs?</summary>
+<summary>How to reset Bugs+ Labs completely?</summary>
 
 If you just want to opt out of a Lab, please follow the steps for leaving a Lab instead of resetting Bugs+ Labs. That will still remove that Lab’s data if you leave a Lab.
 
