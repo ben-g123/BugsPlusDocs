@@ -70,6 +70,22 @@ If a lab shuts down or converts to an actual feature, we won’t transfer the da
 
 <details>
 
+<summary>How to reset Bugs+ Labs?</summary>
+
+If you just want to opt out of a Lab, please follow the steps for leaving a Lab instead of resetting Bugs+ Labs. That will still remove that Lab’s data if you leave a Lab.
+
+**If you want to reset everything in Bugs+ Labs instead of a simple leave, follow these steps:**
+
+1. Go to the More tab on the sidebar (the 3 dots)
+2. Press and hold the Bugs+ Labs button
+3. After 3 seconds of holding the button, it should turn orange. Continue holding it.
+4. After a few extra seconds, it will turn red and a 3 second cancellable countdown will start and it will say to continue holding to reset Bugs+ Labs.
+5. When it says Reset Complete, stop holding. The Research & Product Development setting will turn off, all labs will be left, and the lab data will be removed. This won’t delete your game data.
+
+</details>
+
+<details>
+
 <summary>I was enjoying the features of a lab, but it just shut down</summary>
 
 Labs may shut down at any time with or without notice. This is since we can no longer handle a Lab, but usually we keep them. However, the best reason could be that the Lab has turned into an actual feature, thanks to your hard work, data and feedback. A simple test can go very far and turn into a feature release. This is not always the reason, but could be a possible reason.
