@@ -128,6 +128,18 @@ You may also get this notification if you are not using the Lab (for manually us
 
 </details>
 
+<details>
+
+<summary>Is Bugs+ Labs Free?</summary>
+
+{% hint style="success" %}
+## Yes, Bugs+ Labs Is Free! $0, 0 Bug Points, 0 Stars, and 0 Refund Credits
+
+Bugs+ Labs is always free and it will always be. No credit card required, no hidden fees, just helpful testing. This is like most other features in Bugs+. (I mean by most, things that dont cost Bug Points)
+{% endhint %}
+
+</details>
+
 ## Available Labs
 
 Here you can find the available labs you can join, and a description.
@@ -275,6 +287,14 @@ Firstly, make sure you have an account (also known as BugID), if not, create one
 
 <details>
 
+<summary>What happens if I skip a survey?</summary>
+
+You will still get a goal unless you chose No Thanks on the queetion asking if you want a goal for today, but it won’t be personalized, and it will only get it from your game data.
+
+</details>
+
+<details>
+
 <summary>What if I miss the daily goal screen?</summary>
 
 You will need to wait another day. This is since it is a **daily goal** not an on demand goal, but we may change it so if you miss the window or forget, you can get reminders.
@@ -283,13 +303,9 @@ You will need to wait another day. This is since it is a **daily goal** not an o
 
 <details>
 
-<summary>How much does Bugs+ Labs cost and is Bugs+ Labs free?</summary>
+<summary>Should I skip the goal if I don’t think I need it?</summary>
 
-{% hint style="success" %}
-## Yes, Bugs+ Labs Is Free! Pricing: $0, 0 Bug Points, 0 Stars, and 0 Refund Credits
-
-Bugs+ Labs is always free and it will always be. No credit card required, no hidden fees, just helpful testing. This is like most other features in Bugs+. (I mean by most, things that dont cost Bug Points)
-{% endhint %}
+You should see and screenshot the goal for reference later on today, since you may not know you may need it, but it is up to you.
 
 </details>
 
