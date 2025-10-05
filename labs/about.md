@@ -273,6 +273,26 @@ Firstly, make sure you have an account (also known as BugID), if not, create one
 
 </details>
 
+<details>
+
+<summary>What if I miss the daily goal screen?</summary>
+
+You will need to wait another day. This is since it is a **daily goal** not an on demand goal, but we may change it so if you miss the window or forget, you can get reminders.
+
+</details>
+
+<details>
+
+<summary>How much does Bugs+ Labs cost and is Bugs+ Labs free?</summary>
+
+{% hint style="success" %}
+## Yes, Bugs+ Labs Is Free! Pricing: $0, 0 Bug Points, 0 Stars, and 0 Refund Credits
+
+Bugs+ Labs is always free and it will always be. No credit card required, no hidden fees, just helpful testing. This is like most other features in Bugs+. (I mean by most, things that dont cost Bug Points)
+{% endhint %}
+
+</details>
+
 ## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
 
 The Research & Product Developement setting is required to use Bugs+ Labs.&#x20;
