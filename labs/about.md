@@ -319,6 +319,14 @@ If you are in a supported Bugs Near Me location (check while setting up, it will
 
 </details>
 
+<details>
+
+<summary>Will Bugs Near Me find all insects near me?</summary>
+
+No. Even since we focus on selected areas, it won't detect all insects, but some at least. This should not be relied while in it's Lab stage.
+
+</details>
+
 ## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
 
 The Research & Product Developement setting is required to use Bugs+ Labs.&#x20;
