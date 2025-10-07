@@ -309,6 +309,16 @@ You should see and screenshot the goal for reference later on today, since you m
 
 </details>
 
+### Bugs Near Me <a href="#research-development" id="research-development"></a>
+
+<details>
+
+<summary>What is Bugs Near Me?</summary>
+
+If you are in a supported Bugs Near Me location (check while setting up, it will tell you) you can discover what bugs may be near you, with or without needing to go outside. It is also a useful tool for bug catchers, but can be used by anyone.
+
+</details>
+
 ## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
 
 The Research & Product Developement setting is required to use Bugs+ Labs.&#x20;
