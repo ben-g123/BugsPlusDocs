@@ -8,8 +8,9 @@ Here are some features that you might find useful in Bugs+. Remember these are n
 
 ## Part 1: Core Hidden Features
 
-* **Refund Trading Cards Without A Reset:** You can refund selected trading cards without loosing all your other data. See [#how-to-refund-trading-cards](gameplay/collection/#how-to-refund-trading-cards "mention"). If you prefer a full reset (warning: all data, not only trading cards will be reset), see [reset-data.md](gameplay/reset-data.md "mention").
+* **Refund Trading Cards Without A Reset:** You can refund selected trading cards without loosing all your other data. See [#how-to-refund-trading-cards](gameplay/collection/#how-to-refund-trading-cards "mention"). If you prefer a full reset (warning: all data, not only trading cards will be reset), you will loose everything, so that is why refunds are a better choice most of the time. You can even get refund notifications.
 * **Bugs+ Labs**: Test out new features before we add them as an actual feature! See [Broken link](broken-reference "mention") for more info and how to join one of our feature labs.
+* **Hub Mode**: Unleash the power of 2 computers at a time with Hub Mode. Use one mainly and use the other as a secondary display for Bugs+. See more in the Hub Mode lab in Bugs+.
 * **Bug identification:** Go to the More tab (three dots) and upload a bug image to identify it.
 * **Reopen tutorials anytime:** More tab (the 3 dots icon) → Bugs+ Tutorials. Start with the Menu tutorial for new players.
 * **Seasonal content:** There’s an Easter event and more seasonal events.
