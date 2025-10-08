@@ -309,21 +309,50 @@ You should see and screenshot the goal for reference later on today, since you m
 
 </details>
 
-### Bugs Near Me <a href="#research-development" id="research-development"></a>
+### Hub Mode <a href="#research-development" id="research-development"></a>
 
 <details>
 
-<summary>What is Bugs Near Me?</summary>
+<summary>What is Hub Mode?</summary>
 
-If you are in a supported Bugs Near Me location (check while setting up, it will tell you) you can discover what bugs may be near you, with or without needing to go outside. It is also a useful tool for bug catchers, but can be used by anyone.
+Hub Mode lets you nominate a computer that is signed into your BugID to act as a Hub while inactive. The Hub you add is like a second display while you are using your other computer, and you can do lots of things with it.
 
 </details>
 
 <details>
 
-<summary>Will Bugs Near Me find all insects near me?</summary>
+<summary>What features can Hub Mode do for you?</summary>
 
-No. Even since we focus on selected areas, it won't detect all insects, but some at least. This should not be relied while in it's Lab stage.
+You can do these features, and more, right from your Hub:
+
+* **Check notifications:** There is no longer a need to close what you are doing to check your notifications - you can do it from Hub Mode.
+* **Check your Bug Points and Stars balance, plus check your Level & XP**: You can check on your balance without switching windows.
+* **Use it as an optional second display for some quizzes**: On some quizzes like the ones where you have to find what bug is that, you can put the image bigger on the Hub and the responses and question on the main screen.
+* **Check your Collection and refund trading cards**: Need to get some quick Bug Points while you are actively doing another things?  Or, want to see how your collection is going? You also can see your collection and refund trading cards on the Hub.
+* **Tips & tricks while you progress through the game**: While you are doing other things, the Hub will show some tips for you to unleash the power of every once in a while.
+* **Hub enhanced or exclusive experiences**: Some parts in Bugs+ take advantage of the second display, or require one.
+* **Widgets**: Check on your widgets, whether if it is daily quest widgets, or checking your notification count.
+* **And Many More**: Watch out for Lab updates and unleash the power of them!
+
+</details>
+
+<details>
+
+<summary>Set up Hub Mode</summary>
+
+Firstly, make sure you have opted into the Lab, since this is an experiment.
+
+1. Firstly, you will setup the main device. You can always change this later. See the steps below to learn how.
+2. Go to the More tab on the sidebar (the 3 dots), and press Setup Hub Mode. Make sure to do this on the Main device (the one you normally use as the main display)
+3. Then, confirm that this is the main device. It should say that you will need to do this on the second device. Keep the screen open while you setup the second device.
+4. On the Hub Device (the second display), go to the More tab on the sidebar (the 3 dots icon), and press Setup Hub Mode.
+5. It should popup saying that there is a main display, and this device will be the Hub Device. You can choose to continue with the Hub Mode setup, or to change the Main display.
+6. Choose how to activate Hub Mode. You can either choose after 9 seconds inactivity time, or by tapping Hub Mode on the Home tab on the sidebar (the house icon, but it is opened by default every time you open Bugs+, if you don’t change the tab). You can always activate Hub Mode via the Home tab regardless of setting. Choosing 9 seconds inactivity time will close off what you are doing on Bugs+, so be careful when using this during a quiz or a time sensitive event.
+7. Add widgets to Hub Mode, or leave it with the default widgets. Widgets are useful information cards on Hub Mode.
+8. Choose every how often to update Hub Mode. You can choose every 4 seconds for people who use Hub Mode a lot, or every 9 seconds for people who don’t usually use hub mode. Timing matters since if you launch an activity that involves Hub Mode, it will wait, but it may be slower for Hub Mode to change to the activity. Hub mode will always update every 4 seconds in a time sensitive activity.
+9. Confirm your settings and click Ok
+
+You can always change your settings later.
 
 </details>
 
