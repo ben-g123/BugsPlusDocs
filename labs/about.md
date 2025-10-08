@@ -327,9 +327,10 @@ You can do these features, and more, right from your Hub:
 
 * **Check notifications:** There is no longer a need to close what you are doing to check your notifications - you can do it from Hub Mode.
 * **Check your Bug Points and Stars balance, plus check your Level & XP**: You can check on your balance without switching windows.
+* **Check on the Common & Uncommon Shop items**: You can quickly buy Common and Uncommon trading cards from the Hub Display, but nothing else. You need to use the Main Display for the Shop if you want more exclusive items. You will get reminded if you try to get an item that is not available to buy on Hub Mode, and to use your Main Display.
 * **Use it as an optional second display for some quizzes**: On some quizzes like the ones where you have to find what bug is that, you can put the image bigger on the Hub and the responses and question on the main screen.
 * **Check your Collection and refund trading cards**: Need to get some quick Bug Points while you are actively doing another things?  Or, want to see how your collection is going? You also can see your collection and refund trading cards on the Hub.
-* **Tips & tricks while you progress through the game**: While you are doing other things, the Hub will show some tips for you to unleash the power of every once in a while.
+* **Tips & tricks while you progress through the game**: While you are doing other things, the Hub will show some tips for you to unleash the power of every once in a while. (If you don’t remove the Tips widget, if you did, you will need to add it back.)
 * **Hub enhanced or exclusive experiences**: Some parts in Bugs+ take advantage of the second display, or require one.
 * **Widgets**: Check on your widgets, whether if it is daily quest widgets, or checking your notification count.
 * **And Many More**: Watch out for Lab updates and unleash the power of them!
@@ -371,7 +372,53 @@ When the Hub Device is in Hub Mode, tap Hub Mode Settings. Or, go to the More ta
 
 Firstly, access Hub Mode Settings. When the Hub Device is in Hub Mode, tap Hub Mode Settings. Or, go to the More tab (the 3 dots icon) on the sidebar on the second device, and press Setup Hub Mode.
 
-Then, select Re-Nominate Hub Device.
+Then, select Re-Nominate Hub Device. On the device you want to promote to be the Hub, go to the More tab (the 3 dots icon) on the sidebar, press Setup Hub Mode and select Make This Device The Hub, and confirm. Then, on the primary display (the old Hub) press Next, then OK on the screen you we’re on before.
+
+</details>
+
+<details>
+
+<summary>What buttons and widgets are there when in Hub Mode?</summary>
+
+Here are the menu items on the main screen of the Hub Device while in Hub Mode:
+
+* Notifications
+* Trading Cards (Collection)
+* Shop
+* Currency & Levels (check on your Bug Points, Stars, Levels & XP)
+* Enhanced Experiences (if there is a Hub Mode Enhanced Experience, you can load it quickly here if it is not refreshing in the time you want it to).
+* Daily Quests (check on your daily quests before you go on to do it)
+
+- Hub Mode Settings
+- Send Hub Mode Feedback (will only show when you are invited to give feedback. Invites are random while you are playing.)
+- Tips & Tricks (you can also see a single tip that changes by using the Tips widget)
+- We will add more over time after we think we need more, and after the Lab is confirmed to not shut down.
+
+Here are the widgets you can add (add, remove or arrange them in the Widgets area of Hub Mode Settings, you can add up to 4 widgets, make sure not to clutter your screen, 2 widgets if fine but you can add more.):
+
+* Tips & Tricks (get tips while you play, this is the widget enabled by default.)
+* Notifications Count (check your amount of notifications without going to check)
+* Daily Quests Status (check if there are new quests, or if you have completed some and need to claim the rewards)
+* Feedback Opportunities (see the time until your next opportunity to send feedback)
+* Level (check on your level quickly)
+* We are adding more widgets over time after we have confirmed that the Lab is not shutting down.
+
+</details>
+
+<details>
+
+<summary>How can I send feedback?</summary>
+
+Watch out for Send Hub Mode Feedback to appear on the Hub Display. This will appear randomly, and will remove itself after a few minutes after appearing, so make sure to look for that. You can get reminders on when you can send feedback by adding the Feedback Opportunities widget. The widget will flash when it’s close to a opportunity to send feedback, so it may not be for you if you don’t want flashing widgets.
+
+</details>
+
+<details>
+
+<summary>Is there any way to turn this off?</summary>
+
+Yes there is! You can do it with the same way that you turn off a single Lab.\
+We would like your feedback if possible, so wait for the feedback period to come first, it’s optional, but appreciated.
 
 </details>
 
