@@ -350,9 +350,18 @@ Firstly, make sure you have opted into the Lab, since this is an experiment.
 6. Choose how to activate Hub Mode. You can either choose after 9 seconds inactivity time, or by tapping Hub Mode on the Home tab on the sidebar (the house icon, but it is opened by default every time you open Bugs+, if you don’t change the tab). You can always activate Hub Mode via the Home tab regardless of setting. Choosing 9 seconds inactivity time will close off what you are doing on Bugs+, so be careful when using this during a quiz or a time sensitive event.
 7. Add widgets to Hub Mode, or leave it with the default widgets. Widgets are useful information cards on Hub Mode.
 8. Choose every how often to update Hub Mode. You can choose every 4 seconds for people who use Hub Mode a lot, or every 9 seconds for people who don’t usually use hub mode. Timing matters since if you launch an activity that involves Hub Mode, it will wait, but it may be slower for Hub Mode to change to the activity. Hub mode will always update every 4 seconds in a time sensitive activity.
-9. Confirm your settings and click Ok
+9. Confirm your settings and click Ok.
+10. On the first device, press Sync Hub Mode to finish Hub Mode setup, or re-open Bugs+ anytime to sync.
 
 You can always change your settings later.
+
+</details>
+
+<details>
+
+<summary>How can I change Hub Mode settings?</summary>
+
+When the Hub Device is in Hub Mode, tap Hub Mode Settings. Or, go to the More tab (the 3 dots icon) on the sidebar on the second device, and press Setup Hub Mode. You won’t have to go through the setup again if it is already setup, so you can easily change settings.
 
 </details>
 
