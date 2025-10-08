@@ -365,6 +365,16 @@ When the Hub Device is in Hub Mode, tap Hub Mode Settings. Or, go to the More ta
 
 </details>
 
+<details>
+
+<summary>How can I change the second display?</summary>
+
+Firstly, access Hub Mode Settings. When the Hub Device is in Hub Mode, tap Hub Mode Settings. Or, go to the More tab (the 3 dots icon) on the sidebar on the second device, and press Setup Hub Mode.
+
+Then, select Re-Nominate Hub Device.
+
+</details>
+
 ## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
 
 The Research & Product Developement setting is required to use Bugs+ Labs.&#x20;
