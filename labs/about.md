@@ -443,9 +443,11 @@ Some other popups may have a system like this as well.
 
 <details>
 
-<summary>About Hub Mode Prizes</summary>
+<summary>About Hub Mode Prizes and how to earn points for unleashing the power of Hub Mode</summary>
 
-If you unleash the power of Hub Mode a lot, we will give you rewards. This won’t be for long, since this is to boost us getting more data, so we can boost the chances of Hub Mode getting launched. You can check your prize status in the Rewards & Freebies area in Hub Mode Settings.
+**The real answer is - Hub Mode gives rewards:**
+
+If you unleash the power of Hub Mode a lot, we will give you rewards. You can check your prize status in the Rewards & Freebies area in Hub Mode Settings.
 
 **What Prizes May I Claim?:**
 
