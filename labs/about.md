@@ -333,7 +333,8 @@ You can do these features, and more, right from your Hub:
 * **Tips & tricks while you progress through the game**: While you are doing other things, the Hub will show some tips for you to unleash the power of every once in a while. (If you don’t remove the Tips widget, if you did, you will need to add it back.)
 * **Hub enhanced or exclusive experiences**: Some parts in Bugs+ take advantage of the second display, or require one.
 * **Widgets**: Check on your widgets, whether if it is daily quest widgets, or checking your notification count.
-* **And Many More**: Watch out for Lab updates and unleash the power of them!
+
+- **And Many More**: There may be some we have not documented, and also, watch out for Lab updates and unleash the power of them!
 
 </details>
 
@@ -427,6 +428,16 @@ We would like your feedback if possible, so wait for the feedback period to come
 <summary>What does Enhanced Experiences do?</summary>
 
 Enhanced Experiences are areas in Bugs+ that take advantage of 2 computers at the same time, or require one.
+
+</details>
+
+<details>
+
+<summary>How can I move a refund notification, or a compatible popup to investigate on the Hub Display?</summary>
+
+If you select Move To Hub Display on a refund notification, you can quickly see the context on the Hub Display, and take action if needed, without dropping what you are doing.
+
+Some other popups may have a system like this as well.
 
 </details>
 
