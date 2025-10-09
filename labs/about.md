@@ -441,6 +441,35 @@ Some other popups may have a system like this as well.
 
 </details>
 
+<details>
+
+<summary>About Hub Mode Prizes</summary>
+
+If you unleash the power of Hub Mode a lot, we will give you rewards. This won’t be for long, since this is to boost us getting more data, so we can boost the chances of Hub Mode getting launched. You can check your prize status in the Rewards & Freebies area in Hub Mode Settings.
+
+**What Prizes May I Claim?:**
+
+* **Bronze** - You will get 1000 Bug Points. Simply unleash the power of Hub Mode 10 times.
+* **Silver** - You will get 1500 Bug Points. Simply unleash the power of Hub Mode 17 times.
+* **Gold** - You will get 2000 Bug Points and 10 Stars. To get this, unleash the power of Hub Mode 24 times.
+* **Gold Plus** - You will get 3000 Bug Points and 20 Stars. To get this, unleash the power of Hub Mode 32 times.
+* **Platinum** - You will get 4000 Bug Points and 30 Stars. To get this, unleash the power of Hub Mode 44 times.
+* Beyond Platinum, you will get 750 Bug Points every 10 times you unleash the power of Hub Mode.
+
+**I‘ve went past Platinum, how can I get a tier reset to get more prizes?**
+
+We will do tier resets along the way, so we may notice you have went past platinum, so we may reset your tier shortly. Take the gift offer we mentioned earlier as a chance while you wait. But good job getting platinum!
+
+**Does feedback count?**
+
+We will be happy to give out a 850 Bug Points gift for helpful feedback. You will get notified if you get selected.
+
+**Why do I get paid for this?**
+
+It’s still in it’s testing stage, so Bugs+ Labs may give incentives from time to time to boost the chances of the Lab succeeding - and to get feedback to find out if we should continue with this specific Lab.
+
+</details>
+
 ## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
 
 The Research & Product Developement setting is required to use Bugs+ Labs.&#x20;
