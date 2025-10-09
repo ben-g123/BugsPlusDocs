@@ -422,6 +422,14 @@ We would like your feedback if possible, so wait for the feedback period to come
 
 </details>
 
+<details>
+
+<summary>What does Enhanced Experiences do?</summary>
+
+Enhanced Experiences are areas in Bugs+ that take advantage of 2 computers at the same time, or require one.
+
+</details>
+
 ## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
 
 The Research & Product Developement setting is required to use Bugs+ Labs.&#x20;
