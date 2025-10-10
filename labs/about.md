@@ -223,6 +223,38 @@ You can get alerts for when it may not be a good time for refunding since you ar
 
 <details>
 
+<summary>Collection Assessment</summary>
+
+With Collection Assessment, it can review your collection and give you a score. You can access this score by going to the Collection tab on the sidebar (the SD card icon) and clicking the circled check mark icon.
+
+You can also see the score when investigating a Refund Notification.
+
+You can also see the score on the Collection Assessment option in Hub Mode.
+
+On the page, you will see a score name (see below), a colour for the score, and there will be 5 rings around the icon, and some will be coloured up or greyed out based on the score.
+
+**What scores can I get?**
+
+* **Good** - No cluttered trading cards (maintaining under 4 trading cards per card type), and at least 3 cards that are not Common or Uncommon. Colour: Green, 5 rings filled up.
+* **Good - Collection can be improved** - 1 cluttered trading card (a card type that has more than 4 trading cards), or/and not having at least 2 cards that are not Common or Uncommon. Colour: Green, 4 rings filled up.
+* **Average - Collection should be improved** - 2-3 cluttered trading cards (a card type that has more than 4 trading cards). Colour: Yellow, 3 rings filled up.
+* **Attention needed - Collection needs improving** - 4-5 cluttered trading cards, or having more than 2000 Bug Points but less than 8000 Bug Points but have less than 10 trading cards. Colour: Orange, 2 rings filled up.
+* **Trading card collection emergency - Collection must be improved** - More than 6 cluttered trading cards, or having 8000 Bug Points but have less than 25 trading cards. Colour: Red, 1 ring filled up.
+
+**Taking Action:**
+
+* This is your chance to remove the clutter before you find problems with it. You will get help along the way.
+* The way to take action is to unleash the power of the refund assistant, sometimes it requires buying trading cards.
+* If you are doing other things, use Hub Mode to multitask.
+* The more severe the alert, the faster you should act.
+* You might not notice it, but just like real life cleaning, it’s a good idea to clear your collection.
+
+- The scoring assistant will give you more detail, but you can also activate the AI refund assistant as well straight from that screen without needing to go back to the main Collection area.
+
+</details>
+
+<details>
+
 <summary>How to turn off Refund Notifications</summary>
 
 To turn off Refund Notifications, follow the same steps for turning off a Lab.
@@ -392,6 +424,7 @@ Here are the menu items on the main screen of the Hub Device while in Hub Mode:
 
 - Hub Mode Settings
 - Send Hub Mode Feedback (will only show when you are invited to give feedback. Invites are random while you are playing.)
+- Collection Assessment (only available if the Refund Notifications Lab is enabled)
 - Tips & Tricks (you can also see a single tip that changes by using the Tips widget)
 - We will add more over time after we think we need more, and after the Lab is confirmed to not shut down.
 
