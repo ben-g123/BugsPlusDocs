@@ -534,14 +534,44 @@ _How often Hub Mode updates_
 
 Here you can select how often Hub Mode activates to change widget details, check for Enhanced Experiences, and more. Here are the options:
 
-* Every 4 seconds: For people who don’t use Hub Mode widgets and quick details much.
-* Every 9 seconds: Perfect for Hub Mode-intense users that always need up to date data ready for unleashing.
+* Every 4 seconds: Perfect for Hub Mode-intense users that always need up to date data ready for unleashing.
+* Every 9 seconds: For people who don’t use Hub Mode widgets and quick details much.
+
+_When to check for Enhanced Experiences_
+
+Here you can choose when Enhanced Experiences should be checked for. Enhanced Experiences will show up for example in quizzes and more places. Here are the options:
+
+* Check for Enhanced Experiences when Hub Mode refreshes: When a compatible experience is detected, a 4 second countdown will start on your Hub Device so you can decide if you want an enhanced experience. You can always click Enhanced Experiences on Hub Mode to check manually. This is the default option.
+* Start manually by clicking Enhanced Experiences on Hub Mode: Useful if you want to decide manually.
+
+**Widgets**
+
+Clicking on the **Widgets** option in Hub Mode Settings will let you add, remove and rearrange Hub Mode widgets.
+
+**Tips & Tricks Widget Rotation Style**
+
+Clicking on the **Tips & Tricks Widget Roration Style** option in Hub Mode will let you select the style of how the Tips & Tricks widget changes. This does not apply to the Tips & Tricks area in Hub Mode, only the widget if enabled. Here are the options:
+
+* **Unleashed:** Get a truely unleashed and detailed tip that changes every minute. Perfect if you need a tip of the minute. This is the default option.
+* **Brief:** Get a quick, and short but helpful tip that changes every 15 seconds. Useful if you need a tip that changes nearly every time you look at your Hub Device.
+
+**Rewards & Freebies**
+
+The **Rewards & Freebies** option lets you see the prizes you got from unleashing the power of Hub Mode. See the Hub Mode Prizes for more info.
+
+**Disconnect & Reset**
+
+The **Disconnect & Reset** options lets you disconnect the Main Device from the Hub Device. Here are the reset options:
+
+* Disconnect & Disable - Disconnects the Main Device from the Hub Device, while keeping data.
+* Disconnect & Reset - Disconnects the Main Device from the Hub Device, and remove settings and set it up again. Please note like other resets, it will keep the Hub Mode Prizes rewards but reset the progress.
+* Cleanup - Keeps data but removes all widgets and puts the Tips & Tricks Widget Back. Hub Mode will also activate after 9 seconds after inactivity unless changed.
 
 </details>
 
 ## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
 
-The Research & Product Developement setting is required to use Bugs+ Labs.&#x20;
+The Research & Product Development setting is required to use Bugs+ Labs.&#x20;
 
 You can enable or disable it by going to the Account Tab on the sidebar (the person icon) and press Settings, press More, then press Research & Product Development, and review the setting. If disabling and you have Labs opted into, agree that a 14 day timer will start for eligibility purposes.
 
