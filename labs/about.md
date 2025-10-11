@@ -505,6 +505,40 @@ It’s still in it’s testing stage, so Bugs+ Labs may give incentives from tim
 
 </details>
 
+<details>
+
+<summary>What settings are there in Hub Mode?</summary>
+
+**Firstly, let’s unpack how to even go to Hub Mode Settings:**
+
+When the Hub Device is in Hub Mode, tap Hub Mode Settings. Or, go to the More tab (the 3 dots icon) on the sidebar on the second device, and press Setup Hub Mode. You won’t have to go through the setup again if it is already setup, so you can easily change settings.
+
+**Hub Mode Settings:**
+
+Below, you can see what settings there are in Hub Mode Settings.
+
+Each heading below are the actual name for the setting.
+
+**Activating Hub Mode**
+
+Clicking on the **Activating Hub Mode** setting in Hub Mode Settings will let you select how to activate Hub Mode. Here are the options
+
+* Activate after 9 seconds of inactivity. **Warning that this will close off anything you are doing on Bugs+ during that time to go to Hub Mode, so choose with caution.**
+* Activate by clicking Hub Mode on the Home tab on the sidebar (the house icon)
+
+**Refresh Rates**
+
+Clicking on the **Refresh Rates** setting in Hub Mode Settings will let you select how often Hub Mode updates, and more. Here are the sub-sections:
+
+_How often Hub Mode updates_
+
+Here you can select how often Hub Mode activates to change widget details, check for Enhanced Experiences, and more. Here are the options:
+
+* Every 4 seconds: For people who don’t use Hub Mode widgets and quick details much.
+* Every 9 seconds: Perfect for Hub Mode-intense users that always need up to date data ready for unleashing.
+
+</details>
+
 ## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
 
 The Research & Product Developement setting is required to use Bugs+ Labs.&#x20;
