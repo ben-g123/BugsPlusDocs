@@ -559,6 +559,12 @@ Clicking on the **Tips & Tricks Widget Roration Style** option in Hub Mode will 
 
 The **Rewards & Freebies** option lets you see the prizes you got from unleashing the power of Hub Mode. See the Hub Mode Prizes for more info.
 
+**Re-Nominate Hub Device**
+
+Firstly, access Hub Mode Settings. When the Hub Device is in Hub Mode, tap Hub Mode Settings. Or, go to the More tab (the 3 dots icon) on the sidebar on the second device, and press Setup Hub Mode.
+
+Then, select Re-Nominate Hub Device. On the device you want to promote to be the Hub, go to the More tab (the 3 dots icon) on the sidebar, press Setup Hub Mode and select Make This Device The Hub, and confirm. Then, on the primary display (the old Hub) press Next, then OK on the screen you we’re on before.
+
 **Disconnect & Reset**
 
 The **Disconnect & Reset** options lets you disconnect the Main Device from the Hub Device. Here are the reset options:
