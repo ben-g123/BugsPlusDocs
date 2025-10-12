@@ -359,7 +359,7 @@ You can do these features, and more, right from your Hub:
 
 * **Check notifications:** There is no longer a need to close what you are doing to check your notifications - you can do it from Hub Mode.
 * **Check your Bug Points and Stars balance, plus check your Level & XP**: You can check on your balance without switching windows.
-* **Check on the Common & Uncommon Shop items**: You can quickly buy Common and Uncommon trading cards from the Hub Display, but nothing else. You need to use the Main Display for the Shop if you want more exclusive items. You will get reminded if you try to get an item that is not available to buy on Hub Mode, and to use your Main Display.
+* **Check on the Common & Uncommon (and sometimes other rarity) Shop items**: You can quickly buy Common and Uncommon trading cards from the Hub Display, but nothing else. You need to use the Main Display for the Shop if you want more exclusive items. You will get reminded if you try to get an item that is not available to buy on Hub Mode, and to use your Main Display. **If you have Level 15 in Bugs+, you can also get Rare items from Hub Mode not just only Common & Uncommon.**
 * **Use it as an optional second display for some quizzes**: On some quizzes like the ones where you have to find what bug is that, you can put the image bigger on the Hub and the responses and question on the main screen.
 * **Check your Collection and refund trading cards**: Need to get some quick Bug Points while you are actively doing another things?  Or, want to see how your collection is going? You also can see your collection and refund trading cards on the Hub.
 * **Tips & tricks while you progress through the game**: While you are doing other things, the Hub will show some tips for you to unleash the power of every once in a while. (If you don’t remove the Tips widget, if you did, you will need to add it back.)
@@ -428,14 +428,16 @@ Here are the menu items on the main screen of the Hub Device while in Hub Mode:
 - Tips & Tricks (you can also see a single tip that changes by using the Tips widget)
 - We will add more over time after we think we need more, and after the Lab is confirmed to not shut down.
 
-Here are the widgets you can add (add, remove or arrange them in the Widgets area of Hub Mode Settings, you can add up to 4 widgets, make sure not to clutter your screen, 2 widgets if fine but you can add more.):
+Here are the widgets you can add (add, remove or arrange them in the Widgets area of Hub Mode Settings, you can add up to 4 widgets (sometimes you can add up to 5 if you unlocked the ability to), make sure not to clutter your screen, 2 widgets if fine but you can add more.):
 
 * Tips & Tricks (get tips while you play, this is the widget enabled by default.)
 * Notifications Count (check your amount of notifications without going to check)
 * Daily Quests Status (check if there are new quests, or if you have completed some and need to claim the rewards)
 * Feedback Opportunities (see the time until your next opportunity to send feedback)
 * Level (check on your level quickly)
-* We are adding more widgets over time after we have confirmed that the Lab is not shutting down.
+* Bug Points count (requires Level 10, or else you have to check manually from Currency & Levels) (check the amount of Bug Points you have quickly)
+
+- We are adding more widgets over time after we have confirmed that the Lab is not shutting down.
 
 </details>
 
@@ -557,7 +559,7 @@ Clicking on the **Tips & Tricks Widget Roration Style** option in Hub Mode will 
 
 **Rewards & Freebies**
 
-The **Rewards & Freebies** option lets you see the prizes you got from unleashing the power of Hub Mode. See the Hub Mode Prizes for more info.
+The **Rewards & Freebies** option lets you see the prizes you got from unleashing the power of Hub Mode, how many times you unleashed the power, your current tier and more. See the Hub Mode Prizes for more info.
 
 **Re-Nominate Hub Device**
 
@@ -572,6 +574,52 @@ The **Disconnect & Reset** options lets you disconnect the Main Device from the 
 * Disconnect & Disable - Disconnects the Main Device from the Hub Device, while keeping data.
 * Disconnect & Reset - Disconnects the Main Device from the Hub Device, and remove settings and set it up again. Please note like other resets, it will keep the Hub Mode Prizes rewards but reset the progress.
 * Cleanup - Keeps data but removes all widgets and puts the Tips & Tricks Widget Back. Hub Mode will also activate after 9 seconds after inactivity unless changed.
+
+</details>
+
+<details>
+
+<summary>Unlocking more Hub Mode features along the way</summary>
+
+You can unlock extra Hub Mode features along the way, alongside the built-in features, based on the Level you earned in Bugs+. The Level is your Bugs+ Level, not your Hub Mode-specific rewards tier. Levels are not only for Hub Mode, they also unlock Non-Hub Mode features as well which you can use in the main game not just Hub Mode.
+
+Passing a Level or getting a Level means you can keep the perks of that Level, not just the Hub Mode features.
+
+You will get a notification when you unlocked extra Hub Mode Features.
+
+**Level 1: Built-in Hub Mode Features**
+
+This includes all the features we explained above that did not mention a minimum level. So Enhanced Experiences, Settings, Some Widgets and the other ones that don’t need a level to get. So, all the core features. There is actually a lot of these, and this is what takes up the most of all the features.
+
+This is to make Bugs+ engaging, and to roll out features in Hub Mode over Time, sometimes to make sure people don’t make mistakes with the quickly get Trading Cards from the shop feature.
+
+**Level 10: Check on your Bug Points quickly without needing to go to the Currency & Levels area**
+
+Getting Level 10 in Bugs+, alongside all the other features you unlock like more Shop items that are not related to Hub Mode, **you can also check on your Bug Points quickly without needing to go to Currency & Levels, with the Bug Points Count Widget**.
+
+Even without Level 10, you can still go to Currency & Levels to check on your Bug Points. You can also check your Stars and Levels, alongside Bug Points as well if you use Currency & Levels.
+
+You can get the Levels Widget by adding it in the Widgets area.
+
+**Level 15: Unlock the ability to get Rare cards from Shop area in Hub Mode**
+
+Getting Level 15 in Bugs+, alongside all the other features you unlock like more features that are not related to Hub Mode, **you can also unlock the ability to get Rare cards not just only Common & Uncommon.**
+
+This is very useful to get that Rare card you really want quickly. In this level, you won’t be able to get Ultra Rare, Legandary, Ultra Legendary, and Limited, but you may unlock some of those later. This is since the more you level up, the more likely you are not going to make mistakes on the Shop on the Hub Device.
+
+You still can’t spend Stars on the Shop on Hub Mode, but you can still spend Bug Points. If you need to use Stars, you can still do it on the Main Device.
+
+**Level 20: Unleash the power of the AI Refund Assistant right from your Hub Device**
+
+Getting Level 20 in Bugs+, alongside all the other features you unlock like more features that are not related to Hub Mode, **you can also unlock the ability to use the AI Refund Assistant while the Hub Device is in Hub Model without needing to go to the AI refund assistant on your Main Device.**
+
+Simply activate it from the list icon on the Trading Cards (Collection) area on your Hub Device, or from the Collection Assessment if there is a recommendation.
+
+**Level 25: Get one extra widget space**
+
+Getting Level 25 in Bugs+, alongside all the other features you unlock like more features that are not related to Hub Mode, **you will also get one extra widget space to add to Hub Mode.**
+
+This means you will be able to add 5 widgets maximum instead of 4 widgets maximum. This is your chance to share feedback if 5 is too much, too little or just right.
 
 </details>
 
