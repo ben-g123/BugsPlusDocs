@@ -567,6 +567,15 @@ Firstly, access Hub Mode Settings. When the Hub Device is in Hub Mode, tap Hub M
 
 Then, select Re-Nominate Hub Device. On the device you want to promote to be the Hub, go to the More tab (the 3 dots icon) on the sidebar, press Setup Hub Mode and select Make This Device The Hub, and confirm. Then, on the primary display (the old Hub) press Next, then OK on the screen you we’re on before.
 
+**Unlocked Features**
+
+The **Unlocked Features** option lets you manage configurable features that relate to Hub Mode additions that you unlocked based on your Level in Bugs+.
+
+This includes:
+
+* **Dark Mode -** Unlocked at Level 27, this lets you turn on or off Dark Mode.
+* **Turn on or off Limited Time Features** - Unlocked at Level 50, this lets you turn off any Limited Time features until there is different Limited Time Features, or turn it back on if it is already off.
+
 **Disconnect & Reset**
 
 The **Disconnect & Reset** options lets you disconnect the Main Device from the Hub Device. Here are the reset options:
@@ -583,6 +592,8 @@ The **Disconnect & Reset** options lets you disconnect the Main Device from the 
 
 You can unlock extra Hub Mode features along the way, alongside the built-in features, based on the Level you earned in Bugs+. The Level is your Bugs+ Level, not your Hub Mode-specific rewards tier. Levels are not only for Hub Mode, they also unlock Non-Hub Mode features as well which you can use in the main game not just Hub Mode.
 
+This is to make Bugs+ engaging, and to roll out features in Hub Mode over time, sometimes to make sure people don’t make mistakes with the quickly get Trading Cards from the shop feature.
+
 Passing a Level or getting a Level means you can keep the perks of that Level, not just the Hub Mode features.
 
 You will get a notification when you unlocked extra Hub Mode Features.
@@ -590,8 +601,6 @@ You will get a notification when you unlocked extra Hub Mode Features.
 **Level 1: Built-in Hub Mode Features**
 
 This includes all the features we explained above that did not mention a minimum level. So Enhanced Experiences, Settings, Some Widgets and the other ones that don’t need a level to get. So, all the core features. There is actually a lot of these, and this is what takes up the most of all the features.
-
-This is to make Bugs+ engaging, and to roll out features in Hub Mode over Time, sometimes to make sure people don’t make mistakes with the quickly get Trading Cards from the shop feature.
 
 **Level 10: Check on your Bug Points quickly without needing to go to the Currency & Levels area**
 
@@ -620,6 +629,34 @@ Simply activate it from the list icon on the Trading Cards (Collection) area on 
 Getting Level 25 in Bugs+, alongside all the other features you unlock like more features that are not related to Hub Mode, **you will also get one extra widget space to add to Hub Mode.**
 
 This means you will be able to add 5 widgets maximum instead of 4 widgets maximum. This is your chance to share feedback if 5 is too much, too little or just right.
+
+**Level 27: Dark Mode**
+
+Getting Level 27 in Bugs+, alongside all the other features you unlock like more features that are not related to Hub Mode, **you will also get early access to Dark Mode in Hub Mode.**
+
+You can turn on Dark Mode once unlocked in the Unlocked Features area of Hub Mode Settings.
+
+**Level 30: More opportunity time for sending feedback**
+
+Getting Level 30 in Bugs+, alongside all the other features you unlock like more features that are not related to Hub Mode, **you will get an extra minute in every time window for sending feedback, so you have more time to send feedback before the opportunity goes away.**
+
+**Level 40: Unlock the ability to get Ultra Rare & Legendary Cards in the shop area of Hub Mode, and spend stars in tue shop area of Hub Mode**
+
+Getting Level 40 in Bugs+, alongside all the other features you unlock like more features that are not related to Hub Mode, **you can also unlock the ability to get Ultra Rare & Legendary cards not just only Rare, Common & Uncommon. You will also be able to spend Stars in the shop area of Hub Mode.**
+
+This is very useful to get that Ultra Rare or Legendary card you really want quickly. In this level, you won’t be able to get Limited cards. This is since the more you level up, the more likely you are not going to make mistakes on the Shop on the Hub Device.
+
+Unlike other Levels, you will be able to spend Stars as well as Bug Points.
+
+**Level 50 - Unlock Limited Time areas in Hub Mode**
+
+Getting Level 50 in Bugs+, alongside all the other features you unlock like more features that are not related to Hub Mode, **you will also be able to use Limited Time areas in Hub Mode, that are for certain events, or just limited time in general.**
+
+This will help you in some events that have a dedicated interface (unlike BugOn), and you will also be able to use time limited features, that either help you, or are for fun.
+
+This is a thank you from the Bugs+ Team. This is meant as a compensation for there not being any more rewards for Hub Mode after Level 50.
+
+You will also see an option to turn off or on any limited time Hub Mode features in the Unlocekd Featuees area of Hub Mode Settings.
 
 </details>
 
