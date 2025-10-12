@@ -268,7 +268,11 @@ To turn off Refund Notifications, follow the same steps for turning off a Lab.
 
 </details>
 
-### Personalized Daily Goals
+### Personalized Daily Goals & the Unleash area
+
+The **Personalized Daily Goals & the Unleash area** contains the personalized daily goals, and the Unleash area.
+
+**Personalized Daily Goals**
 
 <details>
 
@@ -338,6 +342,36 @@ You will need to wait another day. This is since it is a **daily goal** not an o
 <summary>Should I skip the goal if I don’t think I need it?</summary>
 
 You should see and screenshot the goal for reference later on today, since you may not know you may need it, but it is up to you.
+
+</details>
+
+**Unleash area**
+
+<details>
+
+<summary>What is the Unleash area?</summary>
+
+Part of the **The Personalized Daily Goals & the Unleash area** Lab, it contains the Unleash area. The Unleash area shows suggestions on what power you could actually be unleashing. From new Labs, to suggestions and more, you may find your new best feature or get a good insight.
+
+You can even setup new features with it.
+
+</details>
+
+<details>
+
+<summary>Where is the Unleash area located?</summary>
+
+You can find the Unleash area after enabling the associated Lab by going to the More tab on the sidebar (the 3 dots) and clicking the “Unleash the power of“ button.
+
+Or, if you want to find new powers to unleash while you do other things, go to the “Unleash & Setup“ area on Hub Mode. However, setting up new features straight from the hub requires Level 37, but you can always plan to setup features by discovering features to setup with Unleash & Setup.
+
+</details>
+
+<details>
+
+<summary>How many will suggestions give me?</summary>
+
+You will get as many useful and relevant suggestions as possible.
 
 </details>
 
@@ -426,6 +460,7 @@ Here are the menu items on the main screen of the Hub Device while in Hub Mode:
 - Send Hub Mode Feedback (will only show when you are invited to give feedback. Invites are random while you are playing.)
 - Collection Assessment (only available if the Refund Notifications Lab is enabled)
 - Tips & Tricks (you can also see a single tip that changes by using the Tips widget)
+- Unleash & Setup (requires Level 37) (setup new features for your Main Device straight from the Hub)
 - We will add more over time after we think we need more, and after the Lab is confirmed to not shut down.
 
 Here are the widgets you can add (add, remove or arrange them in the Widgets area of Hub Mode Settings, you can add up to 4 widgets (sometimes you can add up to 5 if you unlocked the ability to), make sure not to clutter your screen, 2 widgets if fine but you can add more.):
@@ -639,6 +674,12 @@ You can turn on Dark Mode once unlocked in the Unlocked Features area of Hub Mod
 **Level 30: More opportunity time for sending feedback**
 
 Getting Level 30 in Bugs+, alongside all the other features you unlock like more features that are not related to Hub Mode, **you will get an extra minute in every time window for sending feedback, so you have more time to send feedback before the opportunity goes away.**
+
+**Level 37: Setup new features straight from Hub Mode**
+
+You can setup new Bugs+ features for your Main Device, straight from the Hub, even if it is not a suggestion in Unleash, once you reach Level 37. You still need to enable the **The Personalized Daily Goals & the Unleash area** for this to work. You can do this in Bugs+ Labs.
+
+This adds an area called Unleash & Setup to Hub Mode.
 
 **Level 40: Unlock the ability to get Ultra Rare & Legendary Cards in the shop area of Hub Mode, and spend stars in tue shop area of Hub Mode**
 
