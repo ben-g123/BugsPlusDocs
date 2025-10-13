@@ -673,7 +673,7 @@ _Automations Plus_
 Automations Plus gets you everything that is included in the Automations, plus:
 
 * Includes features from Automations Starter, plus more
-* Extra Prioritised Automation Running And Checking - Instead of checking once and a while, your device will check every 2 syncs for running automations, unlike Starter and having no paid plan.
+* Extra Prioritised Automation Running And Checking - Instead of checking once and a while, your device will check every 1 syncs for running automations, unlike Starter and having no paid plan.
 * 9 automations instead of 6 or 3 (based on what plan you are upgrading from)
 * Chat with a AI chatbot to maximize automations
 
