@@ -351,7 +351,7 @@ You should see and screenshot the goal for reference later on today, since you m
 
 <summary>What is the Unleash area?</summary>
 
-Part of the **The Personalized Daily Goals & the Unleash area** Lab, it contains the Unleash area. The Unleash area shows suggestions on what power you could actually be unleashing. From new Labs, to suggestions and more, you may find your new best feature or get a good insight.
+Part of **The Personalized Daily Goals & the Unleash area** Lab, it contains the Unleash area. The Unleash area shows suggestions on what power you could actually be unleashing. From new Labs, to suggestions and more, you may find your new best feature or get a good insight.
 
 You can even setup new features with it.
 
@@ -611,6 +611,10 @@ This includes:
 * **Dark Mode -** Unlocked at Level 27, this lets you turn on or off Dark Mode.
 * **Turn on or off Limited Time Features** - Unlocked at Level 50, this lets you turn off any Limited Time features until there is different Limited Time Features, or turn it back on if it is already off.
 
+**Automations**
+
+Here you can setup automations to help you in the main game in Bugs+, or automate actions in Hub Mode. You need Level 35 or higher to use this feature.
+
 **Disconnect & Reset**
 
 The **Disconnect & Reset** options lets you disconnect the Main Device from the Hub Device. Here are the reset options:
@@ -618,6 +622,62 @@ The **Disconnect & Reset** options lets you disconnect the Main Device from the 
 * Disconnect & Disable - Disconnects the Main Device from the Hub Device, while keeping data.
 * Disconnect & Reset - Disconnects the Main Device from the Hub Device, and remove settings and set it up again. Please note like other resets, it will keep the Hub Mode Prizes rewards but reset the progress.
 * Cleanup - Keeps data but removes all widgets and puts the Tips & Tricks Widget Back. Hub Mode will also activate after 9 seconds after inactivity unless changed.
+
+</details>
+
+<details>
+
+<summary>How to set automations</summary>
+
+If you get Level 35, you can setup automations. These help you in the main game and Hub Mode, but you need Hub Mode to manage them since the Hub stores the data of Automations.
+
+**Where to setup automations**
+
+Go to Hub Mode Settings, then press Automations
+
+**What can I automate?**
+
+* Using daily quest refresher items
+* Unleash & Setup certain new Labs
+* Buy some Rare cards using Bug Points when buying cards is needed to increase the Collection Accessment score
+* Smart Goals (powered by AI) - The AI will set a goal to buy a certain trading card, buzz you on your Hub Display, and track the goal. This could be a limited time card you don’t have, or anything! (Requires Automations Starter or Automations Plus)
+* Renovate your Hub Mode widgets
+* Much more automations from the Automations Library.
+
+**How many automations can I have**
+
+You can have up to 3 automations with no Automations Starter or Automations Plus, but if you pay Stars to get more features, it may vary.
+
+**Upgrade your automations**
+
+Even though Bugs+ Labs is meant to be free, we are sneaking in paid automations as a exemption to trial it. With a paid version of Automations, you can truely unleash the power. It only costs some Stars each month.
+
+This is just a test to see we how well it goes, but you can take advantage of it, it may not be in the actual versions if there is actually any. If we cancel the test everyone will get the features in Automations Plus.
+
+Here’s an overview in what each paid plan means:
+
+_Automations Starter_
+
+Automations Starter gets you everything that is included in the Automations, plus:
+
+* Smart Goals Powered By AI - Hub Mode will randomly set goals, buzz your display, and tell you all about the goal, then make a countdown until it will fulfill the goal when there is enough bug points, plus some that won’t cause any trouble in the user’s gameplay after, to buy it.
+* AI Powered Suggestions - Just Ask to craft a special made automation just for you
+* Backup Automations To The Cloud - Tiered of Hub Mode storing automations on the device - Well, we will backup your automations on the cloud instead of only your device.
+* Prioritised Automation Running And Checking - Instead of checking once and a while, your device will check every 2 syncs for automations.
+* 6 automations space instead of 3
+
+Just Pay 6 Stars Each Month, get started in the Upgrade area in the automations area of Hub Mode.
+
+_Automations Plus_
+
+Automations Plus gets you everything that is included in the Automations, plus:
+
+* Includes features from Automations Starter, plus more
+* Extra Prioritised Automation Running And Checking - Instead of checking once and a while, your device will check every 2 syncs for running automations, unlike Starter and having no paid plan.
+* 9 automations instead of 6 or 3 (based on what plan you are upgrading from)
+* Chat with a AI chatbot to maximize automations
+
+Just Pay 11 Stars Each Month, get started in the Upgrade area in the automations area of Hub Mode.
 
 </details>
 
@@ -674,6 +734,10 @@ You can turn on Dark Mode once unlocked in the Unlocked Features area of Hub Mod
 **Level 30: More opportunity time for sending feedback**
 
 Getting Level 30 in Bugs+, alongside all the other features you unlock like more features that are not related to Hub Mode, **you will get an extra minute in every time window for sending feedback, so you have more time to send feedback before the opportunity goes away.**
+
+**Level 35: Automate Bugs+ actions**
+
+At Level 35, you can start making automations, exclusive to Hub Mode. Take this as a chance to enhance your gameplay! See the automations information for more details.
 
 **Level 37: Setup new features straight from Hub Mode**
 
