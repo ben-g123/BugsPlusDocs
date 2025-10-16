@@ -828,6 +828,22 @@ _What Each Trap Level Does and it is best used for:_
 
 </details>
 
+<details>
+
+<summary>How can I earn Traps?</summary>
+
+You can earn traps by doing any of these actions:
+
+* **Start using Clutter & Inconvenience Traps for the first time** - You will get a 2 traps instantly after you go enable Clutter & Inconvenience Traps. This will help the player boost their first time using Clutter & Inconvenience Traps so they can test it, or help them level up their trap usages.
+* **If the game gives you a boost** - There is 2 types of Trap Boosts. If you get a Trading Card emergency score (if the refund lab is enabled) or it seems like the clutter or inconveniences are continuously (not only once) holding you down, you will get a Trap to help you, and a suggestion that you should use Traps to solve the issue. This bonus will only happen once a month as a limit per type of boost, so that is up to 2 bonuses a month.
+* **Get Level Up Bonuses** - Every 6 times you Level Up, you will get 1 trap. If you enable Clutter & Inconvenience Traps for the first time, you can claim Trap bonuses you missed out on when you weren't using the Clutter & Inconvenience Trap Lab, for every 5 levels up to Level 25, so up to 5 traps you can get. You can still get 1 Trap for 6 levels you get after enabling it, with no limit.
+* **Give valuable feedback** - If the developers think your Feedback is valuable, they may give you 1 Trap as a thank you. This will be given to high quality feedbacks, so simple It's Good feedback responses without elaborating may not be given a bonus to. This bonus applies to all Labs that you gave valuable feedback to, so it could boost the other bonuses you get from other Labs.
+* **Get them in limited time Events** - You may get a Trap as a gift in limited time events, since sometimes the developers sneak in rewards for users of a specific Lab as a bonus.
+* **Get bonus Traps from Daily Quests** - If you complete Daily Quest tasks, you may get 1 or 2 Traps.
+* **Get all the answers correct in a Quiz** - If you get all the answers in a quiz correct, you may get 2 Traps. You may not get this bonus if it is a easy quiz.
+
+</details>
+
 ## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
 
 The Research & Product Development setting is required to use Bugs+ Labs.&#x20;
