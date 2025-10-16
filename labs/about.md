@@ -823,8 +823,8 @@ _What Each Trap Level Does and it is best used for:_
 * **Level 1:** - Use 1 Trap At The Same Time To Get This Level - 12 Minutes Trap Action Time - It can do up to 5 successful trap actions until it breaks. - No special perk - Best used for general uses.
 * **Level 2:** - Use 2 Traps At The Same Time To Get This Level - 22 Minutes Trap Action Time - It can do up to 14 successful trap actions until it breaks. - Special Perk: The Trap Will Automatically Refund Low Refund Value cards without a 3 minute timer, but this won't apply to higher refund value cards. - Best used for times when you are doing minor spring cleaning to your collection, but still doing small things, but still want to ensure that your collection is safe from clutter and avoiding inconveniences.
 * **Level 3:** - Use 3 Traps At The Same Time To Get This Level - 34 Minutes Trap Action Time - It can do up to 21 successful trap actions until it breaks. - Special Perk: Includes the other perks from Level 2, plus, the refund timer is speeded up by a minute. - This is the mid-level, and it is getting powerful, so it is best used for cleaning a medium amount of clutter.
-* **Level 4:** - Use 4 Traps At The Same Time To Get This Level - 48 Minutes Trap Action Time -  It can do up to 31 successful trap actions until it breaks. - Special Perk: Includes other perks from Level 2, Level 3, plus the system considers clutter as 3 or more cards instead of 4 or more cards, allowing for easier usage.
-* **Level 5:** - Use 5 Traps At The Same Time To Get This Level - 60 Minutes (1 hour) Trap Action Time -  It can do up to 41 successful trap actions until it breaks. - Special Perk: Includes other perks from Level 2, Level 3, plus the refund max cards at the same time limit is temporarily increased to 11 instead of 5.
+* **Level 4:** - Use 4 Traps At The Same Time To Get This Level - 48 Minutes Trap Action Time -  It can do up to 31 successful trap actions until it breaks. - Special Perk: Includes other perks from Level 2, Level 3, plus the system considers clutter as 3 or more cards instead of 4 or more cards, allowing for easier usage. - Best used for when your Trap usage is getting bigger but you don’t need to use more traps.
+* **Level 5:** - Use 5 Traps At The Same Time To Get This Level - 60 Minutes (1 hour) Trap Action Time -  It can do up to 41 successful trap actions until it breaks. - Helps you a **LOT** in unleashing the power. - Special Perk: Includes other perks from Level 2, Level 3, plus the refund max cards at the same time limit is temporarily increased to 11 instead of 5. - Best used for some serious and huge events, such as major collection cleaning, you see a huge increase in clutter, collection emergencies, and one hour or more in a row long Bugs+ sessions.
 
 </details>
 
@@ -835,12 +835,117 @@ _What Each Trap Level Does and it is best used for:_
 You can earn traps by doing any of these actions:
 
 * **Start using Clutter & Inconvenience Traps for the first time** - You will get a 2 traps instantly after you go enable Clutter & Inconvenience Traps. This will help the player boost their first time using Clutter & Inconvenience Traps so they can test it, or help them level up their trap usages.
-* **If the game gives you a boost** - There is 2 types of Trap Boosts. If you get a Trading Card emergency score (if the refund lab is enabled) or it seems like the clutter or inconveniences are continuously (not only once) holding you down, you will get a Trap to help you, and a suggestion that you should use Traps to solve the issue. This bonus will only happen once a month as a limit per type of boost, so that is up to 2 bonuses a month.
+* **If the game gives you a boost** - There is 2 types of Trap Boosts. If you get a Trading Card emergency score (if the refund lab is enabled) or it seems like the clutter or inconveniences are continuously (not only once) holding you down, you will get a Trap to help you, and a suggestion that you should use Traps to solve the issue. This bonus will only happen once a month as a limit per type of boost, so that is up to 2 boosts a month.
 * **Get Level Up Bonuses** - Every 6 times you Level Up, you will get 1 trap. If you enable Clutter & Inconvenience Traps for the first time, you can claim Trap bonuses you missed out on when you weren't using the Clutter & Inconvenience Trap Lab, for every 5 levels up to Level 25, so up to 5 traps you can get. You can still get 1 Trap for 6 levels you get after enabling it, with no limit.
 * **Give valuable feedback** - If the developers think your Feedback is valuable, they may give you 1 Trap as a thank you. This will be given to high quality feedbacks, so simple It's Good feedback responses without elaborating may not be given a bonus to. This bonus applies to all Labs that you gave valuable feedback to, so it could boost the other bonuses you get from other Labs.
 * **Get them in limited time Events** - You may get a Trap as a gift in limited time events, since sometimes the developers sneak in rewards for users of a specific Lab as a bonus.
-* **Get bonus Traps from Daily Quests** - If you complete Daily Quest tasks, you may get 1 or 2 Traps.
-* **Get all the answers correct in a Quiz** - If you get all the answers in a quiz correct, you may get 2 Traps. You may not get this bonus if it is a easy quiz.
+* **Get bonus Traps from Daily Quests** - If you complete Daily Quest tasks, you may get 1 or 2 Traps. This does not happen all the time, and it is random - very easy or normal quests are more rarer to trigger a bonus Trap, More involved quizzes have a higher chance, and harder quests have the highest chance.
+* **Get all the answers correct in a Quiz** - If you get all the answers in a quiz correct, you may get 1 or 2 Traps. You can only get this bonus 3 times a month per type of quiz. You may not get this bonus if the quiz is very easy, but there is still a chance, but easy quizzes get the minimum amount of bonus Traps.
+
+</details>
+
+<details>
+
+<summary>Can Traps break or expire?</summary>
+
+**Can Traps Expire:**
+
+Traps can only expire if they are active, and you reach the maximum amount of time a Trap can be active, based on trap levels. Traps can’t be wasted if you did not unleash the power of them - they are fully refunded back to you if you don’t successfully use them. To make a Trap have more time without expiring, use the Level Up feature to batch multiple traps.
+
+**Can Traps Break:**
+
+Yes, they can. They have a set amount of usage based on Trap batching and Trap Levels. After that time, the trap will break and show a popup saying that the trap has broken, and if you need to use another one. The amount of usage is how many trading cards is involved in the actions of that usage session. If you cancel a pending action of that trap, it won’t count towards it breaking.
+
+</details>
+
+<details>
+
+<summary>What exactly do traps help with?</summary>
+
+Here is what traps can do for you.
+
+**Find & Refund Clutter**
+
+The trap can leash clutter, and then add it to the refund list. This is very useful for resolving refund notifications, refund issues, when in a special event, for your daily, weekly, or monthly cleaning sessions if you want there to be any or even for general Bugs+ sessions. This traps the **Clutter** part of Clutter & Inconvenience.
+
+Once clutter is detected, a 4 second countdown will start, followed by a 3 or 2 (sometimes even instant) minute timer (based on Trap Levels and Batching). Unleash the power of batching and Trap Levels to unleash the power of Traps.
+
+**Quickly Buy Trading Cards When You Are Short On Cards**
+
+If you are short on cards, the Trap can get you some trading cards (it will try to avoid duplicates, but sometimes it does not avoid it to help boost your collection further) to boost your collection. The system will get a mix of Common, Uncommon and Rare cards, with your Bug Points balance in mind. It does not use Stars or buy expensive items, its designed not to drain your points. This traps the **Inconvenience** part of Clutter and Inconvenience.
+
+Once you are short on cards, a 6 second countdown will start with info saying it will buy some trading cards in a few seconds. You can cancel it, or start the process. If you don’t respond it will do it anyway.
+
+**Misc Features & Strategic Use**
+
+If you unleash the power of batching (Trap Levels), you may get lowered countdowns, instant countdowns or you may find out you really unleashed the power of your Collection. This is something useful to note.
+
+</details>
+
+<details>
+
+<summary>What happens if I close Bugs+ while a Trap is being unleashed or being used?</summary>
+
+If you don’t manage to make it to the end of the Trap and Bugs+ crashes or you close it, and you did not unleash at least 40% of the power, some Trap Levels have compensation.
+
+**What Compensation Does The Trap Level I Am Using Have:**
+
+_Using a trap, but the Trap did not unleash its power, while using Bugs+_
+
+* General Compensation: Get the Traps you used back - full refund. General thing in the Traps system.
+
+_For closing Bugs+, or Bugs+ Crashing_
+
+There is higher compensation since we can’t track stuff that does not save to the servers.
+
+* Trap Level 1 - No Compensation due to that the compensation for Trap Level 1 can be easily misused
+* Trap Level 2 - You can get 10 minutes of trap action time with 4 uses until it breaks as soon as you agree to the compensation rules. If the power is not unleashed just like the normal way, you will get a single Trap.
+* Trap Level 3 - Get 2 Traps
+* Trap Level 4 - Get 3 Traps
+* Trap Level 5 - Get 3 Traps
+
+Unleash the power of the Level Up feature by batching up cards to get compensation plus lots of other perks.
+
+</details>
+
+<details>
+
+<summary>Is there a limit to how many Traps I can store?</summary>
+
+Yes. You can stack up to **50 Traps** at the same time. Getting more Traps than that will give you a notification in your Notifications, but you won’t get the Trap that exceeds the limit. Think of it like the maximum storage in a real life box where you store your Traps.
+
+**How to free up space**
+
+You don’t really need to free up space, just unleash the power of them, don’t waste them to free up space. It is not like computer storage that you would have on your phone, it’s a digital Trap that can actually be unleashed.
+
+But, using Traps does free up space.
+
+</details>
+
+<details>
+
+<summary>How many traps do I have?</summary>
+
+You can see how many Traps you have by going to the More tab on the sidebar (the 3 dots icon) and clicking Clutter Traps, then look at the amount of Traps you got, it will appear on the screen.
+
+</details>
+
+<details>
+
+<summary>How to Send Feedback?</summary>
+
+On one of these popups that you get from the Traps, press Send Feedback. Here are the eligible popups:
+
+* **Broken Trap** - We collect this feedback to see if the maximum usage is good for unleashing the power of, or needs to be changed.
+* **Trap Expired** - We collect this feedback as general info, and for managing the length of a trap.
+* **You Got Compensation For Bugs+ Crashing** - We collect this feedback so we can understand if we need to make a way to keep the remaining Trap data for next time (if we think so, it will go in a Lab update), or just use the compensation.
+* **Trap Expired & Refunded** - Just like Trap Expired, we collect this as general info, and for managing the length of a Trap.
+
+Other popups may not have Send Feedback.
+
+**Reward For Sending Feedback**
+
+You may get a Trap if you send valuable feedback. As a reminder, this applies to all Labs, so you should also send feedback on all Labs if you want to give valuable feedback while getting Traps.
 
 </details>
 
