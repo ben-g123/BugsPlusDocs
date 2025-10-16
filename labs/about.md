@@ -4,7 +4,7 @@ icon: flask
 
 # Bugs+ Labs
 
-Bugs+ Labs are experimental, upcoming, and opt-in features ready for public testing. We do not guarantee that the real launch of these features will be the same, or even be added into an actual version. Labs may be glitchy at some times, but you can provide feedback and report the glitch at any time. Any user on Bugs+, regradless of the age of their account, or parental controls status (unless the feature may not be for younger kids), can join a lab and test the features inside it. Some Labs have separate requirements, so watch us for those. Bugs+ Labs are made up of individual Labs each with different features, so make sure to opt in to the Labs you want to try out.
+Bugs+ Labs are experimentexperimental, upcoming, and opt-in features ready for public testing. We do not guarantee that the real launch of these features will be the same, or even be added into an actual version. Labs may be glitchy at some times, but you can provide feedback and report the glitch at any time. Any user on Bugs+, regradless of the age of their account, or parental controls status (unless the feature may not be for younger kids), can join a lab and test the features inside it. Some Labs have separate requirements, so watch us for those. Bugs+ Labs are made up of individual Labs each with different features, so make sure to opt in to the Labs you want to try out.
 
 ### Relation To The Refund Feature
 
@@ -142,7 +142,7 @@ Bugs+ Labs is always free and it will always be. No credit card required, no hid
 
 ## Available Labs
 
-Here you can find the available labs you can join, and a description.
+Here you can find the available labs you can join, and a description. There are usually 4 powerful Labs that you should look at and should consider enabling. Currently, we have 4 Labs, make sure to look a them and consider enabling them.
 
 ### Refund Notifications
 
@@ -609,6 +609,7 @@ The **Unlocked Features** option lets you manage configurable features that rela
 This includes:
 
 * **Dark Mode -** Unlocked at Level 27, this lets you turn on or off Dark Mode.
+* **2nd Generation Hub Mode** - Unlocked at Level 32, this unleashes more features and a cleaner display.
 * **Turn on or off Limited Time Features** - Unlocked at Level 50, this lets you turn off any Limited Time features until there is different Limited Time Features, or turn it back on if it is already off.
 
 **Automations**
@@ -683,6 +684,24 @@ Just Pay 11 Stars Each Month, get started in the Upgrade area in the automations
 
 <details>
 
+<summary>1st generation and 2nd generation Hub Mode</summary>
+
+**1st generation Hub Mode**
+
+This is the original design we are testing. It has a detailed display, but sometimes may be cluttered to some people. This is the first rolling out period of features!
+
+**2nd generation Hub Mode**
+
+This is the next design we think will work better. It has a cleaner display, with spaced out buttons and widgets. There is also extra features, and this is the second rolling out period of features!
+
+It even has some more experimental features and designs.
+
+Unlocked at Level 32, you may find a new generation to unleash.
+
+</details>
+
+<details>
+
 <summary>Unlocking more Hub Mode features along the way</summary>
 
 You can unlock extra Hub Mode features along the way, alongside the built-in features, based on the Level you earned in Bugs+. The Level is your Bugs+ Level, not your Hub Mode-specific rewards tier. Levels are not only for Hub Mode, they also unlock Non-Hub Mode features as well which you can use in the main game not just Hub Mode.
@@ -735,6 +754,10 @@ You can turn on Dark Mode once unlocked in the Unlocked Features area of Hub Mod
 
 Getting Level 30 in Bugs+, alongside all the other features you unlock like more features that are not related to Hub Mode, **you will get an extra minute in every time window for sending feedback, so you have more time to send feedback before the opportunity goes away.**
 
+**Level 32: Second generation of Hub Mode**
+
+With the second generation, it has a cleaner display, and some more features. You will get an initial chance to turn it on or leave it off, but you can awlays find it in Unlocked Features in Hub Mode Settings.
+
 **Level 35: Automate Bugs+ actions**
 
 At Level 35, you can start making automations, exclusive to Hub Mode. Take this as a chance to enhance your gameplay! See the automations information for more details.
@@ -765,6 +788,46 @@ You will also see an option to turn off or on any limited time Hub Mode features
 
 </details>
 
+### Clutter & Inconvenience Trap <a href="#research-development" id="research-development"></a>
+
+<details>
+
+<summary>What is the Clutter &#x26; Inconvenience Trap Lab</summary>
+
+The Clutter & Inconvenience Trap lets you automatically "leash" c[^1]lutter, and make some inconveniences faster to solve. Its a earned item that you can use. You need to enable it in Bugs+ Labs before using.
+
+</details>
+
+<details>
+
+<summary>Where can I find and use my Clutter &#x26; Inconvenience Traps?</summary>
+
+You can find your Clutter & Inconvenience Traps by going to the More tab on the sidebar (the 3 dots icon) and clicking Clutter Traps.
+
+</details>
+
+<details>
+
+<summary>How can I use a Trap, and can traps level up?</summary>
+
+**How Can I Use A Trap?**
+
+You can use a Trap by going to the More tab on the sidebar (the 3 dots icon) and clicking Clutter Traps, then press Use A Trap.
+
+**About Trap Levelling Up:**
+
+If you use multiple Traps at the same time, they will Level Up, which provides more durability, more Trap action time, and some special perks. To use multiple Traps, press Level Up the amount of times you want to Level Up, . You can level up with of a maximum of 5 times in one usage session, and a new usage session starts when the maximum time is reached, or when the trap breaks, or when the user exits out of Bugs+.
+
+_What Each Trap Level Does and it is best used for:_
+
+* **Level 1:** - Use 1 Trap At The Same Time To Get This Level - 12 Minutes Trap Action Time - It can do up to 5 successful trap actions until it breaks. - No special perk - Best used for general uses.
+* **Level 2:** - Use 2 Traps At The Same Time To Get This Level - 22 Minutes Trap Action Time - It can do up to 11 successful trap actions until it breaks. - Special Perk: The Trap Will Automatically Refund Low Refund Value cards without a 3 minute timer, but this won't apply to higher refund value cards. - Best used for times when you are doing minor spring cleaning to your collection, but still doing small things, but still want to ensure that your collection is safe from clutter and avoiding inconveniences.
+* **Level 3:** - Use 3 Traps At The Same Time To Get This Level - 34 Minutes Trap Action Time - It can do up to 17 successful trap actions until it breaks. - Special Perk: Includes the other perks from Level 2, plus, the refund timer is speeded up by a minute. - This is the mid-level, and it is getting powerful, so it is best used for cleaning a medium amount of clutter.
+* **Level 4:** - Use 4 Traps At The Same Time To Get This Level - 48 Minutes Trap Action Time -  It can do up to 26 successful trap actions until it breaks.
+*
+
+</details>
+
 ## Research & Product Development Setting <a href="#research-development" id="research-development"></a>
 
 The Research & Product Development setting is required to use Bugs+ Labs.&#x20;
@@ -775,8 +838,6 @@ This will update it for all your devices signed into your account (also known as
 
 You will also get a chance to review it when you setup your account, but you can always set that setting up later.
 
-This data permission is a privacy feature.
+This data permission is a privacy feature. You need an account (also known as BugID) to turn on this setting.
 
-{% hint style="info" %}
-You need an account (also known as BugID) to turn on this setting.
-{% endhint %}
+[^1]: 
