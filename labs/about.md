@@ -821,10 +821,10 @@ If you use multiple Traps at the same time, they will Level Up, which provides m
 _What Each Trap Level Does and it is best used for:_
 
 * **Level 1:** - Use 1 Trap At The Same Time To Get This Level - 12 Minutes Trap Action Time - It can do up to 5 successful trap actions until it breaks. - No special perk - Best used for general uses.
-* **Level 2:** - Use 2 Traps At The Same Time To Get This Level - 22 Minutes Trap Action Time - It can do up to 11 successful trap actions until it breaks. - Special Perk: The Trap Will Automatically Refund Low Refund Value cards without a 3 minute timer, but this won't apply to higher refund value cards. - Best used for times when you are doing minor spring cleaning to your collection, but still doing small things, but still want to ensure that your collection is safe from clutter and avoiding inconveniences.
-* **Level 3:** - Use 3 Traps At The Same Time To Get This Level - 34 Minutes Trap Action Time - It can do up to 17 successful trap actions until it breaks. - Special Perk: Includes the other perks from Level 2, plus, the refund timer is speeded up by a minute. - This is the mid-level, and it is getting powerful, so it is best used for cleaning a medium amount of clutter.
-* **Level 4:** - Use 4 Traps At The Same Time To Get This Level - 48 Minutes Trap Action Time -  It can do up to 26 successful trap actions until it breaks.
-*
+* **Level 2:** - Use 2 Traps At The Same Time To Get This Level - 22 Minutes Trap Action Time - It can do up to 14 successful trap actions until it breaks. - Special Perk: The Trap Will Automatically Refund Low Refund Value cards without a 3 minute timer, but this won't apply to higher refund value cards. - Best used for times when you are doing minor spring cleaning to your collection, but still doing small things, but still want to ensure that your collection is safe from clutter and avoiding inconveniences.
+* **Level 3:** - Use 3 Traps At The Same Time To Get This Level - 34 Minutes Trap Action Time - It can do up to 21 successful trap actions until it breaks. - Special Perk: Includes the other perks from Level 2, plus, the refund timer is speeded up by a minute. - This is the mid-level, and it is getting powerful, so it is best used for cleaning a medium amount of clutter.
+* **Level 4:** - Use 4 Traps At The Same Time To Get This Level - 48 Minutes Trap Action Time -  It can do up to 31 successful trap actions until it breaks. - Special Perk: Includes other perks from Level 2, Level 3, plus the system considers clutter as 3 or more cards instead of 4 or more cards, allowing for easier usage.
+* **Level 5:** - Use 5 Traps At The Same Time To Get This Level - 60 Minutes (1 hour) Trap Action Time -  It can do up to 41 successful trap actions until it breaks. - Special Perk: Includes other perks from Level 2, Level 3, plus the refund max cards at the same time limit is temporarily increased to 11 instead of 5.
 
 </details>
 
