@@ -812,7 +812,28 @@ You can find your Clutter & Inconvenience Traps by going to the More tab on the 
 
 **How Can I Use A Trap?**
 
+There are two ways to Use A Trap. One is the main way, the other is a quick way.
+
+_The main way - highly recommended_
+
 You can use a Trap by going to the More tab on the sidebar (the 3 dots icon) and clicking Clutter Traps, then press Use A Trap.
+
+This is the way that always existed, and is recommended due to you can see how many traps you have, level up your traps and more.
+
+_The quick, rush way - for time sensitive events_
+
+If you need to use a trap, but can’t navigate to the menu for doing it, like in time sensitive times, you can quickly deploy a Level 1 Trap by using only the Spacebar on the computer. This is very useful for when you are doing special quizzes and want to free up some trading cards to get rewards and clear inconveniences, but only need a Level 1 Trap.
+
+Please consider using other ways as well if possible, and the Clutter & Inconvenience Trap Lab still has to be enabled.
+
+But here is how.
+
+1. Hold down the Spacebar
+2. You should see Deploy A Level 1 Trap, Traps Menu, and Cancel. Continue holding, or press Deploy A Level 1 Trap to do it quicker, or you can press Traps Menu to quickly rush to the Traps menu we talked about above. (Clutter Traps menu, you can always go to it manually by going to the More tab on the sidebar \[the 3 dots icon] and selecting Clutter Traps).
+3. Continue holding. You see a 3 second siren countdown.
+4. After the countdown goes off (and you have enough traps, like always and you see Basic Level 1 Trap Deployed, it will be deployed.
+
+There is way to turn this off in Easy Activation Options we will talk about later.
 
 **About Trap Levelling Up:**
 
@@ -824,7 +845,7 @@ _What Each Trap Level Does and it is best used for:_
 * **Level 2:** - Use 2 Traps At The Same Time To Get This Level - 22 Minutes Trap Action Time - It can do up to 14 successful trap actions until it breaks. - Special Perk: The Trap Will Automatically Refund Low Refund Value cards without a 3 minute timer, but this won't apply to higher refund value cards. - Best used for times when you are doing minor spring cleaning to your collection, but still doing small things, but still want to ensure that your collection is safe from clutter and avoiding inconveniences.
 * **Level 3:** - Use 3 Traps At The Same Time To Get This Level - 34 Minutes Trap Action Time - It can do up to 21 successful trap actions until it breaks. - Special Perk: Includes the other perks from Level 2, plus, the refund timer is speeded up by a minute. - This is the mid-level, and it is getting powerful, so it is best used for cleaning a medium amount of clutter.
 * **Level 4:** - Use 4 Traps At The Same Time To Get This Level - 48 Minutes Trap Action Time -  It can do up to 31 successful trap actions until it breaks. - Special Perk: Includes other perks from Level 2, Level 3, plus the system considers clutter as 3 or more cards instead of 4 or more cards, allowing for easier usage. - Best used for when your Trap usage is getting bigger but you don’t need to use more traps.
-* **Level 5:** - Use 5 Traps At The Same Time To Get This Level - 60 Minutes (1 hour) Trap Action Time -  It can do up to 41 successful trap actions until it breaks. - Helps you a **LOT** in unleashing the power. - Special Perk: Includes other perks from Level 2, Level 3, plus the refund max cards at the same time limit is temporarily increased to 11 instead of 5. - Best used for some serious and huge events, such as major collection cleaning, you see a huge increase in clutter, collection emergencies, and one hour or more in a row long Bugs+ sessions.
+* **Level 5:** - Use 5 Traps At The Same Time To Get This Level - 60 Minutes (1 hour) Trap Action Time -  It can do up to 41 successful trap actions until it breaks. - Helps you a **LOT** in unleashing the power. - Special Perk: Includes other perks from Level 2, Level 3, plus the refund max cards at the same time limit is temporarily increased to 11 instead of 5. - Best used for some serious and huge events, such as major collection cleaning, you see a huge increase in clutter, collection emergencies, and one hour or more in a row long Bugs+ sessions. - You also need to get the Higher Trap Levels Unlockable as well as having enough traps to use for Level 5.
 
 </details>
 
@@ -927,6 +948,41 @@ But, using Traps does free up space.
 <summary>How many traps do I have?</summary>
 
 You can see how many Traps you have by going to the More tab on the sidebar (the 3 dots icon) and clicking Clutter Traps, then look at the amount of Traps you got, it will appear on the screen.
+
+</details>
+
+<details>
+
+<summary>What are Unlockables and how do they help me truly unleash the power of Traps?</summary>
+
+Unlockables are unlockable features that can extend the available features in the Traps system. You can unlock them by completing specific tasks.
+
+**What Unlockables are available?**
+
+_Higher Trap Levels_
+
+The Higher Trap Levels Unlockable allows you to use Trap Level 5 (batching 5 cards gives Trap Level 5) if you have enough Traps to use (5 Traps). Making users have to unlock it will prevent users who are new to the Traps system from wasting their hard earned Traps.
+
+To unlock it, follow these steps:
+
+1. **Have some experience in the Traps system** - Have a total of 3 or more different trap sessions.
+2. **Check-in by going to the Use A Trap menu** - After doing the step above, Complete the short tutorial by going to the Use A Trap Menu and completing the short Leveling Up tutorial. This will show how to Level Up your traps if you did not know already, and tell you that you can use the new Level 5.
+
+**Will there be more Unlockables announced?**
+
+Yes, we are planning to add more Unlockables so you can truly unleash the power of the Traps system.
+
+</details>
+
+<details>
+
+<summary>How do I turn off (or turn back on) the spacebar holding for quickly deploying a Level 1 Trap?</summary>
+
+Go to the More tab on the sidebar (the 3 dots icon), then press Clutter Traps, then press Easy Activation Options.
+
+This is on by default. It is a rush way to activate it quickly, which can be used in time sensitive times without closing the quiz you are in (as an example), see the activation options for more info.
+
+Select Quickly deploy traps by holding the spacebar, then turn it on or off.
 
 </details>
 
