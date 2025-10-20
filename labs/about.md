@@ -1016,6 +1016,7 @@ Yes, most of the time. Sometimes the developers will temporarily add bots to it 
 * **Unleash the power of the Trap Actions** - Every 3 trap actions in a trap usage session you use, you will get 10 credits.
 * **Break a Trap** - If you use all the Trap's actions you will get an extra 20 credits.
 * **Send Feedback and get a Trap Bonus** - If you send feedback and get a Trap Bonus by the developers, they will add an extra 15 credits to the competition you are in at that time.
+* **Report A Cheater** - If you report a cheater to Bugs+ Support, you will get the bounty reward, and on top of that, you will get 25 Credits.
 
 **Can I loose credits?**
 
@@ -1053,6 +1054,8 @@ So that means the prizes, tier changes, leaderboards and more.
 
 **What are the prizes?**
 
+Prizes are given when the user's position matches a position on the leaderboard that is eligible for a prize, when the results are announced, so make sure to keep your position.
+
 Here are the prizes based off each Competition Tier:
 
 _Competition Tier 1_
@@ -1081,6 +1084,14 @@ These prizes are higher levels, so start taking advantage of the prizes. It even
 * **Second Place** - You will get 3750 Bug Points and 15 Stars.
 * **Third Place** - You will get 2850 Bug Points and 10 Stars.
 * **Fourth Place To Tenth Place** - You will get a runners up gift of 1950 Bug Points and 5 Stars. It is much easier to get a prize here since of your hard work and effort.
+
+**Is cheating allowed?**
+
+No, cheating is not allowed, and will get you banned. If you report a cheater and they get banned, you will get one of these bounty rewards:
+
+* **Normal Cheater** - 1000 Bug Points, plus 25 Credits in the leaderboard
+* **Repeat Cheater** - 2000 Bug Points, plus 25 Credits in the leaderboard
+* **Cheater that causes lots of damage to the competitions, including using bots or doing very high amounts of damage** - 3000 Bug Points, plus 25 Credits in the leaderboard
 
 </details>
 
