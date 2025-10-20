@@ -968,6 +968,15 @@ To unlock it, follow these steps:
 1. **Have some experience in the Traps system** - Have a total of 3 or more different trap sessions.
 2. **Check-in by going to the Use A Trap menu** - After doing the step above, Complete the short tutorial by going to the Use A Trap Menu and completing the short Leveling Up tutorial. This will show how to Level Up your traps if you did not know already, and tell you that you can use the new Level 5.
 
+_Competition Time_
+
+The Competition Time Unlockable lets you compete in Competitions with friends or with the Bugs+ global leaderboard system (which means anyone).
+
+**To unlock it, follow these steps:**
+
+1. **Have a bit of experience in the Traps System** - Have a total of 2 or more different trap sessions.
+2. **Go to the Use A Trap menu** - After doing the step above, go to the Use A Trap Menu to unlock the Competitions feature.
+
 **Will there be more Unlockables announced?**
 
 Yes, we are planning to add more Unlockables so you can truly unleash the power of the Traps system.
@@ -983,6 +992,95 @@ Go to the More tab on the sidebar (the 3 dots icon), then press Clutter Traps, t
 This is on by default. It is a rush way to activate it quickly, which can be used in time sensitive times without closing the quiz you are in (as an example), see the activation options for more info.
 
 Select Quickly deploy traps by holding the spacebar, then turn it on or off.
+
+</details>
+
+<details>
+
+<summary>About Competitions</summary>
+
+Once you unlocked the **Competition Time** Unlockable, you will be able to compete in Competitions. You will be able to get credits in the Competition by unleashing the power of the Traps features.
+
+**How do I join a Competition?**
+
+You can join one by going to the More tab on the sidebar (the 3 dots) and click Clutter Traps, then press Competitions. You will then be able to join the Tier 1 Competition after doing the short tutorial. If there is not enough players, you will need to wait for more players or for the developers to add bots to it. Sometimes you may need to wait for the Competition to start, and other times you can join it or start it yourself without waiting.
+
+**Are the players in the Competition real?**
+
+Yes, most of the time. Sometimes the developers will temporarily add bots to it if there is not enough players, but that is only sometimes.
+
+**How do I earn credits?**
+
+* **Use a Trap** - You get 15 credits per trap used. For example, if you got Trap Level 3, that would be 3 traps used, so 15x3=45, so you would get 45 credits.
+* **Earn a Trap** - Every Trap you earn, you will get 5 credits.
+* **Unleash the power of the Trap Actions** - Every 3 trap actions in a trap usage session you use, you will get 10 credits.
+* **Break a Trap** - If you use all the Trap's actions you will get an extra 20 credits.
+* **Send Feedback and get a Trap Bonus** - If you send feedback and get a Trap Bonus by the developers, they will add an extra 15 credits to the competition you are in at that time.
+
+**Can I loose credits?**
+
+No, you can't. The credits you earn (not the prizes, Bug Points, Stars or Refund Credits, or anything else you earned other than the credits) will be reset however for the next tier. Credits are also seperate from other currencies in Bugs+.
+
+**What Competition tiers are there?**
+
+There are different tiers so you are in the leaderboard that is right for you. After finishing a tier, you get moved up to the next one. There are different users in each Competition Tier.
+
+* **Tier 1 Competition** - This is the first tier you get after setting up Competitions. The prizes are normal, and it is a great start to the Competitions system.
+* **Tier 2 Competition** - After finishing Tier 1 successfully, you get moved to Tier 2. The prizes are showing an increase, and it is a mid level.
+* **Tier 3 Competition** - After finishing Tier 2 successfully, you get moved to the last tier, which is Tier 3. The prizes are better, and after this tier, instead of a tier upgrade, you can re-do Tier 3 (and keep your prizes), and keep on getting high level prizes (which is the best part), the only thing you need to make sure is that you don't downgrade to a lower tier.
+
+**Is it possible to downgrade to a lower tier?**
+
+If you go above the maximum leaderboard position for moving to the next tier (usually 45 if there is lots of players, it depends off how many players there are, but it may be higher for Tier 1) and that Competition ends (if not, you will have a chance to unleash the power more), you will either stay on that tier or go down. If you are on Tier 1, you will stay on the tier, but if you are on Tier 2 or Tier 3, then you will move down a tier.
+
+**How can I check the status of a Competition?**
+
+You can check the status of it by going to the More tab on the sidebar (the 3 dots) and click Clutter Traps, then press Competitions. If you joined a Competition, it will go straight to the current leaderboards, days remaining, options for leaving a Competition and more.
+
+**How can I check my tier?**
+
+It will tell you in the same area you check the Competition status.
+
+**How can I leave a Competition?**
+
+Go to the status for the Competition, then press Options For Leaving, then press Leave. Your tier may be downgraded based on your position on the leaderboard, to prevent people from misusing the leave feature to keep their tier. You can always join again.
+
+**How long is a competition?**
+
+Each Competition goes on for 6 days (nearly a week), then the results will be decided and shown.
+
+So that means the prizes, tier changes, leaderboards and more.
+
+**What are the prizes?**
+
+Here are the prizes based off each Competition Tier:
+
+_Competition Tier 1_
+
+These prizes may not be much for some players, but it is still a great way to get started.
+
+* **First Place** - You will get 1500 Bug Points.
+* **Second Place** - You will get 975 Bug Points
+* **Third Place** - You will get 450 Bug Points
+* **Fourth Place To Seventh Place** - You will get a runners up gift of 200 Bug Points.
+
+_Competition Tier 2_
+
+These prizes are mid level, so it is in between. This Level starts giving Stars as well instead of only Bug Points.
+
+* **First Place** - You will get 2500 Bug Points and 15 Stars.
+* **Second Place** - You will get 1850 Bug Points and 10 Stars.
+* **Third Place** - You will get 1000 Bug Points and 5 Stars.
+* **Fourth Place or Sixth Place** - You will get a runners up gift of 500 Bug Points.
+
+_Competition Tier 3_
+
+These prizes are higher levels, so start taking advantage of the prizes. It even starts giving out a limited time card.
+
+* **First Place** - You will get 5450 Bug Points and 30 Stars, plus a guaranteed limited time card.
+* **Second Place** - You will get 3750 Bug Points and 15 Stars.
+* **Third Place** - You will get 2850 Bug Points and 10 Stars.
+* **Fourth Place To Tenth Place** - You will get a runners up gift of 1950 Bug Points and 5 Stars. It is much easier to get a prize here since of your hard work and effort.
 
 </details>
 
