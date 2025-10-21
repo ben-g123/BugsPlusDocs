@@ -1003,7 +1003,7 @@ Once you unlocked the **Competition Time** Unlockable, you will be able to compe
 
 **How do I join a Competition?**
 
-You can join one by going to the More tab on the sidebar (the 3 dots) and click Clutter Traps, then press Competitions. You will then be able to join the Tier 1 Competition after doing the short tutorial. If there is not enough players, you will need to wait for more players or for the developers to add bots to it. Sometimes you may need to wait for the Competition to start, and other times you can join it or start it yourself without waiting.
+You can join one by going to the More tab on the sidebar (the 3 dots) and click Clutter Traps, then press Competitions. You will then be able to join the Tier 1 Competition after doing the short tutorial. If there is not enough players, you will need to wait for more players or for the developers to add bots to it. Sometimes you may need to wait for the Competition to start, and other times you can join it or start it yourself without waiting. Waiting for more players or waiting for it to start is called a lobby.
 
 **Are the players in the Competition real?**
 
@@ -1044,11 +1044,13 @@ It will tell you in the same area you check the Competition status.
 
 **How can I leave a Competition?**
 
-Go to the status for the Competition, then press Options For Leaving, then press Leave. Your tier may be downgraded based on your position on the leaderboard, to prevent people from misusing the leave feature to keep their tier. You can always join again.
+Go to the status for the Competition, then press Options For Leaving, then press Leave. Your tier may be downgraded based on your position on the leaderboard, to prevent people from misusing the leave feature to keep their tier. You can always join again, but there may be a Lobby.
+
+If you are in a Lobby, the process is a bit different. Go to the status for the Competition, then press Options For Leaving, then press Drop Out. You won't loose a Competition Tier for dropping out while waiting for the Competition to start.
 
 **How long is a competition?**
 
-Each Competition goes on for 6 days (nearly a week), then the results will be decided and shown.
+Each Competition goes on for 6 days (nearly a week), then the results will be decided and shown. To see the results and claim prizes, make sure to check the Lobby.
 
 So that means the prizes, tier changes, leaderboards and more.
 
@@ -1092,6 +1094,26 @@ No, cheating is not allowed, and will get you banned. If you report a cheater an
 * **Normal Cheater** - 1000 Bug Points, plus 25 Credits in the leaderboard
 * **Repeat Cheater** - 2000 Bug Points, plus 25 Credits in the leaderboard
 * **Cheater that causes lots of damage to the competitions, including using bots or doing very high amounts of damage** - 3000 Bug Points, plus 25 Credits in the leaderboard
+
+The bans apply throughout&#x20;
+
+_Can I appeal the ban?_
+
+Yes, but only sometimes. If you think that the ban is rushed or should not be given to you in the first place, use the Account Status & Appeals feature on the ban screen, then choose the type of the ban (so select, Ban), then draft your appeal, and hit Send. There may also be second chances if you did it on purpose of they don't belive you, so make sure to watch out for them. You only have 6 months to appeal a Competition Cheating ban.
+
+**Is there a lobby between Competitions?**
+
+Yes, there is. After the Competition, there will be a 2 day waiting time in the Lobby before the next Competition starts, but you can join the Lobby if you are waiting for the next competition to start if you are currently not in.
+
+If there is not enough players, the Lobby may go on for longer.
+
+You will need to claim your prizes during the lobby time if you got any or you would miss out on prizes.
+
+This also allows new players to come. If you missed the Lobby time to join a Lobby for the first time or after leaving a Competition using the options for leaving, you can join the Lobby while you wait for the next Competition to start.
+
+You can check if you are in a Lobby by checking the competition status.
+
+Credits won't count during the lobby, but when the Competition starts you can start getting Credits and start competing in a Competition.
 
 </details>
 
