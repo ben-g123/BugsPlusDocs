@@ -1095,11 +1095,11 @@ No, cheating is not allowed, and will get you banned. If you report a cheater an
 * **Repeat Cheater** - 2000 Bug Points, plus 25 Credits in the leaderboard
 * **Cheater that causes lots of damage to the competitions, including using bots or doing very high amounts of damage** - 3000 Bug Points, plus 25 Credits in the leaderboard
 
-The bans apply throughout&#x20;
+The bans apply throughout the whole Bugs+ platform, some bans are permanent, sometimes temporary, but still appealable most of the time.
 
 _Can I appeal the ban?_
 
-Yes, but only sometimes. If you think that the ban is rushed or should not be given to you in the first place, use the Account Status & Appeals feature on the ban screen, then choose the type of the ban (so select, Ban), then draft your appeal, and hit Send. There may also be second chances if you did it on purpose of they don't belive you, so make sure to watch out for them. You only have 6 months to appeal a Competition Cheating ban.
+Yes, but only sometimes. If you think that the ban is rushily decided (rushed in the decision or investigation process) or should not be given to you in the first place, use the Account Status & Appeals feature on the ban screen, then choose the type of the appeal (so select Ban Appeal), then draft your appeal, and hit Send. There may also be second chances if you did it on purpose of they don't believe you, so make sure to watch out for them. You only have 6 months to appeal a Competition Cheating ban.
 
 **Is there a lobby between Competitions?**
 
@@ -1107,13 +1107,47 @@ Yes, there is. After the Competition, there will be a 2 day waiting time in the 
 
 If there is not enough players, the Lobby may go on for longer.
 
-You will need to claim your prizes during the lobby time if you got any or you would miss out on prizes.
+You **will need to claim your prizes** during the lobby time if you got any or you would miss out on prizes on the Competition you earned them for - don't worry, you can still get more if you miss out, but you will still need to try harder.
 
 This also allows new players to come. If you missed the Lobby time to join a Lobby for the first time or after leaving a Competition using the options for leaving, you can join the Lobby while you wait for the next Competition to start.
 
 You can check if you are in a Lobby by checking the competition status.
 
 Credits won't count during the lobby, but when the Competition starts you can start getting Credits and start competing in a Competition.
+
+**Waiting in a Lobby but want to know when the Competition will start?** You can check the estimated time until the Competition starts on the Competition status.
+
+**How do I make sure that I won't miss out on any updates relating to the Competition?**
+
+There are 2 ways we make sure you don't miss out.
+
+_Home tab Widgets_
+
+We will add a very useful widget to your Home tab on the sidebar (the house icon), and the best thing is it opens by default every time you open Bugs+. This is the Competitions button normally found on the Clutter Traps area, but easier to access. However, It will only appear during Competitions and Lobbies, and you will still need to use Clutter Traps to progress through the Competitions. This is also a quicker way to claim prizes.
+
+_Pop up reminders_
+
+If there is something you need to note, like the results, or anything else relating to the Competitions, a popup and notification will appear.
+
+**Tips & Tricks**
+
+**Understand the guide** - Using the info we provided, make sure to understand how the system works.
+
+**Drop Out of a Lobby when you think you may not be playing the next Competition** - This is a useful feature, and you won't drop down a Tier. If you are in a Lobby, you can use Options for Leaving to Drop Out of a Lobby if you are waiting, so make sure to use it when you may not be participating next Competition.
+
+**Unleash the true power of the Traps feature** - Try naturally and competitively using the Refund feature, both at the same time, and make sure to unleash the true power of the Traps feature.
+
+**Check the leaderboard** - You should check the leaderboard and your position to get an idea on what you should do next - keeping up, or keeping or improving your prizes.
+
+**Be Active** - Being active is the secret unleashing key to getting better tiers. Try logging in every day and actually play, don't rush.
+
+**Claim your prizes, don't abandon them** - This is also a secret perk of logging in regularly, you will be less likely to miss the lobby.
+
+**Use Batching** - The more traps you use, the more Competition Credits you will get.
+
+**Use the widget we add to your Home tab** - Need a quick way to open the Competitions area? Use the button we add!
+
+**There is more to this** - Make sure to dive deep into everything about the refund feature - it will really help.
 
 </details>
 
