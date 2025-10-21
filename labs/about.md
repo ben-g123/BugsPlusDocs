@@ -1147,6 +1147,8 @@ If there is something you need to note, like the results, or anything else relat
 
 **Use the widget we add to your Home tab** - Need a quick way to open the Competitions area? Use the button we add!
 
+**Enable Refund Notifications** - While not a major thing, but if you enable Refund Notifications, you will get boosts for collection emergencies, plus the other benefits, and more stuff to give feedback on.
+
 **There is more to this** - Make sure to dive deep into everything about the refund feature - it will really help.
 
 </details>
