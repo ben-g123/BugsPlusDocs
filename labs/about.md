@@ -1111,7 +1111,9 @@ Yes, there is. After the Competition, there will be a 2 day waiting time in the 
 
 If there is not enough players, the Lobby may go on for longer.
 
-You **will need to claim your prizes** during the lobby time if you got any or you would miss out on prizes on the Competition you earned them for - don't worry, you can still get more if you miss out, but you will still need to try harder.
+You **will need to claim your prizes** during the lobby time if you got any or you would miss out on prizes on the Competition you earned them for - don't worry, you can still get more if you miss out, but you will still need to try harder. Simply claim your prizes from the popup that you will get.
+
+You also need to **claim your tier upgrade** if you got one. If you got a tier downgrade, or staying on the same tier, it will happen automatically. Simply do it from the popup, just like the prizes.
 
 This also allows new players to come. If you missed the Lobby time to join a Lobby for the first time or after leaving a Competition using the options for leaving, you can join the Lobby while you wait for the next Competition to start.
 
@@ -1132,6 +1134,17 @@ We will add a very useful widget to your Home tab on the sidebar (the house icon
 _Pop up reminders_
 
 If there is something you need to note, like the results, or anything else relating to the Competitions, a popup and notification will appear.
+
+**Why am I not appearing in the leaderboard or getting tier upgrades regardless of the cut off threshold?**
+
+You need to have a minimum of 30 Competition Credits to appear on the leaderboard. This is what happens if you don’t:
+
+* **Missing out on tier upgrades** - You won’t get any tier upgrades, even if you are under the maximum threshold.
+* **No leaderboard visibility** - Your username won’t appear on the leaderboard untik you get enough credits.
+
+- **Higher chance of demotion** - Just like being over the maximum threshold, you are more likely to fall in this range and get a tier downgrade. Even if you have more than 30 Competition Credits, you can still get demoted.
+
+You can always go back to normal by getting 30 or more credits. Having more than 30 credits does not guarantee a tier upgrade, but it still gives you a chance.
 
 **Giving & Getting Boosts**
 
