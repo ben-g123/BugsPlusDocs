@@ -977,6 +977,8 @@ The Competition Time Unlockable lets you compete in Competitions with friends or
 1. **Have a bit of experience in the Traps System** - Have a total of 2 or more different trap sessions.
 2. **Go to the Use A Trap menu** - After doing the step above, go to the Use A Trap Menu to unlock the Competitions feature.
 
+Competitions may have Unlockables inside it like the Boosts function.
+
 **Will there be more Unlockables announced?**
 
 Yes, we are planning to add more Unlockables so you can truly unleash the power of the Traps system.
@@ -1017,6 +1019,8 @@ Yes, most of the time. Sometimes the developers will temporarily add bots to it 
 * **Break a Trap** - If you use all the Trap's actions you will get an extra 20 credits.
 * **Send Feedback and get a Trap Bonus** - If you send feedback and get a Trap Bonus by the developers, they will add an extra 15 credits to the competition you are in at that time.
 * **Report A Cheater** - If you report a cheater to Bugs+ Support, you will get the bounty reward, and on top of that, you will get 25 Credits.
+* **Get A Boost** - Every time someone gives you a boost (unrelated to trading card emergency boosts) you will get 25 credits to boost your gameplay.
+* **Give A Boost To Someone** - If you give a Competitions Credits boost to someone, you will get 12 credits as a thank you.
 
 **Can I loose credits?**
 
@@ -1036,7 +1040,7 @@ If you go above the maximum leaderboard position for moving to the next tier (us
 
 **How can I check the status of a Competition?**
 
-You can check the status of it by going to the More tab on the sidebar (the 3 dots) and click Clutter Traps, then press Competitions. If you joined a Competition, it will go straight to the current leaderboards, days remaining, options for leaving a Competition and more.
+You can check the status of it by going to the More tab on the sidebar (the 3 dots) and click Clutter Traps, then press Competitions. If you joined a Competition, it will go straight to the current leaderboards, days remaining, options for leaving a Competition, options for sending Boosts, and more.
 
 **How can I check my tier?**
 
@@ -1129,6 +1133,32 @@ _Pop up reminders_
 
 If there is something you need to note, like the results, or anything else relating to the Competitions, a popup and notification will appear.
 
+**Giving & Getting Boosts**
+
+You can help your friends and get help from friends by sending and receiving Boosts. However, they can only be sent in Tier 2 or Tier 3. The person who gives the Boost will get 12 credits as a thank you, and the person who got it will get 25 credits. You can send a maximum of 3 boosts per Competition. You don't need to spend Competition Credits to send Boosts - use the 3 Boosts per Competition if you want to send Boosts.
+
+It is not only limited to friends - you can help anyone that is in the same tier as you.
+
+_How to send a Boost_
+
+Go to the Competition Status and press Boost A Friend. This feature won’t work in Lobbiesl You can then enter their username and give the boost without affecting your balance - it's a great way to help. However, they need to be in the same Tier as you or else it won't work.&#x20;
+
+_Check how many Boosts you have left:_
+
+You can also see how many Boosts you have left from this Competition in the Boost A Friend area, just before entering their username.
+
+_Can I boost myself?_
+
+Of course not. If you could, that would be cheating. However, you can still ask a friend for a Boost.
+
+_Can I give a single friend or person multiple Boosts?_
+
+Yes you can give multiple Boosts, but you need to be careful of the Boosts limit. Be careful of scammers and cheaters who try to trick you into Boosting them.
+
+_Can I buy more boosts or earn them?_
+
+No, you can’t, but you get a generous amount of 3 boosts per competition.
+
 **Tips & Tricks**
 
 **Understand the guide** - Using the info we provided, make sure to understand how the system works.
@@ -1142,6 +1172,8 @@ If there is something you need to note, like the results, or anything else relat
 **Be Active** - Being active is the secret unleashing key to getting better tiers. Try logging in every day and actually play, don't rush.
 
 **Claim your prizes, don't abandon them** - This is also a secret perk of logging in regularly, you will be less likely to miss the lobby.
+
+**Help your friends if you are feeling kind** - Sometimes you may not feel like doing a competition. But, you can still use the Boost function to help your friends if you want. It's not required, but it sometimes helps.
 
 **Use Batching** - The more traps you use, the more Competition Credits you will get.
 
