@@ -3,6 +3,7 @@
 * [Welcome](README.md)
 * [Bugs+ Setup](bugs+-setup.md)
 * [Hidden Features in Bugs+ That You Don’t Know About](hidden-features.md)
+* [Bugs+ Free Update Coming Soon](bugs+-free-update-coming-soon.md)
 *
 
 ## Trading
