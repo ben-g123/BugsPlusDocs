@@ -2,6 +2,8 @@
 
 A free update in Bugs+ is coming soon at 19th November 2025, with some new features coming that may totally change how you play Bugs+. Let’s talk about what we will be adding. Even though Bugs+ is free, we call it a free update to confirm to users they don’t need to pay anything to unlock the features of the update when it releases.
 
+We are introducing 4 new major features that will totally change how you use Bugs+, but in a good way. You will definitly want to see this!
+
 ### Difficulty Setting
 
 We will be adding a difficulty setting to Bugs+. This lets you change how hard or easy it is to play Bugs+. When the update is released, you will be able to go to the Account tab on the sidebar (the person icon), press Settings, press Change Difficulty and set a difficulty. You will be asked to set one when you set up Bugs+ or when you get the update.
@@ -83,7 +85,25 @@ They will popup on the screen when unlocked, with info on the rewards, and a but
 
 If you get daily quest refreshers but did not unlock the feature yet from leveling up, you won’t get that specific daily quest refresher set, and it won’t mention it, but you will still be able to get new daily refreshers once unlocked.
 
-They also may contain helpful tips or information in the game, accessible from the new Tips menu by going to the More tab on the sidebar (the 3 dots icon) and pressing Unlocked Tips, Tricks and Info. They may not always be tips, they may also be information, facts, and even a guide for getting a specific valuable trading cards (like a treasure map).
+They also may contain helpful tips or information in the game, accessible from the new Tips menu by going to the More tab on the sidebar (the 3 dots icon) and pressing Unlocked Tips, Tricks and Info. They may not always be tips, they may also be information, facts, and even a guide for getting a specific valuable trading cards (like a treasure map, and we mean it, you will absolutely love it), and the tips you can look at straight away, plus use it as a helpful reference or tip later.
+
+### Tips Camera
+
+You may find tips around while you are playing Bugs+, they can be anywhere, even in your collection, when you are playing quizzes, even in settings, and any unexepected area. However, you will only be able to see the tips if you use your Tips Camera.
+
+Just like the tips inside Gift Boxes, they may not always be tips, they may also be information, facts, and even a guide for getting a specific valuable trading cards (like a treasure map, and we mean it, you will absolutely love it).
+
+Pressing on the tip will let you take a photo of the info. After pressing on it, make sure to press Snap A Photo Of This Tip.
+
+Out of random, one of these may happen:
+
+* A Tip may appear on your screen, and added to the Unlocked Tips, Tricks & Info area. This is the most common thing that we think will happen.
+* If you are lucky, a Gift Box will appear on your screen, along with a Tip appearing on your screen, and being added to the Unlocked Tips, Tricks & Info area.
+* Or, the camera may not snap the photo correctly. If that happens, you won’t get any tip or Gift Box. Don’t worry, you can still find more tips. You will also get 275 Bug Points as a sorry gift for the photo not being taken properly. This happens as random, just like other ones.
+
+Jut like tips in gift boxes and the go-to guide will get for updating within 2 months, you can see your unlocked tips at the Unlocked Tips, Tricks & Info area.
+
+But, the catch is that you need to unlock the Tips Camera first to take photos of tips. To unlock it, you need to get **Level 16**. Upon getting **Level 16**, you will get a Gift Box with 650 Bug Points, 5 Stars, plus the Tips Camera that you needed to unlock, and a guide about using the camera you can read right away and reference to it later. If you already have **Level 16 or more** and then update, you will get the Tips Camera straight away, plus the guide, but not in the form of a gift box.
 
 ### Update Coming Soon!
 
