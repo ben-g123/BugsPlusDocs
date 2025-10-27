@@ -2,7 +2,7 @@
 
 A free update in Bugs+ is coming soon at 19th November 2025, with some new features coming that may totally change how you play Bugs+. Let’s talk about what we will be adding. Even though Bugs+ is free, we call it a free update to confirm to users they don’t need to pay anything to unlock the features of the update when it releases.
 
-We are introducing 4 new major features that will totally change how you use Bugs+, but in a good way. You will definitly want to see this!
+We are introducing 5 new major features that will totally change how you use Bugs+, but in a good way. You will definitly want to see this!
 
 ### Difficulty Setting
 
@@ -79,7 +79,7 @@ If you have too much to refund (more than 5 copies), you will be able to reset y
 
 ### Gift Boxes
 
-After updating to the free update coming soon, as you progress through Bugs+, you will get Gift Boxes. Gift Boxes are bundles of rewards you normally get, usually Bug Points, Stars, Levels & XP, trading cards, daily quest refreshers and more. They can be received from daily quests, limited time events, but more frequently, plus as a gift for levelling up in Bugs+.
+After updating to the free update coming soon, as you progress through Bugs+, you will get Gift Boxes. Gift Boxes are bundles of rewards you normally get, usually Bug Points, Stars, Levels & XP, trading cards, daily quest refreshers, the crafting materials that we will talk about soon and more. They can be received from daily quests, limited time events, but more frequently, plus as a gift for levelling up in Bugs+.
 
 They will popup on the screen when unlocked, with info on the rewards, and a button to claim them.
 
@@ -89,7 +89,7 @@ They also may contain helpful tips or information in the game, accessible from t
 
 ### Tips Camera
 
-You may find tips around while you are playing Bugs+, they can be anywhere, even in your collection, when you are playing quizzes, even in settings, and any unexepected area. However, you will only be able to see the tips if you use your Tips Camera.
+This is a total game changer! You may find tips around while you are playing Bugs+, they can be anywhere, even in your collection, when you are playing quizzes, even in settings, and any unexpected area. However, you will only be able to see the tips if you use your Tips Camera.
 
 Just like the tips inside Gift Boxes, they may not always be tips, they may also be information, facts, and even a guide for getting a specific valuable trading cards (like a treasure map, and we mean it, you will absolutely love it).
 
@@ -104,6 +104,106 @@ Out of random, one of these may happen:
 Jut like tips in gift boxes and the go-to guide will get for updating within 2 months, you can see your unlocked tips at the Unlocked Tips, Tricks & Info area.
 
 But, the catch is that you need to unlock the Tips Camera first to take photos of tips. To unlock it, you need to get **Level 16**. Upon getting **Level 16**, you will get a Gift Box with 650 Bug Points, 5 Stars, plus the Tips Camera that you needed to unlock, and a guide about using the camera you can read right away and reference to it later. If you already have **Level 16 or more** and then update, you will get the Tips Camera straight away, plus the guide, but not in the form of a gift box.
+
+### Crafting System
+
+We will be adding a crafting system to Bugs+ in the next free update. You will be able to find crafting materials from Gift Boxes, then you can craft trading cards, and in-game items. We may introduce exclusive items or trading cards that you can only get from the crafting system. You will be able to use the crafting materials by going to the More tab on the sidebar (the 3 dots icon), then press Material Exchange.
+
+However, crafting has a time limit, based on how valuable the resource you are crafting (we make it based off rarity, sometimes valuable things is cheap, which is good). And, there is a limit on how much you can craft at once.
+
+**What you can make with Material Exchange:**
+
+Currently, you will be able to craft:
+
+* Trading Cards (you can pick which one you want to craft, which is a big highlight)
+* Daily quest refreshers (if unlocked)
+* Stars
+* Large sets of Bug Points
+* Bundles of Tips (available in 3 or 6 tip packs)
+
+**How to craft an item**
+
+Once the free update is released and you update to the latest version, you can craft an item by following these steps:
+
+1. Go to Material Exchange by going to the More tab on the sidebar (the 3 dots icon)
+2. Tap Craft An Item
+3. There will be a list of items that can be crafted, what’s being crafted right now (if any), plus how many materials you have, so press the item from the list that you want to craft
+4. Press Craft Now to start the crafting timer.
+
+**How long does it take to craft, and how many materials does each one cost?**
+
+The crafting timer ticks offline and online, so you don’t need to keep the window open to craft an item completely, but you can still play Bugs+ during that time if you want.
+
+The materials required depends on how rare the item is. When you use materials, the materials will be taken away to do the crafting, but if you cancel you will get a full refund.
+
+Here is the time it takes to craft an item and it’s price:
+
+_Trading Cards Craft Time and Price:_
+
+* Common Trading Card: 15 minutes - Uses 8 materials
+* Uncommon Trading Card: 35 minutes - Uses 14 materials
+* Rare Trading Card: 1 hour - Uses 21 materials
+* Ultra Rare Trading Card: 1 hour 30 minutes - Uses 30 materials
+* Legendary: 5 hours - Uses 45 materials
+* Ultra Legendary: 8 hours - Uses 55 materials
+* Limited: 1 day (24 hours) - Uses 65 materials
+* Limited - Exclusive to Material Exchange: 2 days (48 hours) - Uses 70 materials
+
+_Other items crafting time:_
+
+* Daily Quests Refresher: 25 minutes - Uses 10 materials
+* 15 Stars: 50 minutes - Uses 26 materials
+* 45 Stars: 1 hour 45 minutes - Uses 42 materials
+* 1000 Bug Points: 30 minutes - Uses 18 materials
+* 2000 Bug Points: 1 Hour - Uses 25 materials (value pack)
+* Upgrades For The Max Items Crafted At Once: 30 minutes - Uses 12 materials
+* 3 Tips Bundle: 15 minutes - Uses 8 materials
+* 6 Tips Bundle: 30 minutes - Uses 13 materials (value pack)
+
+**Will I be able to rush the timer?**
+
+Yes, we will be introducing a system where you can also skip the timer, a bit like the refund timer. You will be able to pay an extra 6 materials to rush it if you want.
+
+If you want to rush a timer, you will be able to follow these steps:
+
+1. Go to Material Exchange by going to the More tab on the sidebar (the 3 dots icon)
+2. Tap the Crafts in Progress button
+3. Tap the crafting session you want to rush
+4. Press Rush The Timer
+5. Confirm to pay the fee and skip the timer by pressing Confirm Rush
+
+**Cancel the crafting session**
+
+If you change your mind, you will be able to cancel the crafting session and get a full refund.
+
+Follow these steps to cancel the crafting session if you want or need to:
+
+1. Go to Material Exchange by going to the More tab on the sidebar (the 3 dots icon)
+2. Tap the Crafts in Progress button
+3. Tap the crafting session you want to cancel
+4. Press Cancel Crafting & Get A Full Refund
+5. Confirm to pay the cancel the timer and get the refund by pressing Cancel Now
+
+**Will I be able to craft multiple things at once?**
+
+Yes, you will be able to, but there is a limit that can be upgraded. You can do up to 3 upgrades to increase the 2 items limit.
+
+Here is the limits:
+
+1. No Upgrades Applied: Craft up to 2 items at once
+2. One Upgrade Applied: Craft up to 3 items at once
+3. Two Upgrades Applied: Craft up to 4 items at once
+4. Three Upgrades Applied (MAX): Craft up to 5 items at once
+
+Every upgrade requires 12 materials to make. Follow these steps to make an upgrade.
+
+1. Go to Material Exchange by going to the More tab on the sidebar (the 3 dots icon)
+2. Tap the Upgrade Crafting Limits button
+3. Confirm that you want to make an upgrade.
+
+**Will I be able to check on my materials?**
+
+Yes, you will, directly from the Material Exchange menu, there should be an amount of materials you will get.
 
 ### Update Coming Soon!
 
