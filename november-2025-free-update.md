@@ -73,9 +73,9 @@ We won’t just limit the amount of trading cards you have without notice - we w
 * **You have 70 trading cards or more (or 50 if you have More Involved on)** - We will give you a more serious and detailed warning popup, plus you will get a red progress bar on your collection
 * **You have reached the trading card limit** - You will get a full screen popup asking you to refund some trading cards to continue collecting. This is a perfect chance for you to improve your collection the next time. If you don’t, you will only be able to look at your Collection and refund trading cards, nothing else. The AI refund assistant, if provided will also be available during that time. It’s like a full lockdown with a chance of clean up your Collection. If needed, a detailed tutorial on how to refund cards will also be provided.
 
-#### What if I update and I had a really big collection before then?
+#### Any other options?
 
-If you have too much to refund (more than 5 copies), you will be able to reset your collection and get 40 instant Rare cards after resetting, or continue with the refund and make it a big spring cleaning session.
+Yes, you can also optionally reset your collection. This will only reset trading cards, nothing else. But, the payoff is time saved, and also you will get lots of trading cards in return - 30 Rare cards and 10 legendary. Warning that this may trigger a clutter alert if you have Refund Notifications, or this may cause general clutter issues.
 
 ### Gift Boxes
 
@@ -86,6 +86,8 @@ They will popup on the screen when unlocked, with info on the rewards, and a but
 If you get daily quest refreshers but did not unlock the feature yet from leveling up, you won’t get that specific daily quest refresher set, and it won’t mention it, but you will still be able to get new daily refreshers once unlocked.
 
 They also may contain helpful tips or information in the game, accessible from the new Tips menu by going to the More tab on the sidebar (the 3 dots icon) and pressing Unlocked Tips, Tricks and Info. They may not always be tips, they may also be information, facts, and even a guide for getting a specific valuable trading cards (like a treasure map, and we mean it, you will absolutely love it), and the tips you can look at straight away, plus use it as a helpful reference or tip later.
+
+Make sure to press Claim Rewards, since rewards from Guft Boxes won’t be auto claimed.
 
 ### Tips Camera
 
@@ -120,6 +122,8 @@ Currently, you will be able to craft:
 * Stars
 * Large sets of Bug Points
 * Bundles of Tips (available in 3 or 6 tip packs)
+* Guaranteed High-Value Info Guide (this is the treasure map we mentioned, crafting this gets you one treasure map guide)
+* Immediate Refund Skip Vouchers - Comes in packs of 2, although rarely, as a special event we may increase it to a 4 voucher value pack (any special events containing the 4 voucher value pack is not confirmed yet). This is a new feature we are adding which lets you skip the refund timer, it’s provided as a Bug Points alternative. It will appear as a payment option when looking at the In A Rush on a newer version confirmation screen.
 
 **How to craft an item**
 
@@ -153,12 +157,14 @@ _Other items crafting time:_
 
 * Daily Quests Refresher: 25 minutes - Uses 10 materials
 * 15 Stars: 50 minutes - Uses 26 materials
-* 45 Stars: 1 hour 45 minutes - Uses 42 materials
+* 45 Stars: 1 hour 45 minutes - Uses 42 materials (time saving value pack)
 * 1000 Bug Points: 30 minutes - Uses 18 materials
 * 2000 Bug Points: 1 Hour - Uses 25 materials (value pack)
 * Upgrades For The Max Items Crafted At Once: 30 minutes - Uses 12 materials
 * 3 Tips Bundle: 15 minutes - Uses 8 materials
 * 6 Tips Bundle: 30 minutes - Uses 13 materials (value pack)
+* Guaranteed High-Value Info Guide - 3 hours - Uses 32 materials
+* Immediate Refund Skip Voucher (2 pack) - 1 hour - Uses 15 materials
 
 **Will I be able to rush the timer?**
 
@@ -186,14 +192,14 @@ Follow these steps to cancel the crafting session if you want or need to:
 
 **Will I be able to craft multiple things at once?**
 
-Yes, you will be able to, but there is a limit that can be upgraded. You can do up to 3 upgrades to increase the 2 items limit.
+Yes, you will be able to, but there is a limit that can be upgraded. You can do up to 3 upgrades to increase the 2 items limit. Plus, some upgrades include faster timers.
 
 Here is the limits:
 
 1. No Upgrades Applied: Craft up to 2 items at once
 2. One Upgrade Applied: Craft up to 3 items at once
-3. Two Upgrades Applied: Craft up to 4 items at once
-4. Three Upgrades Applied (MAX): Craft up to 5 items at once
+3. Two Upgrades Applied: Craft up to 4 items at once, plus each crafting timer will be reduced by 15 minutes (won’t instantly rush Common card crafting, that is not included)
+4. Three Upgrades Applied (MAX): Craft up to 5 items at once, plus each crafting timer will be reduced by 30 minutes (won’t instantly rush crafting that takes 40 minutes or less)
 
 Every upgrade requires 12 materials to make. Follow these steps to make an upgrade.
 
