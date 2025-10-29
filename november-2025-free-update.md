@@ -2,7 +2,7 @@
 
 A free update in Bugs+ is coming soon at 19th November 2025, with some new features coming that may totally change how you play Bugs+. Let’s talk about what we will be adding. Even though Bugs+ is free, we call it a free update to confirm to users they don’t need to pay anything to unlock the features of the update when it releases.
 
-We are introducing 5 new major features that will totally change how you use Bugs+, but in a good way. You will definitly want to see this!
+We are introducing 6 new major features that will totally change how you use Bugs+, but in a good way. You will definitly want to see this!
 
 ### Difficulty Setting
 
@@ -210,6 +210,122 @@ Every upgrade requires 12 materials to make. Follow these steps to make an upgra
 **Will I be able to check on my materials?**
 
 Yes, you will, directly from the Material Exchange menu, there should be an amount of materials you will get.
+
+### Bugs+ In VR
+
+We are happy to introduce that Bugs+ has now been expanded to VR headsets. When the update releases, to get started with VR, you need to print out the DIY headset and glue and fold it together, or use a Non-DIY Approved Phone Headset. We don’t sell VR headsets for users, but we will provide the template to print out. Bugs+ in VR is not a required feature, but still more than an add on.
+
+**When the update releases, to use VR, you will need:**
+
+Remember, this is DIY not a product we sell, so there are steps you can follow to do it without buying a headset. \
+The DIY method is the best way, but see below if you would rather buy one.
+
+Sometimes we may approve non-DIY headsets, we are not sure we will do this, but this means you can buy headsets that are notable on the internet. We are not a partner, maker or affiliates of these headsets, these are just suggestions, we don’t earn moeny from these headsets.
+
+* Access to a printer to print out the template. We will publish the template when the update releases.
+* Basic Craft supplies such as something to cut the headset out and glue it with
+* A Phone with a Web Browser. It does not matter what phone it is, you just need a phone that has an up to date web browser.
+* Something to hold the phone in the VR headset so your phone and the VR headset does not drop. If you don’t have access to this, you can choose to be careful with holding the phone and the VR at the same time.
+* A way to hold it. You can either hold it with your hands by making sure both the headset and phone is secured,  or add a strap.
+* A space that you will plan to use the VR headset in. make sure the space is safe.
+* Signed into A BugID (which is an account for Bugs+)
+
+**How to setup Bugs+ in VR:**
+
+When the update releases, these steps will work. Follow these steps to setup VR:
+
+1. Print out the VR headset template and follow the instructions to make the headset together, usually shown on the place you printed it out from or on a dedicated page on the headset template.
+2. Then, Go on your computer and open Bugs+
+3. Go to the Account tab on the sidebar (the person icon) and press Bugs+ in VR Settings & Setup
+4. Press Setup Bugs+ In VR
+5. Confirm that you have made the headset using Yes, I have made the headset, or grab a copy of the headset template by pressing No, how do I make a headset. Rarely, we will approve certain non-DIY headsets from notable non-scam phone headsets on the internet, but we are not sure we will do this, but if you find yourself having one, press Setup A Approved Non-DIY headset on that screen.
+6. Your computer will show a link that you will need to enter in your browser. Type that in on a browser of your choice. Make sure to bookmark or remember the page since that is the go-to page for accessing VR.
+7. Then, press Next on your computer and you will get a code. Enter that code on your phone on the screen you are on and wait for it to say Press Next On Your Computer. Then, press Next on your computer. It will connect, then press I’ve Connected on your phone.
+8. On the screen that says Put Your Phone In Your VR Headset and includes instructions on how, put your phone in the VR headset and attach it to the thing that makes your phone stay in if any. Then, press I’ve done it.
+9. Put on your VR headset. Prepare your area, your VR then follow the setup steps. A dot will appear in the middle of the screen. Just move your headset (or head) to move the dot, then make the dot over a button you want to press, and wait for the 2 second mini-sized countdown where the dot is located. Or, connect a Bluetooth controller and press the A button on your controller to confirm the blue dot without the countdown, if configured.
+10. Your VR is ready for use! Feel free to switch between your computer and VR anytime.
+
+You only need to do this setup once, but you may need to do it again if you Unpair or setup a different phone.
+
+**How will the user experience immersive in VR?**
+
+Here are some of the things that make using Bugs+ In VR immersive.
+
+* **Immersive Collection Experience** - For example, selecting a card will show the card up close to you. Also, refunding cards will feel more immersive.
+* **The Final 8 Second Siren Countdown** - In the last 8 seconds of a refund started in Bugs+ In VR, the 8 second siren will fill the virtual environment. It will make the siren noise, show sirens blaring in the environment, and show an action panel. It’s a full screen immersive time sensitive moment.
+* **Enhanced Experiences, now in Bugs+ In VR** - Inspired by Hub Mode, some Enhanced Experiences will be added due to the bigger and more immersive area. For example, the questions and choices will appear on the left, and the high quality big bug image will show on the right, no Hub Mode required.
+* **Immersive Notifications** - As soon as you get a Real time Notification, it will appear in front of you. Not all notifications will support it to make it less distracting, only notifications relevant now.
+* **Do Tasks In Bugs+ In VR** - The game panel will appear in front of you, plus full screen immersive experiences may be available or show up time to time.
+* **Floating Tips** - The Tips may float sometimes around you, and you can press on it to snap a photo
+* **And Much More** - We will be adding more along the way, so stay tuned!
+
+**Will All Features Be Available In Bugs+ In VR?**
+
+Not everything, but most things. This is to reduce Bugs+ In VR from crashing.
+
+**How Do I Even Control Bugs+ In VR?**
+
+There are two main ways to control the experience and press buttons.
+
+A dot will appear in the middle of the screen. Just move your headset (or head) to move the dot, then make the dot over a button you want to press, and wait for the 2 second mini-sized countdown where the dot is located. Or, connect a Bluetooth controller and press the A button on your controller to confirm the blue dot without the countdown, if configured.
+
+**How can I change Bugs+ In VR Settings?**
+
+Simply go to the Settings tab on the sidebar (the gear icon) that will appear on VR. There is no Account tab in Bugs+ In VR, instead we replaced it with an exclusive tab.
+
+There is multiple sections in Bugs+ In VR Settings, including:
+
+* **Immersion Level** - Here you can set how immersed you want to be. By default if you don’t change it is More Immersion. You can set it to Less Immersion (things may not be immersive as documented) or More Immersion. Both are very safe anyways, so you are less likely to get hurt.
+* **Immersive Notifications** - This lets you set if Immersive Notifications will show up or not. You can set it to Immersive Notifications and Normal Notifications or Normal Notifications Only. Normal notifications are the ones you can see from the Notification bell on the Home tab in the sidebar (the house icon), and the ones that you can see on all your devices, but don’t pop up. This is on by default.
+* **Headset Type** - Here you can set if you are using a DIY headset or a Non-DIY Approved Headset. Please be honest, choosing the wrong one may make the experience weird.
+* **Show Trading Cards Count On Homepage** - This is the familiar feature where you can show the trading cards count on your homepage if you want. This is off by default.
+* **Unpair** - This unpairs the headset from the BugID and takes you back to the Headset setup screen. This will also reset the Bugs+ In VR settings for the headset.
+
+**How does Bugs+ In VR enforce safety?**
+
+* Bugs+ In VR sets an automatic boundary around you. It will be square shaped, and when you go near it, yo headset will warn you via an Immersive Notification, and it will show regardless of your settings. Going outside of the boundary will show your surroundings via your phone’s back camera, and stop showing any experiences. You will need to recenter the boundary to continue by pressing Recenter. Only Recenter the boundary in a safe place. The boundary can’t be turned off.
+* Reminders to Take A Break every 20 minutes. This will show up on your VR experience, and may temporally pause what you are doing and to dismiss it you need to wait 6 seconds. When you do this, you should take a break, and it is recommended. The Take A Break reminders can’t be turned off.
+
+**How do I unpair Bugs+ In VR?**
+
+1. On the VR, go to the Settings tab on the sidebar (the gear icon)
+2. Press Unpair
+3. Press Next
+4. Press Confirm & Unpair Bugs+ In VR
+
+Note that unpairing will remove mentions of using VR on your computer and unpair it, but it will remove the Bugs+ In Vr settings from the VR headset. You will be able to set it up after or later on, or stop using it if you want.
+
+**Why are suggestions to go on my Bugs+ In VR headset showing on my computer?**
+
+Sometimes we suggest that you should go on your Bugs+ In VR headset will appear, since the expirence may be immersive in VR, and we want you to try it. This is just a reminder for you. To get rid of it, you need to Unpair the headset, but if you have the headset paired, its still a good idea to keep the suggestions since they are not annoying.
+
+**Recenter Your View**
+
+You may need to recenter if
+
+* Parts of the screen aren’t in front of you or you have to turn to see them.
+* The dot in the middle is acting a bit odd and it usually does not.
+* You can’t find the dot.
+* You went outside of the automatic boundary and are asked to go in a safe area and Recenter.
+* You can't see the menu or cursor at all.
+
+How to recenter your view:\
+To recenter your view, go outside the boundary, then go back in your boundary, and press Recenter. Make sure to do this safely. Or, press the Action Menu bar that appears somewhere on your view. Then a menu will appear with some options. The menu will disappear after a few seconds as well.
+
+**Quickly change and access common features & settings while immersed in Bugs+ In VR**
+
+You may want to change settings, but you may also be immersed on in something time sensitive, but you can use this anytime. To quickly change and access things, press the Action Menu bar that appears somewhere on your view. Then a menu will appear with some options. The menu will disappear after a few seconds as well.
+
+You can change these without going anywhere else:
+
+* **Recenter View** - Recenter your view quickly without going outside of the boundary.
+* **Immersion Level** - Quickly Change your Immersion level to either Less Immersion or More Immersion without leaving the menu.
+* **Immersive Notifications** - Quickly turn on or off Immersive Notifications, like if you are ready to get them or don’t want to be distracted.
+* **Open Settings** - Open the Settings tab for more control. Note that this will get out of whatever you are doing, and takes you to the Settings tab.
+
+**Will there be more features getting added to Bugs+ In VR?**
+
+Yes, we are planning to add more features.
 
 ### Update Coming Soon!
 
