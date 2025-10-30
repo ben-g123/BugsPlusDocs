@@ -287,6 +287,7 @@ There is multiple sections in Bugs+ In VR Settings, including:
 * Bugs+ In VR sets an automatic boundary around you. It will be square shaped, and when you go near it, yo headset will warn you via an Immersive Notification, and it will show regardless of your settings. Going outside of the boundary will show your surroundings via your phone’s back camera, and stop showing any experiences. You will need to recenter the boundary to continue by pressing Recenter. Only Recenter the boundary in a safe place. The boundary can’t be turned off.
 * Reminders to Take A Break every 20 minutes. This will show up on your VR experience, and may temporally pause what you are doing and to dismiss it you need to wait 6 seconds. When you do this, you should take a break, and it is recommended. The Take A Break reminders can’t be turned off.
 * Users can enable and disable Passthrough Mode from the action menu to check on their surroundings anytime.
+* During intense events with lots of movement or risk of falling over, Passthrough may enable automatically for up to 4 seconds. To increase immersion while improving safety, Passthrough activating automatically won’t be in an annoying way. This is a required safety feature.
 
 **How do I unpair Bugs+ In VR?**
 
