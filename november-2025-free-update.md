@@ -256,12 +256,13 @@ Here are some of the things that make using Bugs+ In VR immersive.
 * **Enhanced Experiences, now in Bugs+ In VR** - Inspired by Hub Mode, some Enhanced Experiences will be added due to the bigger and more immersive area. For example, the questions and choices will appear on the left, and the high quality big bug image will show on the right, no Hub Mode required.
 * **Immersive Notifications** - As soon as you get a Real time Notification, it will appear in front of you. Not all notifications will support it to make it less distracting, only notifications relevant now.
 * **Do Tasks In Bugs+ In VR** - The game panel will appear in front of you, plus full screen immersive experiences may be available or show up time to time.
-* **Floating Tips** - The Tips may float sometimes around you, and you can press on it to snap a photo
+* **Floating Tips** - The Tips may float sometimes around you, and you can press on it to snap a photo.
+* **Immersive Material Exchange** - Opening Material Exchange in Bugs+ In VR will be immersive. There will be a workshop table, and it looks like you are actually crafting.
 * **And Much More** - We will be adding more along the way, so stay tuned!
 
 **Will All Features Be Available In Bugs+ In VR?**
 
-Not everything, but most things. This is to reduce Bugs+ In VR from crashing.
+Not everything, but most things. This is to prevent Bugs+ In VR from crashing.
 
 **How Do I Even Control Bugs+ In VR?**
 
@@ -285,6 +286,7 @@ There is multiple sections in Bugs+ In VR Settings, including:
 
 * Bugs+ In VR sets an automatic boundary around you. It will be square shaped, and when you go near it, yo headset will warn you via an Immersive Notification, and it will show regardless of your settings. Going outside of the boundary will show your surroundings via your phone’s back camera, and stop showing any experiences. You will need to recenter the boundary to continue by pressing Recenter. Only Recenter the boundary in a safe place. The boundary can’t be turned off.
 * Reminders to Take A Break every 20 minutes. This will show up on your VR experience, and may temporally pause what you are doing and to dismiss it you need to wait 6 seconds. When you do this, you should take a break, and it is recommended. The Take A Break reminders can’t be turned off.
+* Users can enable and disable Passthrough Mode from the action menu to check on their surroundings anytime.
 
 **How do I unpair Bugs+ In VR?**
 
@@ -308,9 +310,12 @@ You may need to recenter if
 * You can’t find the dot.
 * You went outside of the automatic boundary and are asked to go in a safe area and Recenter.
 * You can't see the menu or cursor at all.
+* You want to re make your boundary.
 
 How to recenter your view:\
 To recenter your view, go outside the boundary, then go back in your boundary, and press Recenter. Make sure to do this safely. Or, press the Action Menu bar that appears somewhere on your view. Then a menu will appear with some options. The menu will disappear after a few seconds as well.
+
+Your boundary will also be re-made automatically.
 
 **Quickly change and access common features & settings while immersed in Bugs+ In VR**
 
@@ -321,11 +326,123 @@ You can change these without going anywhere else:
 * **Recenter View** - Recenter your view quickly without going outside of the boundary.
 * **Immersion Level** - Quickly Change your Immersion level to either Less Immersion or More Immersion without leaving the menu.
 * **Immersive Notifications** - Quickly turn on or off Immersive Notifications, like if you are ready to get them or don’t want to be distracted.
+* **Passthrough Mode** - This turn in your phone’s back camera to your surroundings in the background VR environment, and if Passthrough Mode is on already, it will turn it off. While using this mode, the boundary will get bigger since you can see your surroundings.
+* **Homepage** - If you are in an immersive experience where you can’t see the house icon, you can use this to go back to the main menu of Bugs+ In VR. This won’t show when you are in the main menu or when a house icon for going to the main menu appears.
 * **Open Settings** - Open the Settings tab for more control. Note that this will get out of whatever you are doing, and takes you to the Settings tab.
 
 **Will there be more features getting added to Bugs+ In VR?**
 
 Yes, we are planning to add more features.
+
+**About the Immersive Material Exchange**
+
+With the Immersive Material Exchange in Bugs+ In VR, you can experience the Material Exchange just like a crafting workshop.
+
+<details>
+
+<summary>Open Material Exchange in Bugs+ In VR</summary>
+
+To open Material Exchange in Bugs+ In VR, do it like the same way you do it normally. So, oepn the More tab on the sidebar (the 3 dots) on your VR headset, and press Material Exchange. A full screen immersive experience will start, and it will look like a workshop, with tables, tools, and a screen for managing things and accessing quick actions.
+
+Material Exchange will have the same functions as the normal one you see on your main device, but immersive. It may have extra features as well, but the navigation for using Material Exchange is different to make look like you are actually there.
+
+</details>
+
+<details>
+
+<summary>How do I close Immersive Material Exchange and go back to the normal menu?</summary>
+
+To go back to the menu, look for the door on the left of the workshop, and look at it for 2 seconds or select the door with your controller. The door will be labeled Look here for 2 seconds to Exit. You will then find yourself back to the menu.
+
+Or, use the Homepage action from the action menu.
+
+</details>
+
+<details>
+
+<summary>Find how many materials you have while using Bugs+ In VR</summary>
+
+To see how many materials you have while using Bugs+ In VR, on the Material Exchange area, there should be a materials count on your Bugs+ In VR workbench, located on the screen that is on the workbench.
+
+</details>
+
+<details>
+
+<summary>Use the Action Bar while in Material Exchange</summary>
+
+The Action Bar menu button located in a different location from the normal way you open the actions menu. Press the button labeled Action Bar on your VR workbench, it should be on top of the screen area. Pressing it will open the familiar actions menu.
+
+</details>
+
+<details>
+
+<summary>Start a new craft while immersed in Immersive Material Exchange</summary>
+
+To start a new craft in Bugs+ In VR, look at the New Craft storage drawer at the top of the workbench for 2 seconds, or click on it using your controller. Then, select the type of craft you want to start, and if it is a trading card, select what trading card you want to craft.
+
+</details>
+
+<details>
+
+<summary>Upgrade the crafting limits while in Immersive Material Exchange</summary>
+
+To upgrade crafting limits while in Bugs+ In VR, look at the Upgrade Crafting Limits on the crafts that are in progress on your workbench, it should show in the empty spot you did not unlock yet. Look at it for 2 seconds or select it with your controller, then confirm that you want to start the upgrade.
+
+The option won’t show when you have got all 3 upgrades.
+
+Just like how you make upgrades Material Exchange on your computer, you still need to use the materials and wait for the craft to finish.
+
+</details>
+
+<details>
+
+<summary>Cancel crafts while in Bugs+ In VR</summary>
+
+Look at the craft on your workbench that you want to cancel for 2 seconds, or select it, and on the screen on your workbench, it will show some options. Look at or select Cancel Craft on that screen, and then confirm it by looking at or selecting Confirm.
+
+</details>
+
+<details>
+
+<summary>How do I rush the crafting timer while in Bugs+ In VR?</summary>
+
+Look at the craft on your workbench that you want to rush the timer for 2 seconds, or select it, and on the screen on your workbench, it will show some options. Look at or select Rush The Timer on that screen, and then confirm it by looking at or selecting Confirm.
+
+</details>
+
+<details>
+
+<summary>Can I use Immersive Material Exchange in Mixed Reality?</summary>
+
+Yes, you can. As well as using Material Exchange in an immersive full screen experience, you can make it look like the workbench is in your house. To do this, use the Action Bar to open the action menu, then press Passthrough Mode. The workbench will show as well as your surroundings, plus the boundary will get bigger.
+
+</details>
+
+<details>
+
+<summary>Do crafts sync to and from my computer?</summary>
+
+Like other BugID (aka account) data, it does sync. This means you can do a craft on your VR headset and then manage it later on your computer. And it works each way, that means you can even do a craft on your computer and manage it later on your VR headset. Things you craft are even synced!
+
+</details>
+
+**Fix Errors on Bugs+ In VR**
+
+<details>
+
+<summary>What to do first</summary>
+
+Before taking any other actions, restart your phone for an easy fix.
+
+</details>
+
+<details>
+
+<summary>What to do if it continues to glitch</summary>
+
+Try unpairing and reparing. If that does not help, contact Bugs+ Support.
+
+</details>
 
 ### Update Coming Soon!
 
