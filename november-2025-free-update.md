@@ -288,6 +288,7 @@ There is multiple sections in Bugs+ In VR Settings, including:
 * Reminders to Take A Break every 20 minutes. This will show up on your VR experience, and may temporally pause what you are doing and to dismiss it you need to wait 6 seconds. When you do this, you should take a break, and it is recommended. The Take A Break reminders can’t be turned off.
 * Users can enable and disable Passthrough Mode from the action menu to check on their surroundings anytime.
 * During intense events with lots of movement or risk of falling over, Passthrough may enable automatically for up to 4 seconds. To increase immersion while improving safety, Passthrough activating automatically won’t be in an annoying way. This is a required safety feature.
+* VR Safety Tips may appear as a tip while using the Tips Camera. This is an occasional event and does not happen all the time. The safety tip will also be saved to your Unlocked Tips, Tricks & Info area just like other tips. If the system chooses a VR Safety tip, the photo will always snap with a gift box.
 
 **How do I unpair Bugs+ In VR?**
 
