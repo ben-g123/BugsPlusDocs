@@ -211,6 +211,20 @@ Every upgrade requires 12 materials to make. Follow these steps to make an upgra
 
 Yes, you will, directly from the Material Exchange menu, there should be an amount of materials you will get.
 
+**What if I need some quick materials but don't have time to open Gift Boxes?**
+
+You can craft Material Packs using your Bug Points & Stars, but it is slow and you may not get much, to encourage using Gift Boxes.
+
+To do this, follow these steps:
+
+1. Go to Material Exchange by going to the More tab on the sidebar (the 3 dots icon)
+2. Tap the Ways To Get Materials button
+3. Tap Buy Materials using in-game currency
+4. Choose what you want to pay with - Bug Points or Stars
+5. Tap on an offer. We change the conversion system regularly, so for example, if there is a 1000 Bug Points to 30 materials offer, and a 50 Bug Points to 3 materials offer today, it may be a different offer tomorrow.
+
+Buying materials with Bug Points or Stars will only show in Ways To Get Materials or in Bugs+ In VR if you have less than 55 Materials.
+
 ### Bugs+ In VR
 
 We are happy to introduce that Bugs+ has now been expanded to VR headsets. When the update releases, to get started with VR, you need to print out the DIY headset and glue and fold it together, or use a Non-DIY Approved Phone Headset. We don’t sell VR headsets for users, but we will provide the template to print out. Bugs+ in VR is not a required feature, but still more than an add on.
@@ -425,6 +439,18 @@ Yes, you can. As well as using Material Exchange in an immersive full screen exp
 <summary>Do crafts sync to and from my computer?</summary>
 
 Like other BugID (aka account) data, it does sync. This means you can do a craft on your VR headset and then manage it later on your computer. And it works each way, that means you can even do a craft on your computer and manage it later on your VR headset. Things you craft are even synced!
+
+</details>
+
+<details>
+
+<summary>How do I buy materials with Bug Points or Stars while immersed in Bugs+ In VR?</summary>
+
+As well as earning Materials from Gift Boxes, you can also buy them using your Bug Points. Currently, you can’t buy Materials with Stars, but we will add that later on. To do this, you will need less than 55 Materials, and follow these steps:
+
+1. Find the Help Earning Materials Button. It will appear next to your Materials count on the screen on your VR workbench. Look at it for 2 seconds, or click on it with your controller.
+2. A list of buttons will appear on the screen on your VR workbench. Look at Buy Materials for 2 seconds, or click on it with your controller. If you have more than 55 Materials, only the guides for getting materials will show.
+3. Press on Get 20 Materials for 2750 Bug Points or press Get 30 Materials for 3250 Bug Points (Value Pack). There is no such thing as offer selection in Bugs+ In VR, so there are static offers instead.
 
 </details>
 
