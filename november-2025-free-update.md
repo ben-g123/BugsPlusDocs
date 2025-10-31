@@ -294,6 +294,7 @@ There is multiple sections in Bugs+ In VR Settings, including:
 * **Immersive Notifications** - This lets you set if Immersive Notifications will show up or not. You can set it to Immersive Notifications and Normal Notifications or Normal Notifications Only. Normal notifications are the ones you can see from the Notification bell on the Home tab in the sidebar (the house icon), and the ones that you can see on all your devices, but don’t pop up. This is on by default.
 * **Headset Type** - Here you can set if you are using a DIY headset or a Non-DIY Approved Headset. Please be honest, choosing the wrong one may make the experience weird.
 * **Show Trading Cards Count On Homepage** - This is the familiar feature where you can show the trading cards count on your homepage if you want. This is off by default.
+* **Environment setup** - Switch boundaries and more specially for your VR unleashage space and environment.
 * **Unpair** - This unpairs the headset from the BugID and takes you back to the Headset setup screen. This will also reset the Bugs+ In VR settings for the headset.
 
 **How does Bugs+ In VR enforce safety?**
@@ -432,6 +433,16 @@ Look at the craft on your workbench that you want to rush the timer for 2 second
 
 Yes, you can. As well as using Material Exchange in an immersive full screen experience, you can make it look like the workbench is in your house. To do this, use the Action Bar to open the action menu, then press Passthrough Mode. The workbench will show as well as your surroundings, plus the boundary will get bigger.
 
+If you plan on using it every single time, you can automate turning it on, by follow these steps:
+
+**To use Mixed Reality every time:**
+
+1. Go to the Settings tab on the sidebar (the gear icon) on your Bugs+ In VR, or use the action bar and select Settings.
+2. Press **Environment setup** on the list of options.
+3. Press **Automatically use Mixed Reality in compatible experiences every single time**. This will turn it on if not already enabled, or turn it off if it is enabled.
+
+This applies to all compatible experiences.
+
 </details>
 
 <details>
@@ -451,6 +462,47 @@ As well as earning Materials from Gift Boxes, you can also buy them using your B
 1. Find the Help Earning Materials Button. It will appear next to your Materials count on the screen on your VR workbench. Look at it for 2 seconds, or click on it with your controller.
 2. A list of buttons will appear on the screen on your VR workbench. Look at Buy Materials for 2 seconds, or click on it with your controller. If you have more than 55 Materials, only the guides for getting materials will show.
 3. Press on Get 20 Materials for 2750 Bug Points or press Get 30 Materials for 3250 Bug Points (Value Pack). There is no such thing as offer selection in Bugs+ In VR, so there are static offers instead.
+
+</details>
+
+**Environment setup**
+
+In Bugs+ VR, you can use **Environment setup** to manage boundaries and more.
+
+<details>
+
+<summary>Switch between boundary sizes</summary>
+
+In Bugs+ In VR, there are two types of boundaries. One is the Normal Boundary, and the other is a Small Boundary. Use the Normal Boundary for general play and Small Boundary for sitting down and tiny play spaces.
+
+**To switch between boundary sizes:**
+
+1. Go to the Settings tab on the sidebar (the gear icon) on your Bugs+ In VR, or use the action bar and select Settings.
+2. Press **Environment setup** on the list of options.
+3. Select Normal Boundary or Small Boundary. Switching to another one will **Recenter your view** to apply the boundary settings and make sure it works properly.
+
+You can also tap **Recenter View & Boundary** on that screen if you need to Recenter it again while experimenting with boundary sizes.
+
+</details>
+
+<details>
+
+<summary>Automatically enable Passthrough in compatible full screen experiences</summary>
+
+If you want to use mixed reality every time you use a compatible expirence, you can enable a setting to do that automatically. When you enter the expirence, Passthrough will enable, and when you leave, Passthrough will disable. Even with this mode on, you can still turn off Passthrough from the Action Bar.
+
+If you want to do it manually, you can leave this off and enable Passthrouhg yourself from the Action Bar, the automatically enable setting is not required for Mixed Reality, it is just an automated way to turn it on.
+
+**To use Mixed Reality every time:**
+
+1. Go to the Settings tab on the sidebar (the gear icon) on your Bugs+ In VR, or use the action bar and select Settings.
+2. Press **Environment setup** on the list of options.
+3. Press **Automatically use Mixed Reality in compatible experiences every single time**. This will turn it on if not already enabled, or turn it off if it is enabled.
+
+**Experiences this will automatically enable it in:**
+
+* Immersive Material Exchange
+* BugOn 2025 Full Screen Announcements (discontinued since BugOn ended)
 
 </details>
 
