@@ -2,7 +2,7 @@
 
 A free update in Bugs+ is coming soon at 19th November 2025, with some new features coming that may totally change how you play Bugs+. Let’s talk about what we will be adding. Even though Bugs+ is free, we call it a free update to confirm to users they don’t need to pay anything to unlock the features of the update when it releases.
 
-We are introducing 6 new major features that will totally change how you use Bugs+, but in a good way. You will definitly want to see this!
+We are introducing 7 new major features that will totally change how you use Bugs+, but in a good way. You will definitly want to see this!
 
 ### Difficulty Setting
 
@@ -273,6 +273,7 @@ Here are some of the things that make using Bugs+ In VR immersive.
 * **Your Immersive Environment** - When you are not immersed in full screen experiences on Bugs+ In VR, your Immersive Environment will show up. It is like your home or head quarters for your Bugs+ In VR unleashage sessions. A big panel will appear in front of you, which is the Bugs+ menu, and you can do the things you need to do in Bugs+, and start immersive experiences if you want. Your Immersive Objects will also appear there, which are little items that can help you while not in a full screen experience or give you information.
 * **Floating Tips** - The Tips may float sometimes around you, and you can press on it to snap a photo.
 * **Immersive Material Exchange** - Opening Material Exchange in Bugs+ In VR will be immersive. There will be a workshop table, and it looks like you are actually crafting. This is a game changer for people who want crafting to be immersive, and want to unleash the power of Bugs+ In VR!
+* **Interact with other users and friends in VR** - With our new social features, you can connect with your friends, and meet new users in Bugs+ In VR.
 * **Immersive Notifications** - Immersive Notifications will appear right in front of you and are different from the built in notifications that is included in every Bugs+ application. You can turn them off and on from the Action Bar, or from Settings. They are on by default, and you will never miss the time to unleash the power of Bugs+ In VR.
 * **And Much More** - We will be adding more along the way, so stay tuned!
 
@@ -347,6 +348,10 @@ You can change these without going anywhere else:
 * **Immersion Level** - Quickly Change your Immersion level to either Less Immersion or More Immersion without leaving the menu.
 * **Immersive Notifications** - Quickly turn on or off Immersive Notifications, like if you are ready to get them or don’t want to be distracted.
 * **Passthrough Mode** - This turn in your phone’s back camera to your surroundings in the background VR environment, and if Passthrough Mode is on already, it will turn it off. While using this mode, the boundary will get bigger since you can see your surroundings.
+* **Respawn** - Appearing on only Unleash HQ and Unleash Rooms, this lets you respawn back to the main area, the Menu, without leaving. Only appears in Unleash HQ and Unleash Rooms.
+* **Respawn & Leave** - This Leaves the Unleash HQ or Unleash Room and respawns back to the Menu. Only appears in Unleash HQ and Unleash Rooms.
+* **Investigate & Report** - This lets you Report another user who is being bad. Only appears in Unleash HQ and Unleash Rooms.
+* **Share Experience** - This lets you share (or stop sharing) your Immersive Full Screen Experience with friends. Only appears in Unleash Rooms.
 * **Homepage** - If you are in an immersive experience where you can’t see the house icon, you can use this to go back to the main menu of Bugs+ In VR. This won’t show when you are in the main menu or when a house icon for going to the main menu appears.
 * **Open Settings** - Open the Settings tab for more control. Note that this will get out of whatever you are doing, and takes you to the Settings tab.
 
@@ -730,6 +735,247 @@ Before taking any other actions, restart your phone for an easy fix.
 Try unpairing and reparing. If that does not help, contact Bugs+ Support.
 
 </details>
+
+### Social Features
+
+This is a game changer for interaction! For the first time in Bugs+, we are introducing features to help you connect with friends and new non-scam people. To do this, we are introducing a set of interaction and social features in Bugs+ that you can access as soon as November 19 hits and you update. It will be available on the desktop version, with an immersive (and very immersive as well) version available on Bugs+ In VR.
+
+**What social features are you adding?**
+
+We are introducing the following social features:
+
+* **Unleash HQ** - In Unleash HQ, you can interact with other users, in a dedicated Hub Space. Each Unleash HQ can hold up to 9 users. It is a pretty wide space, and for the first time, there are arrows that you can look at for 2 seconds to move.
+* **Unleash Rooms** - You can invite up to 2 to 4 other friends from your Friends List to a Unleash Room. You can interact with them, and you can even look at information together, do quizzes together, talk to each other using chat (we promise that we have strict chat rules with no swearing and no abuse), and even watch someone else do a task or gather around a Immersive Material Exchange.
+* **Friends List** - You can Friend your friends, and people that you liked meeting up with and want to interact with more, and invite them to Unleash HQ, Unleash Rooms, and more.
+* **Bugs+ Scrolling Feed** - When you craft something, finish a quite big refund, level up at to a notable milestone, get limited time cards or do something pretty big, your friends can scroll through their **Bugs+ Scrolling Feed** to see your and other friend’s progress, and send you encouragement notifications, and the other way around as well.
+* **Shared Tasks & Gameplay** - When starting a craft, refund, get a Gift Box or want to team up in a limited time event, you can split up the rewards between you and friends (sharing is caring, and is now the shared unleashage key) and give your friends updates on it. You can do this through the “Share Rewards” feature if you have friends on your Friends List. You can add up to 2 other friends (so that means you can have up to 3 users getting the rewards at once including you).
+
+**How can I access the Unleash HQ?**
+
+You can access the Unleash HQ, a place to meet up with public users, by using a menu item. Here are the instructions based on what device you are using.
+
+If you are using a Computer, follow these steps:
+
+1. On the Home tab on the sidebar (the house icon) press Unleash HQ & Rooms, or go to the Community tab on the sidebar (the cell phone tower icon)
+2. If you used the Home tab shortcut, press Open Unleash HQ, and if you used the Community Tab, press Unleash HQ
+
+If you are using Bugs+ In VR, follow these steps:
+
+1. Go to the Home tab on the sidebar (the house icon), which is opened by default if no other menu items are actively being used when you go to the Immersive Environment
+2. Press the Social Features & Bugs+ HQ floating bar that appears under the menu
+3. Press Open Bugs+ HQ on the options that appears
+
+**What can I do in the Unleash HQ?**
+
+You can meet up with all sorts of players, and friends if any. You will be able to move around, and access certain areas. In the main area, where your screen is, other people can’t see, but there is an area where everyone can gather around some community selected widgets.
+
+Even while on desktop, the desktop version still lets you move around on a 2D interface, but some features may not work on desktop only.
+
+**Does anyone own an Unleash HQ and if I own one how do I use the tools?**
+
+The first person to join is the Admin of the Unleash HQ. They get to choose what environment the VR version is in, like Flapping Butterflies, or Praying Mantises. They can’t choose Creepy Spiders just in case someone gets scared. They also get to choose the Theme of the Desktop version and the VR version, they can choose from Blue (default), Red, Yellow and Green. They can‘t kick or ban users, to prevent people from being rude. You will be asked when you are the first to join to choose a theme and environment.
+
+If you are an Admin, follow these steps to use your Tools:
+
+1. Go to the area that shows your personal Menu or Respawn via the Action Bar. This step is not required on Desktop.
+2. Press the Customise button, or if you are on Desktop, press Change Theme.
+3. Select an Environment and Theme.
+
+**How do I move around?**
+
+In Unleash HQ and Unleash Rooms, you can move around in different ways, based on what platform you are using.
+
+If you are using Bugs+ In VR:
+
+Look down for the arrows, and look at the direction arrow you want to move in. You won’t move in a tiny amount, it will be more steps every click, to make up for the 2 second wait. This also makes it easier.
+
+How to move on Desktop:
+
+Simply use your arrow keys to move.
+
+**What can I do in the Unleash HQ?**
+
+You can do the following things:
+
+* Meet new people
+* Interact with Friends
+* See the community picked Immersive Objects. These change and include relevant data, and if it is a Bug Points, Stars, Levels & XP object, it will show combined data. On Desktop, you can see the objects in 2D but they won’t look immersive.
+* Use the Bugs+ Menu while interacting with friends
+* And more, we are planning to add a lot
+
+**Community Picked Immersive Objects**
+
+Now and then, Immersive Objects will change time to time in Unleash HQ. They will feature combined totals of user’s points, tips, Quiz Of The Day, and other things. You can still see the widgets in 2D on Desktop, but it may not be immersive, and Action Buttons won‘t work until you use Bugs+ In VR.
+
+**Customise your Avatar**
+
+Your Avatar is your virtual face and body that will be shown to others and friends when you are in Unleash HQ or Unleash Rooms. You can change it how you like it as well.
+
+How To Change Your Avatar:
+
+1. Go to the Community tab on the sidebar (the Community icon)
+2. Press Community Avatar
+3. Customise & Save your new avatar
+
+**About chatting with each other**
+
+You can talk with each other, in Unleash HQ and Unleash Rooms. To prevent swearing and abuse, plus make it faster to send messages, there are pre defined messages you can send, but there is a big list of them. Follow these steps to send messages:
+
+1. Press the message bubble icon
+2. Choose a message to send
+3. Hit Send!
+
+Everyone near you will be able to see your message. It will appear above your avatar for up to 9 seconds.
+
+**Invite Friends to the Unleash HQ you are in**
+
+If there are less than 9 players you can invite your friends to the Unleash HQ you are in. Your friend has to be in your Friends List and has to be online to get your request. To do this, follow these steps:
+
+1. If you are on Bugs+ In VR, go to the Main area to your Menu screen, or respawn to go to it or if you are on desktop press the Menu icon
+2. Press Invite Friends
+3. Select a friend to invite
+4. Hit Send!
+
+**How to Report a bad person in Unleash HQ and Unleash Rooms**
+
+Follow these steps to report someone to the developers of Bugs+:
+
+1. If you are on Bugs+ In VR, go to the Action menu, or if you are on Desktop, press the Menu icon
+2. If you are on Bugs+ In VR, press Press Investigate & Report or if you are on Desktop press Report A Player
+3. Select the reason for reporting
+4. Select the user to report
+5. Hit Send when you are ready
+
+{% hint style="warning" %}
+False or prank reports are not allowed and if someone false reports will get the player who fake reported banned.
+{% endhint %}
+
+**Is Unleash HQ basically an Immersive Environment?**
+
+Yes, it is. Unleash HQ is a shared Immersive Environment.
+
+**How many Players can be in a single Unleash HQ?**
+
+A single Unleash HQ can have up to 9 players. If someone joins after 9 players, a new seperate Unleash HQ will be created.
+
+**How to Friend someone while in a Unleash HQ**
+
+You can friend someone by following these steps.
+
+If the player you want to friend is in the same Unleash HQ as you, follow these steps:
+
+1. If you are in Bugs+ In VR, hover over a player‘s name with the dot and look at the, or if you are on Desktop, press on the user you want to friend
+2. If you are on Bugs+ In VR, look at the High Five to Friend button that appears for 2 seconds or select it with your controller, or if you are on Desktop, press High Five to Send Friend Request
+3. They other player will get your Friend Request on their screen. They can approve it, or reject it.
+
+If the player you want to friend is currently not in the same Unleash HQ or are not currently in a Unleash HQ:
+
+1. Go to the Community Tab on the sidebar (the cell phone tower icon)
+2. Press Friends List
+3. Press Send Friend Request
+4. Enter the friend’s username
+5. Confirm
+
+The friend you sent a friend request to will get a notification which then they can accept the request by going to their Friends List and approving it.
+
+**How do I leave an Unleash HQ or Unleash Room?**
+
+Follow these steps to do this:
+
+1. If you are on Bugs+ In VR, go to the Action Bar. If you are on Desktop, press the menu icon.
+2. If you are on Bugs+ In VR, look at Respawn & Leave for 2 seconds or select it with your controller. If you are on Desktop, press Leave This Bugs+ HQ.
+3. Confirm that you want to leave.
+
+**How do I respawn in an Unleash HQ or Unleash Room?**
+
+If you Respawn, you will appear back in the Main area of whatever you are doing, so you can go back to your Bugs+ Menu on VR, or meet up with a friend on VR or Desktop. To do this, follow these steps:
+
+1. If you are on Bugs+ In VR, open the Action Bar. If you are on Desktop, press the Menu icon.
+2. If you are on Bugs+ In VR, look at Respawn for 2 seconds or click on it with your controller. If you are on Desktop, tap Respawn.
+
+**How do I create an Unleash Room with my friends?**
+
+You can create an Unleash Room with 2 to 4 friends on your Friends List. You will be able to do lots of things with your friends in this private room. To do this, follow these steps:
+
+1. If you are on Bugs+ In VR, go to the Home tab on the sidebar (the house icon) and press the Social Features & Bugs+ HQ floating bar. If you are on Desktop, go to the Community Tab.
+2. Press Unleash Rooms
+3. Press Create Room.
+4. Select Friends to invite to the room.
+5. You will spawn in the room. Wait for your chosen friends to join. Your friends need to be online, so make sure they are online to avoid time wasting, and your friends will get an Immersive Notification or if not on Bugs+ In VR, a notification to approve or reject.
+
+**How do I join a friend’s Unleash Room?**
+
+They need to send you an invite for you to join their Unleash Room. Once you got one, press Approve on the notification, or open the Community tab on the sidebar (the cell phone timer icon) and approve the request.
+
+**How can I let my friends see my Immersive Material Exchange or normal Material Exchange session while in an Unleash Room?**
+
+Your friends can see your material exchange sessions and info if you turn on the setting while in Unleash Rooms. This is a perfect way to show off your progress. Any friend can start sharing their material exchange sessions, but only one can share at a time. To do this, follow these steps:
+
+1. If you are on Bugs+ In VR, open the Action Bar. If you are on Desktop, press the Menu icon.
+2. If you are on Bugs+ In VR, look at Share Experience for 2 seconds or press it with your controller. If you are on Desktop, press Experience Sharing.
+3. Select a type of experience to start and share. Selecting one will start it, and show it off to your friends.
+
+You can always stop sharing from the menu, but press Stop Experience Sharing instead.
+
+Currently, you can share these experiences:
+
+* Immersive Material Exchange
+* Normal Material Exchange
+* Quizzes
+* Collection
+
+This also lets you show off trading cards to your friends.
+
+**How to Unfriend a friend from your Friends List**
+
+You can Unfriend a friend by following these steps:
+
+1. Open the Community Tab on the Sidebar (the cell phone tower icon)
+2. Select Friends List
+3. Press Select Friend
+4. Enter their username
+5. Press Unfriend
+6. Press Confirm
+
+Your friend won’t be notified, but they may notice that you are no longer on your Friends List.
+
+**What is the Bugs+ Scrolling Feed?**
+
+With the Bugs+ Scrolling Feed, your friends are automatically updated via the feed that you and your friends can scroll through. Here is what you and your friends can see:
+
+* **Major Crafting Session Completed** - Once you craft a Legendary or better, or a Guaranteed High Value Info Guide, your friends will be alerted with an automatic post to the scrolling feed.
+* **High Earnings From Refunding** - If you got a high reward from refunding cards, your friends will be alerted with an automatic post to the scrolling feed.
+* **Limited Time Card** - If you get a limited time trading card, your friends will be alerted with an automatic post to the scrolling feed
+* **Level Up** - Every 5 levels, your friends will be alerted with an automatic post to the scrolling feed.
+* **Gift Box** - Every time you get a Gift Box, your friends will be alerted with an automatic post to the scrolling feed.
+
+**About Shared Tasks & Gameplay**
+
+When you start a crafting session, card refund timer, or limited time event, you can split up the rewards or work together with either your friends to help them, plus add a boost to the reward. The timed process or event must be in progress to send it, not finished. You can share with up to 2 other players (which means up to 3 players including you). You can do this by following the following steps:
+
+1. Go to the Community tab on the sidebar (the cell phone tower icon)
+2. Press Share Rewards.
+3. Select what to share. You can choose crafting session rewards, refund rewards, or limited time event rewards.
+4. Select the friends to share with.
+5. Confirm it.
+
+You can only have up to 1 Share Rewards session at once. You will be able to do another one as soon as it is cancelled or rewards are given out. You can cancel anytime by going to Share Rewards on the Community Tab and pressing Cancel.
+
+When the rewards are given out, you will be notified, and an extra bonus will be added to every reward being split out.
+
+In certain times, you may be able to work together to get extra boosts. This is in Limited Time Events. Other times, rewards from your work will be shared.
+
+**Worlds Replay**
+
+If a Scrolling Feed eligible event occurs, it will be added to a special gallery, located by going to the Community Tab on the sidebar (the cell phone tower icon) and pressing Worlds Replay. This happens even if you don’t have any friends to send the scrolling feed entry to.
+
+**How long does the Scrolling Feed and Worlds Replay store data for?**
+
+Scrolling Feed entries stay active for up to 4 days, then it will be removed. Worlds Replay entries will stay active for up to 21 days, then will be removed.
+
+**Do I really need Bugs+ In VR for these social features?**
+
+No, you don’t! You can use a Desktop, but since some of the social features are optimized for Bugs+ In VR, some features may be in different areas, may be 2D or may not work. We recommend using Bugs+ In VR when available, but you can still use a Desktop.
 
 ### Update Coming Soon!
 
