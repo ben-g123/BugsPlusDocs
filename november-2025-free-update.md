@@ -270,8 +270,10 @@ Here are some of the things that make using Bugs+ In VR immersive.
 * **Enhanced Experiences, now in Bugs+ In VR** - Inspired by Hub Mode, some Enhanced Experiences will be added due to the bigger and more immersive area. For example, the questions and choices will appear on the left, and the high quality big bug image will show on the right, no Hub Mode required.
 * **Immersive Notifications** - As soon as you get a Real time Notification, it will appear in front of you. Not all notifications will support it to make it less distracting, only notifications relevant now.
 * **Do Tasks In Bugs+ In VR** - The game panel will appear in front of you, plus full screen immersive experiences may be available or show up time to time.
+* **Your Immersive Environment** - When you are not immersed in full screen experiences on Bugs+ In VR, your Immersive Environment will show up. It is like your home or head quarters for your Bugs+ In VR unleashage sessions. A big panel will appear in front of you, which is the Bugs+ menu, and you can do the things you need to do in Bugs+, and start immersive experiences if you want. Your Immersive Objects will also appear there, which are little items that can help you while not in a full screen experience or give you information.
 * **Floating Tips** - The Tips may float sometimes around you, and you can press on it to snap a photo.
-* **Immersive Material Exchange** - Opening Material Exchange in Bugs+ In VR will be immersive. There will be a workshop table, and it looks like you are actually crafting.
+* **Immersive Material Exchange** - Opening Material Exchange in Bugs+ In VR will be immersive. There will be a workshop table, and it looks like you are actually crafting. This is a game changer for people who want crafting to be immersive, and want to unleash the power of Bugs+ In VR!
+* **Immersive Notifications** - Immersive Notifications will appear right in front of you and are different from the built in notifications that is included in every Bugs+ application. You can turn them off and on from the Action Bar, or from Settings. They are on by default, and you will never miss the time to unleash the power of Bugs+ In VR.
 * **And Much More** - We will be adding more along the way, so stay tuned!
 
 **Will All Features Be Available In Bugs+ In VR?**
@@ -293,7 +295,8 @@ There is multiple sections in Bugs+ In VR Settings, including:
 * **Immersion Level** - Here you can set how immersed you want to be. By default if you don’t change it is More Immersion. You can set it to Less Immersion (things may not be immersive as documented) or More Immersion. Both are very safe anyways, so you are less likely to get hurt.
 * **Immersive Notifications** - This lets you set if Immersive Notifications will show up or not. You can set it to Immersive Notifications and Normal Notifications or Normal Notifications Only. Normal notifications are the ones you can see from the Notification bell on the Home tab in the sidebar (the house icon), and the ones that you can see on all your devices, but don’t pop up. This is on by default.
 * **Headset Type** - Here you can set if you are using a DIY headset or a Non-DIY Approved Headset. Please be honest, choosing the wrong one may make the experience weird.
-* **Show Trading Cards Count On Homepage** - This is the familiar feature where you can show the trading cards count on your homepage if you want. This is off by default.
+* **Homepage Environment** - Here you can set the Immersive Environment, turn on Show Trading Cards Count On Homepage or manage immersive objects.
+* **Show Trading Cards Count On Homepage** - This is located in Immersive Environment, so not a seperate area in Settings, but we wanted to show it off anyway. This is the familiar feature where you can show the trading cards count on your homepage if you want. This is off by default.
 * **Environment setup** - Switch boundaries and more specially for your VR unleashage space and environment.
 * **Unpair** - This unpairs the headset from the BugID and takes you back to the Headset setup screen. This will also reset the Bugs+ In VR settings for the headset.
 
@@ -503,6 +506,210 @@ If you want to do it manually, you can leave this off and enable Passthrouhg you
 
 * Immersive Material Exchange
 * BugOn 2025 Full Screen Announcements (discontinued since BugOn ended)
+
+</details>
+
+**Immersive Environments & Homepage Environment**
+
+<details>
+
+<summary>Change your Homepage Environment</summary>
+
+When you are not immersed in any full screen immersive experience, your Immersive Environment will show up. A Immersive Environment is a dedicated virtual space for use when there is no full screen immersive experience. It is like a background on a device, but immersive and 3D. The menu will also appear right in front of you. This won’t show if Passthrough is enabled, since when enabled, Passthrough uses your device back camera to make the environment or show your surroundings.
+
+For example, there could be an outdoors area with lots of bugs. This feature is to make it feel like you are in a world you actually like and make it feel like you are still in Bugs+.
+
+**What environments are there?**
+
+You can choose from:
+
+* **Flapping Butterflies** - This will show lots of butterflies flapping around. (default)
+* **Creepy Spiders** - This will show spiders with spider webs. Note that this may be scary for some users.
+* **Praying Mantises** - This will show praying mantises catching annoying flies and eating them in the background. The annoying flies won’t go near you, they are just a background element.
+
+You can also change the environment to make it look better.
+
+**To do this, follow these steps:**
+
+1. On your Bugs+ In VR, go to the Settings tab in the sidebar (the gear icon), or use the Action Bar and select Settings.
+2. Press Homepage Environment
+3. Select from Flapping Butterflies, Creepy Spiders or Praying Mantises.
+
+</details>
+
+<details>
+
+<summary>Show the number of trading cards on your Homepage in Bugs+ In VR</summary>
+
+You can show the amount of trading cards you have on the Home tab on the sidebar in Bugs+ In VR. This is off by default, but you can turn it back on or off again.
+
+**To do this, follow these steps:**
+
+1. On your Bugs+ In VR, go to the Settings tab in the sidebar (the gear icon), or use the Action Bar and select Settings.
+2. Press Homepage Environment
+3. Select Show Trading Cards Count On Homepage
+
+</details>
+
+<details>
+
+<summary>Manage and use Immersive Objects</summary>
+
+We will talk about Immersive Objects soon, but you can also manage what immersive objects you want to appear in your Immersive Environment.
+
+**To do this, follow these steps:**
+
+* On your Bugs+ In VR, go to the Settings tab in the sidebar (the gear icon), or use the Action Bar and select Settings.
+* Press Homepage Environment
+* Press Manage Immersive Objects
+* Press Add, Remove & Arrange Objects
+* Manage the immersive objects, add them, remove them, rearrange them and more.
+
+We will share more Immersive Objects settings soon.
+
+</details>
+
+<details>
+
+<summary>You can also manage other things relating to the Immersive Environment</summary>
+
+There are many other settings we may of not documented, check them out and unleash the power of them! We may also share some more settings in this area later on in this post as well.
+
+</details>
+
+**Immersive Objects in your Immersive Environment**
+
+On your Immersive Environment, there may be objects other than the Bugs+ Menu. These are called Immersive Objects. They may be able to let you take action quickly, or give you helpful information. These are inspired by Hub Mode widgets. You can also check these while immersed as well.
+
+<details>
+
+<summary>What Immersive Objects can I add?</summary>
+
+You can currently add these objects to your Immersive Environment:
+
+* **Bug Points, Stars & Levels & XP count** - Quickly check on your resources to plan what you will do next, without digging through menus. (yes, it’s a combined widget, but it may not have other things like Refund Credits and Materials)
+* **Daily Quests Status** - Quickly check if there are new quests, or if you have completed some and need to claim the rewards. Inspired by the Hub Mode widget. It also includes an Action Button to go to the Daily Quests area and  claim rewards (it will do if for you as soon as you press the button) or go to the Daily Quests area to see your quests list.
+* **Immersive Material Exchange Portal** - This features a large Action Button, that when used, will quickly teleport you to the Material Exchange workshop. The portal also shows reminders when the workshop needs attention, like since an item has finished crafting since you last went in the workshop recently.
+* **Unlocked Tips, Tricks & Info Reminders** - This object cycles through your Unlocked Tips, Tricks & Info Reminders and shows it on the object for easy looking. The tip on the object changes every once in a while while you play, and shows three tips at once. It also features an Action Button to quickly go to the Unlocked Tips, Tricks & Info menu.
+* **Quiz Of The Day** - Shows the Quiz Of The Day on the object, which is the quiz of the day that appears on all your Bugs+ Applications, like in the main Bugs+ application. This is a perfect object to use and unleash the power of since Quiz Of The Day quizzes give you double points, and more Stars opportunities. It also features an Action Button to quickly start the current Quiz Of The Day.
+* **Refund Heads-Up** - This object shows any pending refund timers if any. It also includes an Action Button to go to the Cards To Be Refunded. When idle, it tells you that a refund may be waiting for you.
+
+</details>
+
+<details>
+
+<summary>Check Immersive Objects quickly when immersed</summary>
+
+As well as Immersive Objects showing up on your Immersive Environment, you can use and check Immersive Objects while in a full screen experience. You can do this by opening the Action Bar, and the Immersive Objects will appear on the left and right of the action menu that appears.
+
+If you would rather only have your actions in the action menu, you can turn this setting off by following these steps:
+
+1. On your Bugs+ In VR, go to the Settings tab in the sidebar (the gear icon), or use the Action Bar and select Settings.
+2. Press Homepage Environment
+3. Press Manage Immersive Objects
+4. Tap Where Immersive Objects Can Be Found
+5. Turn off Show Immersive Objects In Action Menu (you can also turn it back on)
+
+Note that some Immersive Objects may close off what you are currently doing.
+
+</details>
+
+<details>
+
+<summary>About Action Buttons on Immersive Objects</summary>
+
+Immersive Objects can have buttons on them, which is called Action Buttons. They let you quickly take action, or open menus. An example of a notable Action Button is for the **Daily Quests Status** object, where you can quickly claim rewards and open your quests list.
+
+To interact with an Action Button, look at it for 2 seconds or click on it with your controller.
+
+</details>
+
+<details>
+
+<summary>Rearrange &#x26; Edit Immersive Objects</summary>
+
+You have total control over your Immersive Objects, including the position and what widgets show.
+
+**To do this, follow these steps:**
+
+* On your Bugs+ In VR, go to the Settings tab in the sidebar (the gear icon), or use the Action Bar and select Settings.
+* Press Homepage Environment
+* Press Manage Immersive Objects
+* Press Add, Remove & Arrange Objects
+* Manage the immersive objects, add them, remove them, rearrange them and more.
+
+</details>
+
+<details>
+
+<summary>What is the order of Immersive Objects showing?</summary>
+
+Immersive Objects will always show in the following positions, so it’s a good idea to unleash the power of this knowledge.
+
+1. **The first object on the list you chose** - The first widget arranged on the list, will always appear on a bit on the left of the Bugs+ Menu in the Immersive Environment.
+2. **The second object on the list you chose** - The second widget arranged on the list, will always appear on a bit on the right of the Bugs+ Menu in the Immersive Environment.
+3. **The third object on the list you chose** - The third widget arranged on the list, will always appear on more of the left of the first object.
+4. **The fourth object on the list you chose** - The fourth widget arranged on the list, will always appear on more of the right of the second object.
+
+</details>
+
+<details>
+
+<summary>Manage when Immersive Objects appear on the Immersive Environment</summary>
+
+You can choose when you want Immersive Objects to even show in your Immersive Environment, which could help control object clutter.
+
+**You can choose from:**
+
+* **Appear all the time when in the Immersive Environment** - This will show your Immersive Objects as soon as you open your Immersive Environment, and hide the widgets when you are not in your Immersive Environment. This is the default setting.
+* **Show the first object added, and show more when the Immersive Objects menu is opened** - This will show the first object added to the list in your Immersive Environment all the time, and to show more, you can look at the Show Immersive Objects button that will appear in the environment for 2 seconds or select it with your controller. Immersive Objects will show for 12 seconds in this mode then minimise again after.
+* **Require Immersive Objects menu to be open to show widgets** - This will hide all widgets on your Immersive Environment initially. To temporarily show widgets, you can look at the Show Immersive Objects button that will appear in the environment for 2 seconds or select it with your controller. Immersive Objects will show for 21 seconds in this mode then minimise again after.
+
+**To change this, follow these steps:**
+
+1. On your Bugs+ In VR, go to the Settings tab in the sidebar (the gear icon), or use the Action Bar and select Settings.
+2. Press Homepage Environment
+3. Press Manage Immersive Objects
+4. Tap Where Immersive Objects Can Be Found
+5. Select when Immersive Objects should show in the environment.
+
+</details>
+
+<details>
+
+<summary>What Objects are added by default?</summary>
+
+The **Bug Points, Stars, Levels & XP Object** is added by default, but you can change it, add more Objects, or remove it.
+
+</details>
+
+<details>
+
+<summary>About suggestions for adding new Objects</summary>
+
+Sometimes when you use a feature in Bugs+ In VR, the game may suggest thst the widget associated with that should be added. When that happens, you will get a small popup, with the options to Add Object, or Ignore. The suggestion will only appear up to 3 times per Object type. After Ignoring it once, Bugs+ In VR will suggest it later on until you keep Ignoring it. After Ignoring it twice, Bugs+ In VR will suggest it in a couple of weeks or months when relevant.
+
+You can also turn off these suggestions if they are annoying, by following these steps:
+
+1. On your Bugs+ In VR, go to the Settings tab in the sidebar (the gear icon), or use the Action Bar and select Settings.
+2. Press Homepage Environment
+3. Press Manage Immersive Objects
+4. Tap Suggestions for new Immersive Objects
+5. Select if and when Suggestions should appear. You can select from:
+
+* **Show suggestions when necessary** - This will show suggestions when it’s recommended that you should add a specific widget. This is the default.
+* **Show suggestions, but stop showing after ignoring once** - This will show suggestions when needed, but ignoring it once will stop showing that specific suggestion altogether.
+* **Suggestions disabled** - This will not show the Immersive Objects suggestions at all.
+
+</details>
+
+<details>
+
+<summary>How many objects can I add at once?</summary>
+
+You can add up to **4 objects** at once. There is no such thing as unlocking a fifth object at once in Bugs+ In VR.
+
+Make sure to use space wisely and avoid clutter. For users new to Bugs+ In VR, we recommend starting off with **one widget**, this is not enforced, but recommended. For users that have got the hang of Bugs+ In VR but are not advanced yet, we recommend having **two or three widgets**. For advanced users in Bugs+ In VR, we recommend having **three or four widgets**. It’s up to you, but these are just recommendations.
 
 </details>
 
