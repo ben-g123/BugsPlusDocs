@@ -124,6 +124,7 @@ Currently, you will be able to craft:
 * Bundles of Tips (available in 3 or 6 tip packs)
 * Guaranteed High-Value Info Guide (this is the treasure map we mentioned, crafting this gets you one treasure map guide)
 * Immediate Refund Skip Vouchers - Comes in packs of 2, although rarely, as a special event we may increase it to a 4 voucher value pack (any special events containing the 4 voucher value pack is not confirmed yet). This is a new feature we are adding which lets you skip the refund timer, it’s provided as a Bug Points alternative. It will appear as a payment option when looking at the In A Rush on a newer version confirmation screen.
+* Social Vouchers - we will get that soon
 
 **How to craft an item**
 
@@ -165,6 +166,7 @@ _Other items crafting time:_
 * 6 Tips Bundle: 30 minutes - Uses 13 materials (value pack)
 * Guaranteed High-Value Info Guide - 3 hours - Uses 32 materials
 * Immediate Refund Skip Voucher (2 pack) - 1 hour - Uses 15 materials
+* Social Voucher - 25 minutes - Uses 7 Materials
 
 **Will I be able to rush the timer?**
 
@@ -888,7 +890,7 @@ Yes, it is. Unleash HQ is a shared Immersive Environment.
 
 **How many Players can be in a single Unleash HQ?**
 
-A single Unleash HQ can have up to 9 players. If someone joins after 9 players, a new seperate Unleash HQ will be created.
+A single Unleash HQ can have up to 9 players. If someone joins after 9 players, a new seperate Unleash HQ will be created. However, users can use Social Vouchers (which we will get to soon) to expand the size of the Unleash HQ they are in.
 
 **How to Friend someone while in a Unleash HQ**
 
@@ -1003,7 +1005,7 @@ Community Crafting Sessions are normally found in the Unleash HQ, but it can als
 
 **How do I create an Unleash Room with my friends?**
 
-You can create an Unleash Room with 2 to 4 friends on your Friends List (including you, so you can even have 1 on one sessions if you want). You will be able to do lots of things with your friends in this private room. To do this, follow these steps:
+You can create an Unleash Room with 2 to 4 friends (or add more than 4 friends by expanding the room size with Social Vouchers) on your Friends List (including you, so you can even have 1 on one sessions if you want). You will be able to do lots of things with your friends in this private room. To do this, follow these steps:
 
 1. If you are on Bugs+ In VR, go to the Home tab on the sidebar (the house icon) and press the Social Features & Bugs+ HQ floating bar. If you are on Desktop, go to the Community Tab.
 2. Press Unleash Rooms
@@ -1087,9 +1089,24 @@ Scrolling Feed entries stay active for up to 4 days, then it will be removed. Wo
 
 No, you don’t! You can use a Desktop, but since some of the social features are optimized for Bugs+ In VR, some features may be in different areas, may be 2D or may not work. We recommend using Bugs+ In VR when available, but you can still use a Desktop.
 
+**About Social Vouchers**
+
+Social Vouchers are a craftable item that lets you do lots of extra things (once off per voucher) on Unleash HQ and Unleash Rooms - and it is cheap to. When a voucher is used the actions associated with will be done and that specific voucher will be gone, but you can get more or use other ones you have.
+
+Social Vouchers can:
+
+* **Rush Community Crafting Sessions** - As an alternative for rushing timers in Community Crafting Sessions, you can also use 1 Social Voucher to rush 1 whole timer. It is like reserving specific materials for Social Features only. You also save 3 materials, so it is also a value pack.
+* **Expand The Size Of Unleash Rooms** - You can use a Social Voucher to allow up to 7 players instead of 4 once.
+* **Expand the size of the Unleash HQ** - When the space is filling up (there is 7 or more players) you can use a Social Voucher to temporarily expand the maximum players of the Unleash HQ you are in to 18 players instead of 9. As well as that, the system will temporarily prefer to let new players join the one you are in.
+* **Give a boost to everyone in the same Unleash HQ as you** - If you are feeling nice, you can cash in one of your Social Vouchers to give everyone a Gift Box with 1000 Bug Points, 10 stars, 25 materials, a Rare trading card and a Tip. And, it does not drain your resources instead it uses the Social Voucher you cashed in as payment. The game will remind you every 7 minutes if you want to send a boost (reminders will only send if you have a Social Voucher)
+
+To use them, when an opportunity hits time, you will be prompted.
+
 **About the Social Area on the Navigator in Bugs+ In VR**
 
 We are planning to migrate the Community tab on Bugs+ In VR to the Social Area. This is an immersive area where you can launch social features, just like the Community Tab.
+
+This is a tiny change, it’s not worth nothing about just yet, but maybe later. Probably not a good idea to share with your friends. There are many other better features that you can be talking about instead, like Unleash HQ and Unleash Rooms.
 
 Some users have got the update automatically, the Community tab will go away shortly (only in Bugs+ In VR), but currently going on the Community tab will tell you that the tab is moving.
 
