@@ -2,7 +2,7 @@
 
 A free update in Bugs+ is coming soon at 19th November 2025, with some new features coming that may totally change how you play Bugs+. Let’s talk about what we will be adding. Even though Bugs+ is free, we call it a free update to confirm to users they don’t need to pay anything to unlock the features of the update when it releases.
 
-We are introducing 7 new major features that will totally change how you use Bugs+, but in a good way. You will definitly want to see this! It gotta help you unleash the power of Bugs+!
+We are introducing 7 new major features that will totally change how you use Bugs+, plus 1 ease of use improvement, but in a good way. This makes a total of 8 useful features. You will definitly want to see this! It gotta help you unleash the power of Bugs+!
 
 ### Difficulty Setting
 
@@ -1111,6 +1111,50 @@ This is a tiny change, it’s not worth nothing about just yet, but maybe later.
 Some users have got the update automatically, the Community tab will go away shortly (only in Bugs+ In VR), but currently going on the Community tab will tell you that the tab is moving.
 
 For the first time, going on the new Social Area will show online friends, plus if there are lots of people currently in the Unleash HQ, all without going to other menus. Just tap an online friend to quickly invite them to a Room, along with other automatically selected friends.
+
+### Action Button
+
+This is the **ease of use improvement** we were talking about. This makes it easy to access actions you use a lot, all without navigating though menus. And. It is totally customizable, you can choose exactly what it does from our collection of actions.
+
+**How do I activate the Action?**
+
+You can use the Action Button in different ways, based on what device you are using.
+
+* If you are on Bugs+ In VR, and have a Bluetooth controller connected, simply press the Y button on your controller.
+* If you are on Bugs+ In VR, and don’t have a Bluetooth controller connected (and are using look for 2 seconds to select), look down at the A button at the ground, and look at it for 2 seconds to select. You can also do this in Bluetooth mode, as well as looking for 2 seconds to select.
+* If you are on Desktop, simply press A 3 times on your keyboard. Sometimes a A icon will appear encouraging you to use your action, you can also click it to use the Action.
+
+**What is the default action?**
+
+* By default on Bugs+ In VR, the general action is set to Turn Passthrough On Or Off. This is a big unleashing key for safety.
+* But, by default on Desktop, it will open your Collection tab. This may close off what you are doing, but sometimes in quizzes it will give you a quick overview on your Collection.
+* By default in Social Activities like Unleash HQ and Unleash Rooms, it will High Five the nearest player to you without confirmation.
+* By default while crafting, it will Rush All Crafting sessions. You don’t need a portable crafting table for this action if you are in the Crafting menu or Immersive Material Exchange.
+* However, these can be changed.
+
+**How can I change the Action Button‘s action?**
+
+You can select actions for these categories. Categories come in handy when selecting what Action should be done at what time:
+
+* **General** - This will apply when you are in any activity except activities that are eligible for another category. Useful for spawning quick commands whenever you need it.
+* **HQ & Social** - This will apply when at the Unleash HQ, or when in Unleash Rooms.
+* **Crafting** - This will apply while you are Crafting something.
+
+**But, what if someone uses it to spam high fives?**
+
+If someone tries to spam high fives, either with the action button or manually, Investigate & Report them (or on desktop, Report A Player). This is one of the many reasons for reporting.
+
+**How can I change the Action Button?**
+
+To change the Action button, go to Settings, select  Action Button, then:
+
+* Pick a Action for General
+* Pick an Action for HQ & Social
+* Pick an Action for Crafting
+
+**What types of actions can I choose from?**
+
+We have a wide range of actions, from doing high fives and rushing craft timers to using the AI refund assistant, we have as many as you can think of! Plus, contact support if you need an action we don’t have, and we will add it for you, plus everyone who needs it!&#x20;
 
 ### Update Coming Soon!
 
