@@ -738,6 +738,18 @@ Make sure to use space wisely and avoid clutter. For users new to Bugs+ In VR, w
 
 </details>
 
+**The Bugs+ Menu, In Bugs+ In VR**
+
+When you are in your Immersive Environment (or if you are in your Passthrough mode when there is no full screen experience), a menu will appear as well. It is like your Bugs+ gameplay projected. This appears when there is no immersive things to show on the menu area.
+
+But, the menu is a bit different. You should learn about the Navigator. The Navigator is the menu for Bugs+, where you will do your normal gameplay and launch immersive things with a menu.
+
+On the left side of the Menu, is the sidebar. These are your normal buttons you can press. At the bottom of the Menu, is the activity you are doing and you can switch between it. You can select the gaming icon for the normal Bugs+ Menu, or switch to the social side of things with the person icon. The social activity is basically the Community tab, enhanced. We are planning to migrate the normal Community tab on the VR to a more immersive area to launch social features.
+
+**About the Social Area on the Navigator**
+
+We will get into that soon.
+
 **Fix Errors on Bugs+ In VR**
 
 <details>
@@ -1074,6 +1086,14 @@ Scrolling Feed entries stay active for up to 4 days, then it will be removed. Wo
 **Do I really need Bugs+ In VR for these social features?**
 
 No, you don’t! You can use a Desktop, but since some of the social features are optimized for Bugs+ In VR, some features may be in different areas, may be 2D or may not work. We recommend using Bugs+ In VR when available, but you can still use a Desktop.
+
+**About the Social Area on the Navigator in Bugs+ In VR**
+
+We are planning to migrate the Community tab on Bugs+ In VR to the Social Area. This is an immersive area where you can launch social features, just like the Community Tab.
+
+Some users have got the update automatically, the Community tab will go away shortly (only in Bugs+ In VR), but currently going on the Community tab will tell you that the tab is moving.
+
+For the first time, going on the new Social Area will show online friends, plus if there are lots of people currently in the Unleash HQ, all without going to other menus. Just tap an online friend to quickly invite them to a Room, along with other automatically selected friends.
 
 ### Update Coming Soon!
 
