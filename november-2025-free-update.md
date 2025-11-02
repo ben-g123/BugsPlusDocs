@@ -2,7 +2,7 @@
 
 A free update in Bugs+ is coming soon at 19th November 2025, with some new features coming that may totally change how you play Bugs+. Let’s talk about what we will be adding. Even though Bugs+ is free, we call it a free update to confirm to users they don’t need to pay anything to unlock the features of the update when it releases.
 
-We are introducing 7 new major features that will totally change how you use Bugs+, but in a good way. You will definitly want to see this!
+We are introducing 7 new major features that will totally change how you use Bugs+, but in a good way. You will definitly want to see this! It gotta help you unleash the power of Bugs+!
 
 ### Difficulty Setting
 
@@ -225,6 +225,25 @@ To do this, follow these steps:
 
 Buying materials with Bug Points or Stars will only show in Ways To Get Materials or in Bugs+ In VR if you have less than 55 Materials.
 
+**About the Portable Crafting Table**
+
+A new item as part of the Crafting System, we are adding in the free update is a Portable Crafting Table. It is available from the Bug Point Shop for only 2000 Bug Points. Unlocking it once, will unlock it for the lifetime of the Portable Crafting Table.
+
+The Portable Crafting Table has lots of catches and limits, but it may help you in a quick rush situation, which is part of unleashing the power of Bugs+.
+
+To open it, you can press the C button 3 times to bring up the Portable Crafting Table. On Bugs+ In VR, you can go to the Action Bar and press Portable Crafting Table.
+
+Here is a list of the available features in the Portable Crafting Table:
+
+* **Start Crafting** - Here you can open a mini window where you can start crafting items and select things to craft. But, the catch is that you can only craft Trading Cards that are Common, Uncommon, or Rare, Daily Quest Refreshers, Bug Points bundle of 1000, or Tip Bundles of 3.
+* **Rush All Timers** - Here you can Rush Legandary, Ultra Legandary or limited Cards quickly without closing off the menu, or any other item if you don’t care about the window closing or not. Rushing other cards will close off the menu.
+* **Upgrade Crafting Limits** - Here you can upgrade your crafting limits remotely. You can only do this for the first two upgrades, then the 3rd upgrade will close off what you are doing and take you to Material Exchange to show a celebration message.
+* **Open Material Exchange** - This is your quick portable portal to Material Exchange. No matter where you are, you can open Material Exchange.
+* **Call Community Crafting Meeting** - This will remotely call a Community Crafting Meeting from where rather you are in the Unleash HQ. Can only be used in Unleash HQ.
+* **Cash In Materials For Community Crafting** - This is the only option available when a Community Crafting session is in progress. This lets you cash in Materials from weather you are on in the Unleash HQ. Can only be used when a Community Crafting session is in progress in an Unleash HQ.
+
+However, after 18 unleashes, the Portable Crafting Table will automatically break and smash itself. This means, you will be prompted to get a new one, and you can’t use it until you go to the Bug Point shop and spend your Bug Points on it. However, 18 uses is a great deal!
+
 ### Bugs+ In VR
 
 We are happy to introduce that Bugs+ has now been expanded to VR headsets. When the update releases, to get started with VR, you need to print out the DIY headset and glue and fold it together, or use a Non-DIY Approved Phone Headset. We don’t sell VR headsets for users, but we will provide the template to print out. Bugs+ in VR is not a required feature, but still more than an add on.
@@ -348,6 +367,7 @@ You can change these without going anywhere else:
 * **Immersion Level** - Quickly Change your Immersion level to either Less Immersion or More Immersion without leaving the menu.
 * **Immersive Notifications** - Quickly turn on or off Immersive Notifications, like if you are ready to get them or don’t want to be distracted.
 * **Passthrough Mode** - This turn in your phone’s back camera to your surroundings in the background VR environment, and if Passthrough Mode is on already, it will turn it off. While using this mode, the boundary will get bigger since you can see your surroundings.
+* **Portable Crafting Table** - This lets you use the functions of the Portable Crafting Table item. Only shows if you have the item in your inventory.
 * **Respawn** - Appearing on only Unleash HQ and Unleash Rooms, this lets you respawn back to the main area, the Menu, without leaving. Only appears in Unleash HQ and Unleash Rooms.
 * **Respawn & Leave** - This Leaves the Unleash HQ or Unleash Room and respawns back to the Menu. Only appears in Unleash HQ and Unleash Rooms.
 * **Investigate & Report** - This lets you Report another user who is being bad. Only appears in Unleash HQ and Unleash Rooms.
