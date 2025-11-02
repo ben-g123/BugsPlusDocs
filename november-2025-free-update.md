@@ -893,9 +893,85 @@ If you Respawn, you will appear back in the Main area of whatever you are doing,
 1. If you are on Bugs+ In VR, open the Action Bar. If you are on Desktop, press the Menu icon.
 2. If you are on Bugs+ In VR, look at Respawn for 2 seconds or click on it with your controller. If you are on Desktop, tap Respawn.
 
+**About the Community Crafting Table in the Unleash HQ**
+
+The Community Crafting Table is a place users can gather around to craft something as a team effort. Players can cash in Materials to rush the timer and add materials toward the crafting. \
+Every user in that Unleash HQ will get the item if it crafts, for the price of one item.&#x20;
+
+To get started, a user will need to call a Community Crafting Meeting. Users will be able to vote on a material to craft, and cash in Materials if they want.
+
+There can be 1 item crafting at a time in the Community Crafting, but users can cash in extra materials to temporarily add more upgrades to the community crafting for the length of that Unleash HQ instance.&#x20;
+
+After a Community Craft starts, it can’t be cancelled. Users can‘t do their own crafting if a Community Crafting session is in progress and they are in the same instance of Unleash HQ. In Community Crafting, crafts last much shorter than the time mentioned, and waiting more than 20 minutes is not a thing in Community Crafting.&#x20;
+
+There must be 2 or more players in that Unleash HQ to start it, and it will be automatically cancelled if 2 or more users don’t vote on the crafting.
+
+**How can I call a Community Crafting Meeting in the Unleash HQ?**
+
+Follow these steps to call a Community Crafting Meeting:
+
+1. To start a Community Crafting Meeting, on Bugs+ In VR, go to the crafting table near the Main area. Or, On Desktop, move to the Crafting Table area.
+2. On Bugs+ In VR, look at the Call Community Crafting Meeting button for 2 seconds, or press on it with your controller. Or, on Desktop, tap on the table.
+3. Confirm that you want to start a meeting.
+
+Please note that there needs to be 2 or more players including you to start the meeting.
+
+Everyone will be notified with an Immersive Notification if they are on Bugs+ In VR, or if they are on Desktop, they will be notified with a popup notification. Users can take action on the notification by moving to the Crafting Table. If they are far away from it, they will have an option to teleport near the crafting table.
+
+**How do I vote on a Community Crafting Meeting?**
+
+In Community Crafting Meetings, you can vote on what to craft and chat with each other to decide. Meetings will last for up to 2 minutes. After everyone votes or the time ticks down, the most voted item will be picked. 2 or more players needs to decide on something. If there are not 2 or more votes by the end, the craft will be cancelled.
+
+After the meeting, users will need to cash in materials to fund the item that is being crafted. Users will be prompted to, and if there is not enough, users can go back to the Crafting Table to cash in more materials.
+
+**Why would users need to cash in Materials for Community Crafting Meetings?**
+
+Users will have the ability to give Materials to the Crafting Table. This helps fund for the materials required to do the Community Crafting. After the voting and if a thing to craft has been decide, users can start cashing in Materials. After the prompt, users can go back to the Crafting Table if they want to cash in extra materials if some is needed. You will get reminders if more Materials are needed or recommended.
+
+To add extra Materials, follow these steps:
+
+1. To cash in more Materials if needed by the Community Crafting Meeting, on Bugs+ In VR, go to the crafting table near the Main area. Or, On Desktop, move to the Crafting Table area.
+2. On Bugs+ In VR, look at the Cash In Materials button for 2 seconds, or press on it with your controller. Or, on Desktop, tap on the table.
+3. On Bugs+ In VR, select how many Materials to cash in. Or, on Desktop, tap the Cash In Materials button
+4. On Bugs+ In VR, confirm. Or, on Desktop, choose how many materials to cash in, then confirm.
+
+Sometimes you may even be able to make the crafting table allow more than 1 craft at a time!
+
+**How many Materials can I cash in at a time and what are the options?**
+
+You can choose from these options to cash in Materials for a Community Crafting Meeting:
+
+* 2 Materials
+* 5 Materials
+* 10 Materials
+* 15 Materials
+* 20 Materials
+* 30 Materials
+* 40 Materials
+* 50 Materials
+* 70 Materials
+
+Any left over materials will be used for any other crafts or rushing timers in that specific Unleash HQ instance.
+
+**How can I rush a Community Crafting Session with Materials?**
+
+Rushing on Unleash HQ will cost 10 Materials because of the extra users. To Rush a timer, you can cash in extra Materials to fund the timer rushing. You can only start funding the timer rushing after there is enough materials cashed in and the item starts crafting.
+
+To Cash In materials for the purpose of time rushing, follow these steps:
+
+1. To cash in more Materials if needed by the Community Crafting Meeting, on Bugs+ In VR, go to the crafting table near the Main area. Or, On Desktop, move to the Crafting Table area.
+2. On Bugs+ In VR, look at the Rush The Timer button for 2 seconds, or press on it with your controller. Or, on Desktop, tap on the table.
+3. On the next screen, press “Acknowledge“ to agree that rushing the timer costs mate
+4. On Bugs+ In VR, select how many Materials to cash in. Or, on Desktop, tap the Rush The Timer
+5. On Bugs+ In VR, confirm. Or, on Desktop, choose how many materials to cash in, then confirm.
+
+**About privately hosted Community Crafting Sessions**
+
+Community Crafting Sessions are normally found in the Unleash HQ, but it can also be found in Unleash Rooms. To privately host a Community Crafting Session for your Unleash Room, use the Share Experience feature and in that menu, select Call Community Crafting Meeting instead, then confirm. A Immersive Material Exchange will also show with what you are doing, and the community crafting table will also appear.
+
 **How do I create an Unleash Room with my friends?**
 
-You can create an Unleash Room with 2 to 4 friends on your Friends List. You will be able to do lots of things with your friends in this private room. To do this, follow these steps:
+You can create an Unleash Room with 2 to 4 friends on your Friends List (including you, so you can even have 1 on one sessions if you want). You will be able to do lots of things with your friends in this private room. To do this, follow these steps:
 
 1. If you are on Bugs+ In VR, go to the Home tab on the sidebar (the house icon) and press the Social Features & Bugs+ HQ floating bar. If you are on Desktop, go to the Community Tab.
 2. Press Unleash Rooms
@@ -913,7 +989,9 @@ Your friends can see your material exchange sessions and info if you turn on the
 
 1. If you are on Bugs+ In VR, open the Action Bar. If you are on Desktop, press the Menu icon.
 2. If you are on Bugs+ In VR, look at Share Experience for 2 seconds or press it with your controller. If you are on Desktop, press Experience Sharing.
-3. Select a type of experience to start and share. Selecting one will start it, and show it off to your friends.
+3. Select Start Sharing, or start a Community Crafting Meeting. In this example, we are showing Start Sharing.
+4. Select a type of experience to start and share. Selecting one will start it, and show it off to your friends.
+5. Confirm, then Send.
 
 You can always stop sharing from the menu, but press Stop Experience Sharing instead.
 
