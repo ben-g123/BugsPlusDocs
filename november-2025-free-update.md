@@ -920,12 +920,41 @@ Follow these steps to do this:
 2. If you are on Bugs+ In VR, look at Respawn & Leave for 2 seconds or select it with your controller. If you are on Desktop, press Leave This Bugs+ HQ.
 3. Confirm that you want to leave.
 
+Note that this will do the **Running Away** emote and if the player who leaves is the last player to leave, any Community Crafts that have unused cashed in Materials, will not be refunded.
+
 **How do I respawn in an Unleash HQ or Unleash Room?**
 
 If you Respawn, you will appear back in the Main area of whatever you are doing, so you can go back to your Bugs+ Menu on VR, or meet up with a friend on VR or Desktop. To do this, follow these steps:
 
 1. If you are on Bugs+ In VR, open the Action Bar. If you are on Desktop, press the Menu icon.
 2. If you are on Bugs+ In VR, look at Respawn for 2 seconds or click on it with your controller. If you are on Desktop, tap Respawn.
+
+**How to use the Emotes Wheel**
+
+You can use the Emotes system to unleash the power of some fun and show your reactions. Emotes stay up for 6 seconds, then vanish, and show near the Avatar that did it.
+
+To use an Emote, open the Chat menu, then press Emotes on Bugs+ In VR (or on Desktop, press the the smile icon, no need to go in the Chat menu). Then, select the Emote you want to use.
+
+**What emotes can I use?**
+
+Here is a list of the emotes you can use in the Emotes Wheel:
+
+* **Immersive High Five** - This makes your Avatar start to get ready to High Five. Players can join in the High Five by pressing High Five Back on the Immersive Notification. When another player high fives the other player, the high five will hold in after doing it. You can stop holding the high five by pressing Done. Holding the high five for 2 seconds will send a Friend Request to the other user, and it being automaticity accepted. This adds more fun to the High Five system.
+* **Love Heart** - This shows a Love Heart next to the user who did the Emote.
+* **Smile** - This shows a smile face next to the user who did the emote.
+* **Unleash It!** - This emote shows a dog and a bug getting unleashed. Useful for when talking about unleashing the power of Bugs+.
+
+**When do Emotes automatically get used?**
+
+Sometimes, Emotes may be automatically used to celebrate certain things. Here is a list of when this happens:
+
+* **Running Away** - When a player uses Respawn & Leave, or the leave function in general, shows the user saying Bye Bye, see you later, then they will run, then they will leave.
+* **Celebration Clapping** - When someone accepts a friend request, and the person who sent it is in the same Unleash HQ or Unleash Rooms, or uses High Five and it involves a friend request being accepted, both the users will start clapping for a bit, and a big banner saying that they became friends together will fly up, then disappear after a few seconds.
+* **Confetti** - This happens when someone finishes a big high value personal craft or refund, eligible for the Scrolling Feed or Worlds Replay, or when any Community Crafting is completed. Confetti will rain down from the sky for a bit, and a gigantic banner will show up showing info about the achievement. Unlike other Emotes, this Emote stays active for 12 seconds, plus gives everyone an Immersive Notification on Bugs+ In VR, or popup on Desktop.
+
+**Can I use menus while in Unleash HQ or Unleash Rooms?**
+
+Yes you can. Just go to the Bugs+ Menu are in the Main Area in Bugs+ In VR and do what you need to do, or on desktop, press the Menu icon, then press Respawn & Multitask. This will respawn you if you are not near where normally the big menu is, but you can multitask and switch screens without leaving.
 
 **About the Community Crafting Table in the Unleash HQ**
 
@@ -1012,6 +1041,10 @@ You can create an Unleash Room with 2 to 4 friends (or add more than 4 friends b
 3. Press Create Room.
 4. Select Friends to invite to the room.
 5. You will spawn in the room. Wait for your chosen friends to join. Your friends need to be online, so make sure they are online to avoid time wasting, and your friends will get an Immersive Notification or if not on Bugs+ In VR, a notification to approve or reject.
+
+**How can I invite more friends to my Unleash Room?**
+
+If you have enough slots, or are ready to cash in a Social Voucher to increase the limits, open the Action Menu (or press the Menu Icon on Desktop), then press Invite More Friends. You will be able to choose Add Friends or Cash In Social Voucher & Add Friends, then select friends to invite.
 
 **How do I join a friend’s Unleash Room?**
 
@@ -1102,15 +1135,26 @@ Social Vouchers can:
 
 To use them, when an opportunity hits time, you will be prompted.
 
-**About the Social Area on the Navigator in Bugs+ In VR**
+**About the Portable Crafting Table**
 
-We are planning to migrate the Community tab on Bugs+ In VR to the Social Area. This is an immersive area where you can launch social features, just like the Community Tab.
+Even though this may not seem related, but it is. You can use it to boost community crafts plus your personal crafts, even while in Unleash HQ and rooms.
 
-This is a tiny change, it’s not worth nothing about just yet, but maybe later. Probably not a good idea to share with your friends. There are many other better features that you can be talking about instead, like Unleash HQ and Unleash Rooms.
+A new item as part of the Crafting System, we are adding in the free update is a Portable Crafting Table. It is available from the Bug Point Shop for only 2000 Bug Points. Unlocking it once, will unlock it for the lifetime of the Portable Crafting Table.
 
-Some users have got the update automatically, the Community tab will go away shortly (only in Bugs+ In VR), but currently going on the Community tab will tell you that the tab is moving.
+The Portable Crafting Table has lots of catches and limits, but it may help you in a quick rush situation, which is part of unleashing the power of Bugs+.
 
-For the first time, going on the new Social Area will show online friends, plus if there are lots of people currently in the Unleash HQ, all without going to other menus. Just tap an online friend to quickly invite them to a Room, along with other automatically selected friends.
+To open it, you can press the C button 3 times to bring up the Portable Crafting Table. On Bugs+ In VR, you can go to the Action Bar and press Portable Crafting Table.
+
+Here is a list of the available features in the Portable Crafting Table:
+
+* **Start Crafting** - Here you can open a mini window where you can start crafting items and select things to craft. But, the catch is that you can only craft Trading Cards that are Common, Uncommon, or Rare, Daily Quest Refreshers, Bug Points bundle of 1000, or Tip Bundles of 3.
+* **Rush All Timers** - Here you can Rush Legandary, Ultra Legandary or limited Cards quickly without closing off the menu, or any other item if you don’t care about the window closing or not. Rushing other cards will close off the menu.
+* **Upgrade Crafting Limits** - Here you can upgrade your crafting limits remotely. You can only do this for the first two upgrades, then the 3rd upgrade will close off what you are doing and take you to Material Exchange to show a celebration message.
+* **Open Material Exchange** - This is your quick portable portal to Material Exchange. No matter where you are, you can open Material Exchange.
+* **Call Community Crafting Meeting** - This will remotely call a Community Crafting Meeting from where rather you are in the Unleash HQ. Can only be used in Unleash HQ.
+* **Cash In Materials For Community Crafting** - This is the only option available when a Community Crafting session is in progress. This lets you cash in Materials from weather you are on in the Unleash HQ. Can only be used when a Community Crafting session is in progress in an Unleash HQ.
+
+However, after 18 unleashes, the Portable Crafting Table will automatically break and smash itself. This means, you will be prompted to get a new one, and you can’t use it until you go to the Bug Point shop and spend your Bug Points on it. However, 18 uses is a great deal!
 
 ### Action Button
 
