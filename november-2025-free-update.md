@@ -2,7 +2,7 @@
 
 A free update in Bugs+ is coming soon at 19th November 2025, with some new features coming that may totally change how you play Bugs+. Let’s talk about what we will be adding. Even though Bugs+ is free, we call it a free update to confirm to users they don’t need to pay anything to unlock the features of the update when it releases.
 
-We are introducing 7 new major features that will totally change how you use Bugs+, plus 1 ease of use improvement, but in a good way. This makes a total of 8 useful features. You will definitly want to see this! It gotta help you unleash the power of Bugs+!
+We are introducing 7 new major features that will totally change how you use Bugs+, plus 2 ease of use improvements, but in a good way. This makes a total of 9 useful features. You will definitly want to see this! It gotta help you unleash the power of Bugs+!
 
 ### Difficulty Setting
 
@@ -1198,7 +1198,66 @@ To change the Action button, go to Settings, select  Action Button, then:
 
 **What types of actions can I choose from?**
 
-We have a wide range of actions, from doing high fives and rushing craft timers to using the AI refund assistant, we have as many as you can think of! Plus, contact support if you need an action we don’t have, and we will add it for you, plus everyone who needs it!&#x20;
+We have a wide range of actions, from doing high fives and rushing craft timers to using the AI refund assistant, we have as many as you can think of! Plus, contact support if you need an action we don’t have, and we will add it for you, plus everyone who needs it!
+
+### Personal Dog
+
+Another useful feature we are adding is a personal dog companion is coming to help you unleash the power of Bugs+! It can help you with all sorts of things.
+
+**How can I unlock the Personal Dog?**
+
+To unlock your Personal Dog, get to Level 31, then you should receive a gift box. It will contain 1000 Bug Points, 20 Stars, Your Personal Dog, and a Tip relating to how to level up and train your Personal Dog. You will then, after unlocking, go through a short tutorial on how to use the Dog.
+
+**How can I level up my Personal Dog?**
+
+Your Personal Dog also has levels as well - just like you do. To level up your dog, interact with your dog and do Dog Tasks for it. Your Personal Dog starts at Level 1 when it first greets you, and can go all the way to Level 16.
+
+After Dog Level 16, the Gift Boxes it gives you will be more valuable.
+
+The dog’s level’s is called Dog Levels, and it is different from your normal levels.
+
+**Can the dog die?**
+
+No, not at all. Your Personal Dog is always alive, and always wants to help you.
+
+**What can my Personal Dog help me with in Bugs+?**
+
+Your Personal Dog is more than just a thing that looks nice - it is a companion that actually helps you unleash the power of Bugs+. Your Personal Dog can do these things:
+
+* **Give you Gift Boxes now and then** - Just like normal progression, as you Level Up the dog, play with it, help it and it helps you, you will receive a Gift Box. The more you level up, the more valuable the gift. From Level 1 to 4, your dog will give you Bug Points, Common Trading Cards and Tips. From Level 5 to Level 9, your dog will give you Bug Points, Materials, Common Uncommon or Rare trading cards and tips. Above Level 10 to Level 15, your dog will give you Bug Points, Stars, Materials, Uncommon, Rare or Ultra Rare Trading cards, and Tips. On Level 16, your dog will give you Bug Points, Stars, Materials, Uncommon, Rare, Ultra Rare or Legendary Trading cards, Daily Quest Refreshers and Tips.
+* **Daily Quests Helper** - Starting from Dog Level 2, your dog will be able to bark, jump and show text to alert you when there there are rewards to claim, or new quests. But, starting from Dog Level 9, your dog will do that, but sometimes claim daily quest rewards for you.
+* **Quiz Hints** - Starting from Dog Level 5, your dog will give you 1 hint per quiz. Simply press Ask Dog For Hints on a quiz to ask your dog for help. On Dog Level 11, your dog will give you 2 hints per quiz.
+* **Limited Time Card Reminder** - Your dog will bark, jump and show text to alert you when there are limited time cards you don’t know about (or did not check the Shop for). Starting from Dog Level 4, your dog will give you a short Tip about how to save up for it, and if it is worth it and this time.
+* **Tip Finder** - From the Personal Dog Menu, you can ask your dog to sniff out potential tips to snap with the Tips Camera. Your dog can get 4 successful tips for you per day. The Dog will also snap it for you, and failed snaps don’t count towards the 4 per day limit. You will also be able to watch your Personal Dog while you wait.
+* **Dog Commands** - You can ask your dog to do all sorts of things for you, from the Personal Dog menu.
+
+**Can I name my Personal Dog?**
+
+Yes, you can. Firstly, go to the Personal Dog tab on the sidebar (the dog icon), then next to the dog’s name, press Rename Dog, set a name, and confirm.
+
+The dog’s name by default is Personal Dog. Your Dog may still be called Personal Dog when referring to the Personal Dog feature.
+
+**Where is the Personal Dog Menu?**
+
+With the Personal Dog Menu, you can manage things about your dog, ask it to do Dog Commands, check on it‘s Dog Level and many more.
+
+To access the Personal Dog Menu, access the Personal Dog tab on the sidebar (the dog icon). This tab will only show when you have unlocked the Personal Dog.
+
+Here, you can:
+
+* See your Personal Dog‘s Dog Level
+* Tell your dog to do Dog Commands
+* See your Dog and what it is doing
+* Play with your dog
+* And more
+
+**How can I give the Personal Dog dog treats?**
+
+Firstly, go to the Personal Dog tab on the sidebar (the dog icon) then press Give Dog Treats. You can use dog treats right in the moment, and each one costs 300 Bug Points. Dog Treats levels up the Dog by a bit, but it usually does not do it straight away, it may take a couple of Dog Treats to do this.
+
+**Tell your Dog to do Commands**
+
+In the Personal Dog Menu, there are a wide range of commands you can tell your dog to do.
 
 ### Update Coming Soon!
 
