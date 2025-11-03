@@ -1135,6 +1135,10 @@ Social Vouchers can:
 
 To use them, when an opportunity hits time, you will be prompted.
 
+**About the Personal Bubble in Social Features on Bugs+ In VR**
+
+If someone is touching each other or too close to eachother in Unleash HQ and Unleash Rooms, they will fade out a bit on both the user’s screens (not everyone’s) on Bugs+ In VR, until they move further away. This is to ensure safety.
+
 **About the Portable Crafting Table**
 
 Even though this may not seem related, but it is. You can use it to boost community crafts plus your personal crafts, even while in Unleash HQ and rooms.
