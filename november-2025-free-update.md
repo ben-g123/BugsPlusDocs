@@ -1153,6 +1153,10 @@ Click on a Gallery to see the trading cards inside it. You can display up to 7 c
 
 In some cases, users can see your trading card collection if displayed in Personal Gallery. If someone finds a trading card in your Gallery that catches your eye, they can Duel it. They will choose some points to use as an offer. They can offer you Bug Points in bundles of 500 points, they can choose how many bundles to offer. If you accept the Duel, the displayed trading card will be removed from your Gallery and given to the person who offered the points, but you will get the Bug Points.
 
+**About the Joinable status**
+
+Friends on your Friends List can join the Unleash HQ or Unleash Rooms you are in. You can change this in your Settings. You can choose from Joinable (your friends can join you plus they will see you are online and what social feature you are using), Online Status Only (they can see you are online, but cant join you without an invite, and they can only see if you are interacting with a social feature if online), or No Status (your friend will see Active Status Hidden).
+
 **About the Portable Crafting Table**
 
 Even though this may not seem related, but it is. You can use it to boost community crafts plus your personal crafts, even while in Unleash HQ and rooms.
