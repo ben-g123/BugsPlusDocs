@@ -1139,7 +1139,19 @@ To use them, when an opportunity hits time, you will be prompted.
 
 If someone is touching each other or too close to eachother in Unleash HQ and Unleash Rooms, they will fade out a bit on both the user’s screens (not everyone’s) on Bugs+ In VR, until they move further away. This is to ensure safety.
 
-\*\*
+**About Personal Galleries in Unleash HQ and Unleash Rooms**
+
+Each user in Bugs+ who uses the social features gets a Personal Gallery. The Gallery is a free item that you can use to show off your collection in the Unleash HQ and Unleash Rooms.
+
+Galleries will be randomly cycled through and displayed as a Immersive Object. 2 Galleries can be displayed at once. The Galleries displayed there will randomly change from time to time.
+
+In Unleash Rooms, the person who created the Gallery can choose users to display their galleries in a dedicated area.
+
+Click on a Gallery to see the trading cards inside it. You can display up to 7 cards here. To change it, go to the Community tab on the sidebar (the cell phone tower icon) and click Displayed Trading Cards.
+
+**What are Duels?**
+
+In some cases, users can see your trading card collection if displayed in Personal Gallery. If someone finds a trading card in your Gallery that catches your eye, they can Duel it. They will choose some points to use as an offer. They can offer you Bug Points in bundles of 500 points, they can choose how many bundles to offer. If you accept the Duel, the displayed trading card will be removed from your Gallery and given to the person who offered the points, but you will get the Bug Points.
 
 **About the Portable Crafting Table**
 
