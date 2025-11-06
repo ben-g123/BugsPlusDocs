@@ -848,7 +848,7 @@ You can do the following things:
 * Use the Bugs+ Menu while interacting with friends
 * And more, we are planning to add a lot
 
-**Community Picked Immersive Objects**
+**Community Picked Immersive Object**
 
 Now and then, Immersive Objects will change time to time in Unleash HQ. They will feature combined totals of user’s points, tips, Quiz Of The Day, and other things. You can still see the widgets in 2D on Desktop, but it may not be immersive, and Action Buttons won‘t work until you use Bugs+ In VR.
 
@@ -966,6 +966,16 @@ Sometimes, Emotes may be automatically used to celebrate certain things. Here is
 **Can I use menus while in Unleash HQ or Unleash Rooms?**
 
 Yes you can. Just go to the Bugs+ Menu are in the Main Area in Bugs+ In VR and do what you need to do, or on desktop, press the Menu icon, then press Respawn & Multitask. This will respawn you if you are not near where normally the big menu is, but you can multitask and switch screens without leaving.
+
+**About the Discovery Area within Unleash HQ and Unleash Rooms**
+
+Each Unleash HQ and Unleash Rooms instance comes with a dedicated Discovery Area.
+
+You can find the Discovery Area by going forward from the main area (where your Menu is, or on Desktop, the spawn area) until you see a area labelled Discovery Area.
+
+Here, you can discover and find:
+
+* Really Open
 
 **About the Community Crafting Table in the Unleash HQ**
 
@@ -1154,9 +1164,7 @@ If someone is touching each other or too close to eachother in Unleash HQ and Un
 
 Each user in Bugs+ who uses the social features gets a Personal Gallery. The Gallery is a free item that you can use to show off your collection in the Unleash HQ and Unleash Rooms.
 
-Galleries will be randomly cycled through and displayed as a Immersive Object. 2 Galleries can be displayed at once. The Galleries displayed there will randomly change from time to time.
-
-In Unleash Rooms, the person who created the Gallery can choose users to display their galleries in a dedicated area.
+Galleries are shown in the Discovery Area of Unleash HQ and Unleash Rooms. You can find it by going forward from the main area (where your Menu is, or on Desktop, the spawn area) until you see a area labelled Discovery Area.
 
 Click on a Gallery to see the trading cards inside it. You can display up to 7 cards here. To change it, go to the Community tab on the sidebar (the cell phone tower icon) and click Displayed Trading Cards.
 
