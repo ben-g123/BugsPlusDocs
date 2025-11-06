@@ -278,9 +278,17 @@ When the update releases, these steps will work. Follow these steps to setup VR:
 7. Then, press Next on your computer and you will get a code. Enter that code on your phone on the screen you are on and wait for it to say Press Next On Your Computer. Then, press Next on your computer. It will connect, then press I’ve Connected on your phone.
 8. On the screen that says Put Your Phone In Your VR Headset and includes instructions on how, put your phone in the VR headset and attach it to the thing that makes your phone stay in if any. Then, press I’ve done it.
 9. Put on your VR headset. Prepare your area, your VR then follow the setup steps. A dot will appear in the middle of the screen. Just move your headset (or head) to move the dot, then make the dot over a button you want to press, and wait for the 2 second mini-sized countdown where the dot is located. Or, connect a Bluetooth controller and press the A button on your controller to confirm the blue dot without the countdown, if configured.
-10. Your VR is ready for use! Feel free to switch between your computer and VR anytime.
+10. Now it is time for Part 2.
+11. Your VR is ready for use! Feel free to switch between your computer and VR anytime.
 
 You only need to do this setup once, but you may need to do it again if you Unpair or setup a different phone.
+
+**VR Setup (part 2)**
+
+After doing the core setup of Bugs+ In VR, you need to do a bit of configuration. Once you got up to Part 2, follow these steps:
+
+1. Put on your VR headset. Prepare your area, your VR then follow the setup steps. A dot will appear in the middle of the screen. Just move your headset (or head) to move the dot, then make the dot over a button you want to press, and wait for the 2 second mini-sized countdown where the dot is located. Or, connect a Bluetooth controller and press the A button on your controller to confirm the blue dot without the countdown, if configured.
+2. There will be a short tutorial. In the first step in the tutorial, it will say you need to practice selecting, plus steps to select something. Remember how you need to look at something for 2 seconds or select it with your controller? Exactly like this! Select the Next button using the skill you just learnt.
 
 **How will the user experience immersive in VR?**
 
