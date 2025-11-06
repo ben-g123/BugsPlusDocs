@@ -786,11 +786,14 @@ This is a game changer for interaction! For the first time in Bugs+, we are intr
 
 We are introducing the following social features:
 
-* **Unleash HQ** - In Unleash HQ, you can interact with other users, in a dedicated Hub Space. Each Unleash HQ can hold up to 9 users. It is a pretty wide space, and for the first time, there are arrows that you can look at for 2 seconds to move.
-* **Unleash Rooms** - You can invite up to 2 to 4 other friends from your Friends List to a Unleash Room. You can interact with them, and you can even look at information together, do quizzes together, talk to each other using chat (we promise that we have strict chat rules with no swearing and no abuse), and even watch someone else do a task or gather around a Immersive Material Exchange.
-* **Friends List** - You can Friend your friends, and people that you liked meeting up with and want to interact with more, and invite them to Unleash HQ, Unleash Rooms, and more.
-* **Bugs+ Scrolling Feed** - When you craft something, finish a quite big refund, level up at to a notable milestone, get limited time cards or do something pretty big, your friends can scroll through their **Bugs+ Scrolling Feed** to see your and other friend’s progress, and send you encouragement notifications, and the other way around as well.
-* **Shared Tasks & Gameplay** - When starting a craft, refund, get a Gift Box or want to team up in a limited time event, you can split up the rewards between you and friends (sharing is caring, and is now the shared unleashage key) and give your friends updates on it. You can do this through the “Share Rewards” feature if you have friends on your Friends List. You can add up to 2 other friends (so that means you can have up to 3 users getting the rewards at once including you).
+* The 3 Meet Up Areas
+  * **Unleash HQ** - In Unleash HQ, you can interact with other users, in a dedicated Hub Space. Each Unleash HQ can hold up to 9 users. It is a pretty wide space, and for the first time, there are arrows that you can look at for 2 seconds to move.
+  * **Unleash Rooms** - You can invite up to 2 to 4 other friends from your Friends List to a Unleash Room. You can interact with them, and you can even look at information together, do quizzes together, talk to each other using chat (we promise that we have strict chat rules with no swearing and no abuse), and even watch someone else do a task or gather around a Immersive Material Exchange.
+  * **Unleash Worlds** - Unleash Worlds are public, time limited, and user created meet up areas. This is similar to Unleash Worlds, but users can customize it a lot.
+* More Useful Social Features
+  * **Friends List** - You can Friend your friends, and people that you liked meeting up with and want to interact with more, and invite them to Unleash HQ, Unleash Rooms, and more.
+  * **Bugs+ Scrolling Feed** - When you craft something, finish a quite big refund, level up at to a notable milestone, get limited time cards or do something pretty big, your friends can scroll through their **Bugs+ Scrolling Feed** to see your and other friend’s progress, and send you encouragement notifications, and the other way around as well.
+  * **Shared Tasks & Gameplay** - When starting a craft, refund, get a Gift Box or want to team up in a limited time event, you can split up the rewards between you and friends (sharing is caring, and is now the shared unleashage key) and give your friends updates on it. You can do this through the “Share Rewards” feature if you have friends on your Friends List. You can add up to 2 other friends (so that means you can have up to 3 users getting the rewards at once including you).
 
 **How can I access the Unleash HQ?**
 
