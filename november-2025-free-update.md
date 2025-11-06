@@ -975,7 +975,9 @@ You can find the Discovery Area by going forward from the main area (where your 
 
 Here, you can discover and find:
 
-* Really Open
+* Take a look at other people’s **Galleries**
+* **Discover new features in Bugs+** as a group or by yourself
+* Discover new **Unleash Worlds** and switch between them
 
 **About the Community Crafting Table in the Unleash HQ**
 
