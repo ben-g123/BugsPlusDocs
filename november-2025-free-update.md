@@ -1217,6 +1217,14 @@ We will call this the **Newsstand** icon. It will look like a newspaper icon whe
 
 We will be also adding the Bugs+ Newsstand in the discovery area on the Bugs+ HQ, and as an option in Share Experiences in the social features. Imagine if there is a Limited trading card in Bugs+ that you don’t want your friends or anyone in the Bugs+ HQ to miss.
 
+**What happens when I use Bugs+ Newsstand for the first time?**
+
+As soon as you access Bugs+ Newsstand for the first time, Bugs+ Newsstand loads for the first time or you get redirected to a Newsstand article (and you did not do the Newsstand questions), you will be asked a few questions to personalize your experience. After opening for the first time, this is what you will need to do and what will show:
+
+1. **Firstly, you will get a greeting message** - Bugs+ Newsstand will give you a welcome message and a short description with what Bugs+ Newsstand actually is and what it does just in case you don’t know. After reading that, tap Next.
+2. **Then, select what you define breaking news as in Bugs+** - You will have an opportunity to make the Bugs+ Newsstand article display more personalized. This means you can select what you want breaking news to actually mean on your Bugs+ Newsstand. Select from Latest Major Updates and News or Everything in the last week.
+3. **After that, you are ready to go off and start reading Bugs+ Newsstand articles** - No complicated setup, you are free to go off and start using Bugs+ Newsstand without needing to do the greeting process again.
+
 ### Action Button
 
 This is the **ease of use improvement** we were talking about. This makes it easy to access actions you use a lot, all without navigating though menus. And. It is totally customizable, you can choose exactly what it does from our collection of actions.
