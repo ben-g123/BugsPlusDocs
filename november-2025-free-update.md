@@ -2,7 +2,7 @@
 
 A free update in Bugs+ is coming soon at 19th November 2025, with some new features coming that may totally change how you play Bugs+. Let’s talk about what we will be adding. Even though Bugs+ is free, we call it a free update to confirm to users they don’t need to pay anything to unlock the features of the update when it releases.
 
-We are introducing 7 new major features that will totally change how you use Bugs+, plus 2 ease of use improvements, but in a good way. This makes a total of 9 useful features. You will definitly want to see this! It gotta help you unleash the power of Bugs+!
+We are introducing 8 new major features that will totally change how you use Bugs+, plus 2 ease of use improvements, but in a good way. This makes a total of 10 useful features. You will definitly want to see this! It gotta help you unleash the power of Bugs+!
 
 ### Difficulty Setting
 
@@ -1198,6 +1198,24 @@ Here is a list of the available features in the Portable Crafting Table:
 * **Cash In Materials For Community Crafting** - This is the only option available when a Community Crafting session is in progress. This lets you cash in Materials from weather you are on in the Unleash HQ. Can only be used when a Community Crafting session is in progress in an Unleash HQ.
 
 However, after 18 unleashes, the Portable Crafting Table will automatically break and smash itself. This means, you will be prompted to get a new one, and you can’t use it until you go to the Bug Point shop and spend your Bug Points on it. However, 18 uses is a great deal!
+
+### Bugs+ Newsstand
+
+We need a way to put all the latest news in Bugs+ in one place, not cluttered all other the place, like how the BugOn used to rely on emails and YouTube videos. The good news is that we are introducing a feature to do this, and we will call it Bugs+ Newsstand. It will be available the second the free update releases. When this happens, update your Bugs+, and Bugs+ Newsstand will unlock! This is a major improvement from our other Bugs+&#x20;
+
+**What is Bugs+ Newsstand?**
+
+Bugs+ Newsstand is a personalized, central place for all kinds of news for Bugs+, all available for free with no paywalls, subscriptions, plus totally no ads or popups. You can see new or upcoming features, breaking news in Bugs+, new discoveries in Bugs+, new trading cards, interesting news and many more types of news.
+
+You will also be notified when there is new news articles, so you can be ready to check your feed when there are actually new things to check out.
+
+**Where is the Bugs+ Newsstand?**
+
+We normally don’t change the Home tab interface unless there is a major, notable free update like this one and we think it deserves a redesign, and, this is a major, notable free update, so we will be adding a new button to the Home tab on the sidebar (the house icon, which automatically gets opened when you open Bugs+ or return from a full screen experience or quiz).
+
+We will call this the **Newsstand** icon. It will look like a newspaper icon when viewed on the Home tab. Clicking on it will open Bugs+ Newsstand. To increase visibilty, it will also be available by going to the More tab on the sidebar (the 3 dots icon) and clicking the button labelled Bugs+ Newsstand.
+
+We will be also adding the Bugs+ Newsstand in the discovery area on the Bugs+ HQ, and as an option in Share Experiences in the social features. Imagine if there is a Limited trading card in Bugs+ that you don’t want your friends or anyone in the Bugs+ HQ to miss.
 
 ### Action Button
 
