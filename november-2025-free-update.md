@@ -1225,6 +1225,59 @@ As soon as you access Bugs+ Newsstand for the first time, Bugs+ Newsstand loads 
 2. **Then, select what you define breaking news as in Bugs+** - You will have an opportunity to make the Bugs+ Newsstand article display more personalized. This means you can select what you want breaking news to actually mean on your Bugs+ Newsstand. Select from Latest Major Updates and News or Everything in the last week.
 3. **After that, you are ready to go off and start reading Bugs+ Newsstand articles** - No complicated setup, you are free to go off and start using Bugs+ Newsstand without needing to do the greeting process again.
 
+**How can I read Bugs+ Newsstand articles?**
+
+Press the newspaper icon by going to the Home tab on the sidebar (the house icon) and then select the Newspaper icon, or use any other method that opens Bugs+ Newsstand. Then, you will see a feed with headlines and short descriptions. Tap on a headline to enter full screen view, where you can view and take action on a Newsstand article.
+
+The feed within Bugs+ Newsstand has pages. To move between pages, you need to either scroll down or up using the trackpad, use the arrow keys on your keyboard, or use the on-screen arrow keys.
+
+When in an article, you can scroll the same way - you can to scroll down or up using the trackpad, use the arrow keys on your keyboard, or use the on-screen arrow keys.
+
+**Upvote or downvote a news article**
+
+As long as the news article is still on the first 3 pages of Bugs+ Newsstand, you can give feedback to the publisher. To do this, click on a Newsstand article to open it in full screen, and find the up and down buttons.
+
+Click on the up button for up votes, which are used for quality, necessary and useful articles, and click on the down button for down votes, which are used for rushed, bad quality, non necessary and useless articles.
+
+The person who made the article will be notified, plus continuous downvotes may result in article removal.
+
+**Filter out old Newsstand articles**
+
+If you would rather be blocked from scrolling too far and getting to old articles, you can filter out Bugs+ Newsstand articles that are outdated. This only filters out it from your feed, not opening the article from clicking on a link inside Bugs+ that links to the Newsstand article. To do this, follow these steps:
+
+1. **Open Bugs+ Newsstand first.** Press the newspaper icon by going to the Home tab on the sidebar (the house icon) and then select the Newspaper icon, or use any other method that opens Bugs+ Newsstand.
+2. **Open the Bugs+ Newsstand settings.** - Tap the gear icon with a Settings label next to it on your feed to open your Bugs+ Newsstand settings.
+3. **Tap Feed Quality & Outdated Articles** - On the Settings, tap Feed Quality & Outdated Articles.
+4. **Select an option** - Under Outdated Articles, select an option of when to hide articles. By default, it is set to When Bugs+ Does It. You can select from various options.
+
+Here is the options you can select from for Outdated Articles hiding:
+
+* When Bugs+ Does It (default)
+* After 12 Pages
+* After 9 Pages
+* After 5 Pages
+* After 4 Pages
+
+**How does the Bugs+ Newsstand feed work?**
+
+There will be 4 to 8 articles per page. Each article will show up as a box with a short headline, and if there is space and it is worth it, the first few sentences of the article. Clicking on it opens full screen mode where you can scroll through the article, upvote and downvote. You will be able to move between pages as well.
+
+Articles are only about Bugs+ related things.
+
+**How do I track BugOn 2026 related info and onwards tasks and more in one place using Bugs+ Newsstand?**
+
+As well as we publishing articles relating to BugOn during or new BugOn events, during a BugOn, a banner will appear on the top of the first page on the Bugs+ Newsstand feed, which tapping on it, will let you see your BugOn tasks and vaildiate them, without contacting support. For users that prefer the contacting support method or are having trouble with Newsstand, we still support it, and will be available as a legacy option.
+
+This will be available on BugOn 2026 or later events, and has not been available as an option in past events.
+
+This is due to user feedback about contacting support being not necessary for tasks like getting Bug Points or stars, but we accept our new method for every task.
+
+**How will I get notified of new Bugs+ Newsstand articles?**
+
+We may notify you via popups when there is a article you should check out. We check for new articles every time you open Bugs+. If we find a new article, we will notify you a few minutes after Bugs+ finishes loading up.
+
+You can also change this like if you don’t want to be notified of new articles or want to get article notifications back after turning it off.
+
 ### Action Button
 
 This is the **ease of use improvement** we were talking about. This makes it easy to access actions you use a lot, all without navigating though menus. And. It is totally customizable, you can choose exactly what it does from our collection of actions.
