@@ -293,9 +293,9 @@ Here are some of the things that make using Bugs+ In VR immersive.
 * **The Final 8 Second Siren Countdown** - In the last 8 seconds of a refund started in Bugs+ In VR, the 8 second siren will fill the virtual environment. It will make the siren noise, show sirens blaring in the environment, and show an action panel. It’s a full screen immersive time sensitive moment.
 * **Enhanced Experiences, now in Bugs+ In VR** - Inspired by Hub Mode, some Enhanced Experiences will be added due to the bigger and more immersive area. For example, the questions and choices will appear on the left, and the high quality big bug image will show on the right, no Hub Mode required.
 * **Immersive Notifications** - As soon as you get a Real time Notification, it will appear in front of you. Not all notifications will support it to make it less distracting, only notifications relevant now.
-* **Do Tasks In Bugs+ In VR** - The game panel will appear in front of you, plus full screen immersive experiences may be available or show up time to time.
-* **Your Immersive Environment** - When you are not immersed in full screen experiences on Bugs+ In VR, your Immersive Environment will show up. It is like your home or head quarters for your Bugs+ In VR unleashage sessions. A big panel will appear in front of you, which is the Bugs+ menu, and you can do the things you need to do in Bugs+, and start immersive experiences if you want. Your Immersive Objects will also appear there, which are little items that can help you while not in a full screen experience or give you information.
-* **Floating Tips** - The Tips may float sometimes around you, and you can press on it to snap a photo.
+* **Do Tasks In Bugs+ In VR** - Bugs+ will feel immersive in VR. Even while in a non immersive experience while in VR, we have taken the time to redesign the buttons in VR so they feel like your personal Bugs+ command center, and the buttons feel more immersive in VR. Instead of static and boring buttons, the buttons will be in different areas of the screen to optimize immersion, and will have a more immersive layout.
+* **Your Immersive Environment** - When you are not immersed in full screen experiences on Bugs+ In VR, your Immersive Environment will show up. It is like your home or head quarters for your Bugs+ In VR unleashage sessions. Here, you will be able to do tasks in VR, check out and launch parts of Bugs+ and more. Immersive Objects will also appear there, which are little items that can help you while not in a full screen experience or give you information.
+* **Floating Tips** - The Tips may float sometimes around you, and you can press on it to snap a photo. We have redesigned this to feel more immersive.
 * **Immersive Material Exchange** - Opening Material Exchange in Bugs+ In VR will be immersive. There will be a workshop table, and it looks like you are actually crafting. This is a game changer for people who want crafting to be immersive, and want to unleash the power of Bugs+ In VR!
 * **Interact with other users and friends in VR** - With our new social features, you can connect with your friends, and meet new users in Bugs+ In VR.
 * **Immersive Notifications** - Immersive Notifications will appear right in front of you and are different from the built in notifications that is included in every Bugs+ application. You can turn them off and on from the Action Bar, or from Settings. They are on by default, and you will never miss the time to unleash the power of Bugs+ In VR.
@@ -309,7 +309,7 @@ Not everything, but most things. This is to prevent Bugs+ In VR from crashing.
 
 There are two main ways to control the experience and press buttons.
 
-A dot will appear in the middle of the screen. Just move your headset (or head) to move the dot, then make the dot over a button you want to press, and wait for the 2 second mini-sized countdown where the dot is located. Or, connect a Bluetooth controller and press the A button on your controller to confirm the blue dot without the countdown, if configured.
+A dot will appear in the middle of the screen. Just move your head to move the dot, then make the dot over a button you want to press, and wait for the 2 second mini-sized countdown where the dot is located. Or, connect a Bluetooth controller and press the A button on your controller to confirm the blue dot without the countdown, if configured.
 
 **How can I change Bugs+ In VR Settings?**
 
@@ -319,18 +319,14 @@ There is multiple sections in Bugs+ In VR Settings, including:
 
 * **Immersion Level** - Here you can set how immersed you want to be. By default if you don’t change it is More Immersion. You can set it to Less Immersion (things may not be immersive as documented) or More Immersion. Both are very safe anyways, so you are less likely to get hurt.
 * **Immersive Notifications** - This lets you set if Immersive Notifications will show up or not. You can set it to Immersive Notifications and Normal Notifications or Normal Notifications Only. Normal notifications are the ones you can see from the Notification bell on the Home tab in the sidebar (the house icon), and the ones that you can see on all your devices, but don’t pop up. This is on by default.
-* **Headset Type** - Here you can set if you are using a DIY headset or a Non-DIY Approved Headset. Please be honest, choosing the wrong one may make the experience weird.
 * **Homepage Environment** - Here you can set the Immersive Environment, turn on Show Trading Cards Count On Homepage or manage immersive objects.
-* **Show Trading Cards Count On Homepage** - This is located in Immersive Environment, so not a seperate area in Settings, but we wanted to show it off anyway. This is the familiar feature where you can show the trading cards count on your homepage if you want. This is off by default.
+* **Show Trading Cards Count On Homepage** - This is located on your Home Area, so not a seperate area in Settings, but we wanted to show it off anyway. This is the familiar feature where you can show the trading cards count on your homepage if you want. This is off by default.
 * **Environment setup** - Switch boundaries and more specially for your VR unleashage space and environment.
 * **Unpair** - This unpairs the headset from the BugID and takes you back to the Headset setup screen. This will also reset the Bugs+ In VR settings for the headset.
 
 **How does Bugs+ In VR enforce safety?**
 
-* Bugs+ In VR sets an automatic boundary around you. It will be square shaped, and when you go near it, yo headset will warn you via an Immersive Notification, and it will show regardless of your settings. Going outside of the boundary will show your surroundings via your phone’s back camera, and stop showing any experiences. You will need to recenter the boundary to continue by pressing Recenter. Only Recenter the boundary in a safe place. The boundary can’t be turned off.
 * Reminders to Take A Break every 20 minutes. This will show up on your VR experience, and may temporally pause what you are doing and to dismiss it you need to wait 6 seconds. When you do this, you should take a break, and it is recommended. The Take A Break reminders can’t be turned off.
-* Users can enable and disable Passthrough Mode from the action menu to check on their surroundings anytime.
-* During intense events with lots of movement or risk of falling over, Passthrough may enable automatically for up to 4 seconds. To increase immersion while improving safety, Passthrough activating automatically won’t be in an annoying way. This is a required safety feature.
 * VR Safety Tips may appear as a tip while using the Tips Camera. This is an occasional event and does not happen all the time. The safety tip will also be saved to your Unlocked Tips, Tricks & Info area just like other tips. If the system chooses a VR Safety tip, the photo will always snap with a gift box.
 
 **How do I unpair Bugs+ In VR?**
@@ -353,25 +349,20 @@ You may need to recenter if
 * Parts of the screen aren’t in front of you or you have to turn to see them.
 * The dot in the middle is acting a bit odd and it usually does not.
 * You can’t find the dot.
-* You went outside of the automatic boundary and are asked to go in a safe area and Recenter.
 * You can't see the menu or cursor at all.
-* You want to re make your boundary.
 
 How to recenter your view:\
 To recenter your view, go outside the boundary, then go back in your boundary, and press Recenter. Make sure to do this safely. Or, press the Action Menu bar that appears somewhere on your view. Then a menu will appear with some options. The menu will disappear after a few seconds as well.
 
-Your boundary will also be re-made automatically.
-
 **Quickly change and access common features & settings while immersed in Bugs+ In VR**
 
-You may want to change settings, but you may also be immersed on in something time sensitive, but you can use this anytime. To quickly change and access things, press the Action Menu bar that appears somewhere on your view. Then a menu will appear with some options. The menu will disappear after a few seconds as well.
+You may want to change settings, but you may also be immersed on in something time sensitive, but you can use this anytime. To quickly change and access things, press look down to see a Star icon (it will appear next to the Home icon) that appears somewhere on your view. Then a menu will appear with some options. To close the menu press the X icon.
 
 You can change these without going anywhere else:
 
-* **Recenter View** - Recenter your view quickly without going outside of the boundary.
+* **Recenter View** - Recenter your view quickly.
 * **Immersion Level** - Quickly Change your Immersion level to either Less Immersion or More Immersion without leaving the menu.
 * **Immersive Notifications** - Quickly turn on or off Immersive Notifications, like if you are ready to get them or don’t want to be distracted.
-* **Passthrough Mode** - This turn in your phone’s back camera to your surroundings in the background VR environment, and if Passthrough Mode is on already, it will turn it off. While using this mode, the boundary will get bigger since you can see your surroundings.
 * **Portable Crafting Table** - This lets you use the functions of the Portable Crafting Table item. Only shows if you have the item in your inventory.
 * **Respawn** - Appearing on only Unleash HQ and Unleash Rooms, this lets you respawn back to the main area, the Menu, without leaving. Only appears in Unleash HQ and Unleash Rooms.
 * **Respawn & Leave** - This Leaves the Unleash HQ or Unleash Room and respawns back to the Menu. Only appears in Unleash HQ and Unleash Rooms.
@@ -464,17 +455,7 @@ Look at the craft on your workbench that you want to rush the timer for 2 second
 
 <summary>Can I use Immersive Material Exchange in Mixed Reality?</summary>
 
-Yes, you can. As well as using Material Exchange in an immersive full screen experience, you can make it look like the workbench is in your house. To do this, use the Action Bar to open the action menu, then press Passthrough Mode. The workbench will show as well as your surroundings, plus the boundary will get bigger.
-
-If you plan on using it every single time, you can automate turning it on, by follow these steps:
-
-**To use Mixed Reality every time:**
-
-1. Go to the Settings tab on the sidebar (the gear icon) on your Bugs+ In VR, or use the action bar and select Settings.
-2. Press **Environment setup** on the list of options.
-3. Press **Automatically use Mixed Reality in compatible experiences every single time**. This will turn it on if not already enabled, or turn it off if it is enabled.
-
-This applies to all compatible experiences.
+No you can’t, but maybe in the future.
 
 </details>
 
@@ -495,47 +476,6 @@ As well as earning Materials from Gift Boxes, you can also buy them using your B
 1. Find the Help Earning Materials Button. It will appear next to your Materials count on the screen on your VR workbench. Look at it for 2 seconds, or click on it with your controller.
 2. A list of buttons will appear on the screen on your VR workbench. Look at Buy Materials for 2 seconds, or click on it with your controller. If you have more than 55 Materials, only the guides for getting materials will show.
 3. Press on Get 20 Materials for 2750 Bug Points or press Get 30 Materials for 3250 Bug Points (Value Pack). There is no such thing as offer selection in Bugs+ In VR, so there are static offers instead.
-
-</details>
-
-**Environment setup**
-
-In Bugs+ VR, you can use **Environment setup** to manage boundaries and more.
-
-<details>
-
-<summary>Switch between boundary sizes</summary>
-
-In Bugs+ In VR, there are two types of boundaries. One is the Normal Boundary, and the other is a Small Boundary. Use the Normal Boundary for general play and Small Boundary for sitting down and tiny play spaces.
-
-**To switch between boundary sizes:**
-
-1. Go to the Settings tab on the sidebar (the gear icon) on your Bugs+ In VR, or use the action bar and select Settings.
-2. Press **Environment setup** on the list of options.
-3. Select Normal Boundary or Small Boundary. Switching to another one will **Recenter your view** to apply the boundary settings and make sure it works properly.
-
-You can also tap **Recenter View & Boundary** on that screen if you need to Recenter it again while experimenting with boundary sizes.
-
-</details>
-
-<details>
-
-<summary>Automatically enable Passthrough in compatible full screen experiences</summary>
-
-If you want to use mixed reality every time you use a compatible expirence, you can enable a setting to do that automatically. When you enter the expirence, Passthrough will enable, and when you leave, Passthrough will disable. Even with this mode on, you can still turn off Passthrough from the Action Bar.
-
-If you want to do it manually, you can leave this off and enable Passthrouhg yourself from the Action Bar, the automatically enable setting is not required for Mixed Reality, it is just an automated way to turn it on.
-
-**To use Mixed Reality every time:**
-
-1. Go to the Settings tab on the sidebar (the gear icon) on your Bugs+ In VR, or use the action bar and select Settings.
-2. Press **Environment setup** on the list of options.
-3. Press **Automatically use Mixed Reality in compatible experiences every single time**. This will turn it on if not already enabled, or turn it off if it is enabled.
-
-**Experiences this will automatically enable it in:**
-
-* Immersive Material Exchange
-* BugOn 2025 Full Screen Announcements (discontinued since BugOn ended)
 
 </details>
 
@@ -609,7 +549,7 @@ There are many other settings we may of not documented, check them out and unlea
 
 **Immersive Objects in your Immersive Environment**
 
-On your Immersive Environment, there may be objects other than the Bugs+ Menu. These are called Immersive Objects. They may be able to let you take action quickly, or give you helpful information. These are inspired by Hub Mode widgets. You can also check these while immersed as well.
+You can add widgets that you can check while in the Home area. You can see them by selecting Show Widgets in the right. These are called Immersive Objects. They may be able to let you take action quickly, or give you helpful information. These are inspired by Hub Mode widgets. You can also check these while immersed as well.
 
 <details>
 
@@ -687,21 +627,7 @@ Immersive Objects will always show in the following positions, so it’s a good 
 
 <summary>Manage when Immersive Objects appear on the Immersive Environment</summary>
 
-You can choose when you want Immersive Objects to even show in your Immersive Environment, which could help control object clutter.
-
-**You can choose from:**
-
-* **Appear all the time when in the Immersive Environment** - This will show your Immersive Objects as soon as you open your Immersive Environment, and hide the widgets when you are not in your Immersive Environment. This is the default setting.
-* **Show the first object added, and show more when the Immersive Objects menu is opened** - This will show the first object added to the list in your Immersive Environment all the time, and to show more, you can look at the Show Immersive Objects button that will appear in the environment for 2 seconds or select it with your controller. Immersive Objects will show for 12 seconds in this mode then minimise again after.
-* **Require Immersive Objects menu to be open to show widgets** - This will hide all widgets on your Immersive Environment initially. To temporarily show widgets, you can look at the Show Immersive Objects button that will appear in the environment for 2 seconds or select it with your controller. Immersive Objects will show for 21 seconds in this mode then minimise again after.
-
-**To change this, follow these steps:**
-
-1. On your Bugs+ In VR, go to the Settings tab in the sidebar (the gear icon), or use the Action Bar and select Settings.
-2. Press Homepage Environment
-3. Press Manage Immersive Objects
-4. Tap Where Immersive Objects Can Be Found
-5. Select when Immersive Objects should show in the environment.
+They appear only when you select Show Widgets, and you can’t change it.
 
 </details>
 
@@ -743,17 +669,13 @@ Make sure to use space wisely and avoid clutter. For users new to Bugs+ In VR, w
 
 </details>
 
-**The Bugs+ Menu, In Bugs+ In VR**
+**About the Home Area, In Bugs+ In VR**
 
-When you are in your Immersive Environment (or if you are in your Passthrough mode when there is no full screen experience), a menu will appear as well. It is like your Bugs+ gameplay projected. This appears when there is no immersive things to show on the menu area.
+The menu in Bugs+ In VR is called the Home Area. This is also known as the sidebar, but it is not really a sidebar anyway. This shows when you are not in either an immersive or non immersive menu activity. Here, names of tabs that usually appear on the sidebar will show, plus buttons to quickly go to some other experiences. They are spread out next to each other in rows, with 3 per row. The first row is the some sidebar buttons, which is Collection, Community and more. The second row lets you open some experiences that people normally open. The third row is a smaller row, it has a few buttons like Settings, notifications, Bugs+ Newsstand and sometimes some more.
 
-But, the menu is a bit different. You should learn about the Navigator. The Navigator is the menu for Bugs+, where you will do your normal gameplay and launch immersive things with a menu.
+If you were told to go to something on the sidebar, like from a guide, and you are doing it in Bugs+ In VR, launch it from the Home Area, since that is the same thing, if you are not in the Home area, open the home area.
 
-On the left side of the Menu, is the sidebar. These are your normal buttons you can press. At the bottom of the Menu, is the activity you are doing and you can switch between it. You can select the gaming icon for the normal Bugs+ Menu, or switch to the social side of things with the person icon. The social activity is basically the Community tab, enhanced. We are planning to migrate the normal Community tab on the VR to a more immersive area to launch social features.
-
-**About the Social Area on the Navigator**
-
-We will get into that soon.
+While immersed or in a non immersive activity, if you want to go to the Home Area, look down to the Home icon, and look at it for 2 seconds or select it with your controller.
 
 **Fix Errors on Bugs+ In VR**
 
