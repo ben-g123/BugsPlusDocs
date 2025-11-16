@@ -248,47 +248,42 @@ However, after 18 unleashes, the Portable Crafting Table will automatically brea
 
 ### Bugs+ In VR
 
-We are happy to introduce that Bugs+ has now been expanded to VR headsets. When the update releases, to get started with VR, you need to print out the DIY headset and glue and fold it together, or use a Non-DIY Approved Phone Headset. We don’t sell VR headsets for users, but we will provide the template to print out. Bugs+ in VR is not a required feature, but still more than an add on.
+We are happy to introduce that Bugs+ has now been expanded to VR headsets. When the update releases, to get started with VR, you will need a phone with a browser, nothing else. No expensive gear, no headsets, but it is still very immersive after our testing. Bugs+ in VR is not a required feature, but still more than an add on.
 
 **When the update releases, to use VR, you will need:**
 
-Remember, this is DIY not a product we sell, so there are steps you can follow to do it without buying a headset. \
-The DIY method is the best way, but see below if you would rather buy one.
+We aim to make VR more accessible to users, including you. You need very little things to start the setup, but you will get very high quality immersive features, which is our promise.
 
-Sometimes we may approve non-DIY headsets, we are not sure we will do this, but this means you can buy headsets that are notable on the internet. We are not a partner, maker or affiliates of these headsets, these are just suggestions, we don’t earn moeny from these headsets.
+You will need:
 
-* Access to a printer to print out the template. We will publish the template when the update releases.
-* Basic Craft supplies such as something to cut the headset out and glue it with
-* A Phone with a Web Browser. It does not matter what phone it is, you just need a phone that has an up to date web browser.
-* Something to hold the phone in the VR headset so your phone and the VR headset does not drop. If you don’t have access to this, you can choose to be careful with holding the phone and the VR at the same time.
-* A way to hold it. You can either hold it with your hands by making sure both the headset and phone is secured,  or add a strap.
-* A space that you will plan to use the VR headset in. make sure the space is safe.
-* Signed into A BugID (which is an account for Bugs+)
+* A BugID (also known as an account)
+* A computer with Bugs+ and logged into with a BugID which you will use to start the setup with
+* A phone with a browser and a front camera. No need for dedicated VR Goggles, Phone VR Headsets, and no need for the latest model (you can still use that but you don’t need it)
+* A safe place to play Bugs+ In VR in. This either means making a small to medium area to play in, or sitting down. If you don’t have one, set one up now.
+
+**How Do I Put On A Bugs+ In VR Headset?**
+
+Simply hold your phone near your face but not too close, and make it feel immersive. Please put the brightness down before doing this since it will hurt your eyes if you don’t. Simple as that, no controllers, no goggles needed. We have proven this is still 99.9% VR and thats why we called it VR. The other 0.1% is that there is no goggles strapped to your face, but it is still immersive.
 
 **How to setup Bugs+ in VR:**
 
 When the update releases, these steps will work. Follow these steps to setup VR:
 
-1. Print out the VR headset template and follow the instructions to make the headset together, usually shown on the place you printed it out from or on a dedicated page on the headset template.
-2. Then, Go on your computer and open Bugs+
-3. Go to the Account tab on the sidebar (the person icon) and press Bugs+ in VR Settings & Setup
-4. Press Setup Bugs+ In VR
-5. Confirm that you have made the headset using Yes, I have made the headset, or grab a copy of the headset template by pressing No, how do I make a headset. Rarely, we will approve certain non-DIY headsets from notable non-scam phone headsets on the internet, but we are not sure we will do this, but if you find yourself having one, press Setup A Approved Non-DIY headset on that screen.
-6. Your computer will show a link that you will need to enter in your browser. Type that in on a browser of your choice. Make sure to bookmark or remember the page since that is the go-to page for accessing VR.
-7. Then, press Next on your computer and you will get a code. Enter that code on your phone on the screen you are on and wait for it to say Press Next On Your Computer. Then, press Next on your computer. It will connect, then press I’ve Connected on your phone.
-8. On the screen that says Put Your Phone In Your VR Headset and includes instructions on how, put your phone in the VR headset and attach it to the thing that makes your phone stay in if any. Then, press I’ve done it.
-9. Put on your VR headset. Prepare your area, your VR then follow the setup steps. A dot will appear in the middle of the screen. Just move your headset (or head) to move the dot, then make the dot over a button you want to press, and wait for the 2 second mini-sized countdown where the dot is located. Or, connect a Bluetooth controller and press the A button on your controller to confirm the blue dot without the countdown, if configured.
-10. Now it is time for Part 2.
-11. Your VR is ready for use! Feel free to switch between your computer and VR anytime.
+1. Go on your computer and open Bugs+
+2. Go to the Account tab on the sidebar (the person icon) and press Bugs+ in VR Settings & Setup
+3. Press Setup Bugs+ In VR
+4. Tap I Have A Phone
+5. Your computer will show a link that you will need to enter in your browser. Type that in on a browser of your choice, on your phone. Make sure to bookmark, add the page to your Home Screen, or remember the page since that is the go-to page for accessing VR, and if you loose it, you may need to get a new link.
+6. Then, press Next on your computer and you will get a code. Enter that code on your phone on the screen you are on and wait for it to say Press Next On Your Computer. Then, press Next on your computer. It will connect, then press I’ve Connected on your phone.
+7. Approve the Camera permission when it pops up. We need this to make it so you can still control the VR (using your head) without controllers, and we won’t spy on you.
+8. On the screen that says Put Your Phone In Your VR Headset and what that means, start doing that. Simply hold your phone near your face but not too close, and make it feel immersive. Please put the brightness down before doing this since it will hurt your eyes if you don’t.&#x20;
+9. Put on your VR headset. Now, lets learn how to select and press buttons in VR. A dot will appear in the middle of the screen. Just move your head to move the dot, then make the dot over a button you want to press, and wait for the 2 second mini-sized countdown where the dot is located. Or, connect a Bluetooth controller and press the A button on your controller to confirm the blue dot without the countdown, if one is connected.
+10. There will be a short tutorial about interacting in VR. The first part of the tutorial is selecting items. Look at the OK button for 2 seconds, or press it with the controller.
+11. The second part is the important safety info. Read it, then look at the I Agree button for 2 seconds or select it with your controller.
+12. The last tutorial step is to learn how to go back to the Home area. It will tell you how. To do this, press the Home button that shows near the bottom of the thing you are doing. You will need to use this to go back to the Home area after doing something.&#x20;
+13. Your VR is ready for use! Feel free to switch between your computer and VR anytime.
 
 You only need to do this setup once, but you may need to do it again if you Unpair or setup a different phone.
-
-**VR Setup (part 2)**
-
-After doing the core setup of Bugs+ In VR, you need to do a bit of configuration. Once you got up to Part 2, follow these steps:
-
-1. Put on your VR headset. Prepare your area, your VR then follow the setup steps. A dot will appear in the middle of the screen. Just move your headset (or head) to move the dot, then make the dot over a button you want to press, and wait for the 2 second mini-sized countdown where the dot is located. Or, connect a Bluetooth controller and press the A button on your controller to confirm the blue dot without the countdown, if configured.
-2. There will be a short tutorial. In the first step in the tutorial, it will say you need to practice selecting, plus steps to select something. Remember how you need to look at something for 2 seconds or select it with your controller? Exactly like this! Select the Next button using the skill you just learnt.
 
 **How will the user experience immersive in VR?**
 
